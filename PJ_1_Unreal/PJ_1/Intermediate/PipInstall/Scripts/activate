@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="F:\PJ_1_Unreal\PJ_1\Intermediate\PipInstall"
+VIRTUAL_ENV="C:\Users\user\Downloads\nijimori\Intermediate\PipInstall"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
