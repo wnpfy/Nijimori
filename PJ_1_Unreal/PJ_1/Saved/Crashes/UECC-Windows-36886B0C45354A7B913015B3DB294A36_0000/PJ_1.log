@@ -1746,25 +1746,3 @@ FPackageName: Skipped package /Game/FBX/rldhk/rldhk_Skeleton has a valid, mounte
 
 
 [2026.04.08-17.57.54:067][934]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
-[2026.04.08-17.57.55:557][934]LogWindows: Error: === Critical error: ===
-[2026.04.08-17.57.55:557][934]LogWindows: Error: 
-[2026.04.08-17.57.55:557][934]LogWindows: Error: Assertion failed: ListHead != ToRemove [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Landscape\Private\LandscapeRender.cpp] [Line: 642] 
-[2026.04.08-17.57.55:557][934]LogWindows: Error: 
-[2026.04.08-17.57.55:557][934]LogWindows: Error: 
-[2026.04.08-17.57.55:557][934]LogWindows: Error: 
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffbeee24028 UnrealEditor-Core.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffbdbc9ae85 UnrealEditor-Landscape.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffbdbc87ae2 UnrealEditor-Landscape.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffbd8c8d30e UnrealEditor-Renderer.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffbd8cbc874 UnrealEditor-Renderer.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffc56bc78e7 UnrealEditor-RenderCore.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffc56bee728 UnrealEditor-RenderCore.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffbeeb0fb72 UnrealEditor-Core.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffbeeb0284f UnrealEditor-Core.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffbeeb02ece UnrealEditor-Core.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffc56c12b19 UnrealEditor-RenderCore.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffc56c13c04 UnrealEditor-RenderCore.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffbef1937cd UnrealEditor-Core.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffbef18c91f UnrealEditor-Core.dll!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: [Callstack] 0x00007ffcee28e8d7 KERNEL32.DLL!UnknownFunction []
-[2026.04.08-17.57.55:557][934]LogWindows: Error: 
