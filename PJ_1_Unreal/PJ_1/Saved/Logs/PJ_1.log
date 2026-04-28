@@ -2563,3 +2563,652 @@ Sampler Limit: 32
 [2026.04.28-15.06.09:705][109]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.28-15.06.09:705][109]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.28-15.06.09:706][109]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.28-15.07.47:414][696]Cmd: TRANSACTION UNDO
+[2026.04.28-15.07.47:414][696]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.08.20:427][448]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36016.339844
+[2026.04.28-15.08.20:676][471]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-15.08.20:676][471]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36016.570312, Update Interval: 333.758362
+[2026.04.28-15.08.38:183][333]Cmd: EDIT COPY
+[2026.04.28-15.08.38:387][352]Cmd: EDIT PASTE
+[2026.04.28-15.08.39:620][491]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-15.08.52:894][991]Cmd: TRANSACTION UNDO
+[2026.04.28-15.08.52:894][991]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-15.09.57:395][566]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-15.10.18:911][930]Cmd: TRANSACTION UNDO
+[2026.04.28-15.10.18:911][930]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-15.10.28:572][951]Cmd: TRANSACTION UNDO
+[2026.04.28-15.10.28:572][951]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.10.28:902][960]Cmd: TRANSACTION UNDO
+[2026.04.28-15.10.28:902][960]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-15.10.29:232][978]Cmd: TRANSACTION UNDO
+[2026.04.28-15.10.29:232][978]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.14.32:575][984]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36373.101562
+[2026.04.28-15.14.33:574][987]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-15.14.33:574][987]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36373.765625, Update Interval: 329.625549
+[2026.04.28-15.16.09:308][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.28-15.16.09:323][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.04.28-15.16.09:750][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto9
+[2026.04.28-15.16.09:751][274]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto9309785EC4A4737F45A8D31AAB15F4469.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto9.umap'
+[2026.04.28-15.16.09:753][274]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.468
+[2026.04.28-15.16.09:753][274]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.468
+[2026.04.28-15.16.09:754][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/window/window_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.04.28-15.16.09:877][274]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FBX/window/window_1001_BaseColor_Mat.window_1001_BaseColor_Mat]
+[2026.04.28-15.16.09:877][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window_1001_BaseColor_Mat]
+[2026.04.28-15.16.09:885][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/window_1001_BaseColor_Mat_Auto9
+[2026.04.28-15.16.09:885][274]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window_1001_BaseColor_Mat_Auto93E17A91048BC10410E8169A13980F192.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window_1001_BaseColor_Mat_Auto9.uasset'
+[2026.04.28-15.16.09:886][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/window/window_1001_BaseColor_Mat_Inst1] ([1] browsable assets)...
+[2026.04.28-15.16.09:910][274]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FBX/window/window_1001_BaseColor_Mat_Inst1.window_1001_BaseColor_Mat_Inst1]
+[2026.04.28-15.16.09:910][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window_1001_BaseColor_Mat_Inst1]
+[2026.04.28-15.16.09:915][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/window_1001_BaseColor_Mat_Inst1_Auto9
+[2026.04.28-15.16.09:915][274]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window_1001_BaseColor_Mat_Inst1_CDDC38DD4CB10536923910BCFB57422A.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window_1001_BaseColor_Mat_Inst1_Auto9.uasset'
+[2026.04.28-15.16.09:916][274]LogFileHelpers: Auto-saving content packages took 0.162
+[2026.04.28-15.16.42:584][888]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.28-15.16.42:647][888]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.28-15.16.42:647][888]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.28-15.16.42:679][888]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.28-15.16.42:710][889]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.28-15.16.42:790][889]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.28-15.16.42:790][889]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.28-15.16.43:862][890]LogSlate: Window '콘텐츠 임포트' being destroyed
+[2026.04.28-15.16.43:880][890]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.28-15.16.43:896][890]LogStaticMesh: Adjacency [0.00s], tris: 22, UVs 1
+[2026.04.28-15.16.43:896][890]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.04.28-15.16.43:896][890]LogStaticMesh: Leaves [0.00s]
+[2026.04.28-15.16.43:897][890]LogStaticMesh: Reduce [0.00s]
+[2026.04.28-15.16.43:897][890]LogStaticMesh: Fallback [0.00s], num tris: 22
+[2026.04.28-15.16.43:897][890]LogStaticMesh: Fallback [0.00s], num tris: 22
+[2026.04.28-15.16.43:897][890]LogStaticMesh: ConstrainClusters:
+[2026.04.28-15.16.43:897][890]LogStaticMesh:   Input: 1 Clusters, 22 Triangles and 40 Vertices
+[2026.04.28-15.16.43:897][890]LogStaticMesh:   Output without splits: 1 Clusters, 22 Triangles and 40 Vertices
+[2026.04.28-15.16.43:897][890]LogStaticMesh:   Output with splits: 1 Clusters, 22 Triangles and 40 Vertices
+[2026.04.28-15.16.43:897][890]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.04.28-15.16.43:897][890]LogStaticMesh: WritePages:
+[2026.04.28-15.16.43:897][890]LogStaticMesh:   Root: GPU size: 624 bytes. 1 Pages. 624.000 bytes per page (1.904% utilization).
+[2026.04.28-15.16.43:897][890]LogStaticMesh:   Streaming: 0 bytes.
+[2026.04.28-15.16.43:897][890]LogStaticMesh:   Page data disk size: 784 bytes. Fixup data size: 24 bytes.
+[2026.04.28-15.16.43:897][890]LogStaticMesh:   Total GPU size: 624 bytes, Total disk size: 808 bytes.
+[2026.04.28-15.16.43:897][890]LogStaticMesh: Encode [0.00s]
+[2026.04.28-15.16.43:897][890]LogStaticMesh: NaniteBuild [0.00s]
+[2026.04.28-15.16.43:899][890]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-15.16.43:953][890]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.28-15.16.43:953][890]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.28-15.16.43:989][891]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.28-15.16.44:079][891]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.28-15.16.44:079][891]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.28-15.16.47:776][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-15.16.47:782][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-15.16.47:784][217]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/roof/roof_half.roof_half as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4061
+[2026.04.28-15.16.47:968][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.28-15.16.47:971][233]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.04.28-15.16.47:977][233]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-15.16.47:977][233]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-15.16.47:980][233]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/roof/roof_half.roof_half as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4062
+[2026.04.28-15.16.50:162][472]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-15.16.53:038][747]Cmd: ACTOR BAKEPREPIVOT
+[2026.04.28-15.16.55:591][997]Cmd: PIVOT HERE
+[2026.04.28-15.16.59:754][105]LogAutomationController: Ignoring very large delta of 3.07 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.28-15.17.07:767][819]Cmd: PIVOT HERE
+[2026.04.28-15.17.09:821][  2]Cmd: ACTOR BAKEPREPIVOT
+[2026.04.28-15.17.11:094][142]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-15.17.12:195][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-15.17.12:222][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.28-15.17.12:267][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.28-15.17.12:692][245]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.28-15.17.12:692][245]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main4290D21B45EFC54346209EBB245A9377.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.28-15.17.12:708][245]LogFileHelpers: Saving map 'Main' took 0.487
+[2026.04.28-15.17.12:720][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 525.969 ms (total: 3.28 sec)
+[2026.04.28-15.17.12:760][245]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-15.17.12:760][245]LogContentValidation: Enabled validators:
+[2026.04.28-15.17.12:760][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-15.17.12:760][245]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-15.17.12:760][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-15.17.12:760][245]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-15.17.12:760][245]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-15.17.12:760][245]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-15.17.12:760][245]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.28-15.18.11:336][881]Cmd: EDIT COPY
+[2026.04.28-15.18.11:544][906]Cmd: EDIT PASTE
+[2026.04.28-15.18.13:791][166]Cmd: TRANSACTION UNDO
+[2026.04.28-15.18.13:791][166]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.18.50:906][392]Cmd: DELETE
+[2026.04.28-15.18.50:906][392]Cmd: ACTOR DELETE
+[2026.04.28-15.18.50:936][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.18.50:956][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.28-15.18.50:961][392]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.04.28-15.20.33:608][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-15.20.38:764][361]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.28-15.20.38:994][361]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FBX/roof/roof_half.roof_half
+	Asset Type: StaticMesh
+[2026.04.28-15.20.39:314][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.28-15.20.39:336][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.04.28-15.20.39:353][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.04.28-15.20.39:368][361]LogAutomationController: Ignoring very large delta of 5.78 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.28-15.20.39:368][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36733.312500
+[2026.04.28-15.20.39:651][370]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-15.20.39:651][370]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36733.554688, Update Interval: 323.245941
+[2026.04.28-15.20.41:562][471]LogStreaming: Display: FlushAsyncLoading(467): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.28-15.20.41:587][471]LogInterchangeEngine: Display: Interchange start importing source [F:/Nijimori/PJ_1_FBX/roof/roof_half.fbx]
+[2026.04.28-15.20.42:477][471]LogSlate: Window '콘텐츠 임포트' being destroyed
+[2026.04.28-15.20.42:496][471]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.28-15.20.42:561][473]LogStreaming: Display: FlushAsyncLoading(468): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.28-15.20.42:625][475]LogStaticMesh: Display: roof_half스태틱 메시 빌드 중(필요 메모리 예상: 0.052444MB)...
+[2026.04.28-15.20.42:625][475]LogStaticMesh: Adjacency [0.00s], tris: 28, UVs 1
+[2026.04.28-15.20.42:625][475]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.04.28-15.20.42:625][475]LogStaticMesh: Leaves [0.00s]
+[2026.04.28-15.20.42:625][475]LogStaticMesh: Reduce [0.00s]
+[2026.04.28-15.20.42:625][475]LogStaticMesh: Fallback [0.00s], num tris: 28
+[2026.04.28-15.20.42:625][475]LogStaticMesh: Fallback [0.00s], num tris: 28
+[2026.04.28-15.20.42:625][475]LogStaticMesh: ConstrainClusters:
+[2026.04.28-15.20.42:625][475]LogStaticMesh:   Input: 1 Clusters, 28 Triangles and 48 Vertices
+[2026.04.28-15.20.42:625][475]LogStaticMesh:   Output without splits: 1 Clusters, 28 Triangles and 48 Vertices
+[2026.04.28-15.20.42:625][475]LogStaticMesh:   Output with splits: 1 Clusters, 28 Triangles and 48 Vertices
+[2026.04.28-15.20.42:625][475]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.04.28-15.20.42:625][475]LogStaticMesh: WritePages:
+[2026.04.28-15.20.42:625][475]LogStaticMesh:   Root: GPU size: 708 bytes. 1 Pages. 708.000 bytes per page (2.161% utilization).
+[2026.04.28-15.20.42:625][475]LogStaticMesh:   Streaming: 0 bytes.
+[2026.04.28-15.20.42:625][475]LogStaticMesh:   Page data disk size: 880 bytes. Fixup data size: 24 bytes.
+[2026.04.28-15.20.42:625][475]LogStaticMesh:   Total GPU size: 708 bytes, Total disk size: 904 bytes.
+[2026.04.28-15.20.42:625][475]LogStaticMesh: Encode [0.00s]
+[2026.04.28-15.20.42:625][475]LogStaticMesh: NaniteBuild [0.00s]
+[2026.04.28-15.20.42:626][475]LogStaticMesh: Built static mesh [0.00s] /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-15.20.42:685][475]LogInterchangeEngine: Display: Interchange import completed [F:/Nijimori/PJ_1_FBX/roof/roof_half.fbx]
+[2026.04.28-15.20.42:686][475]Interchange: Warning: [F:/Nijimori/PJ_1_FBX/roof/roof_half.fbx : 'roof_half', StaticMesh] FBX 파일의 이 메시 'Mesh'에 대해 스무딩 그룹 정보를 찾지 못했습니다. 파일을 익스포트하기 전에 FBX 익스포터에서 '스무딩 그룹 익스포트' 옵션이 활성화되어 있는지 확인하세요.
+[2026.04.28-15.20.42:695][475]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.28-15.20.42:695][475]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.28-15.20.43:905][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-15.20.43:905][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-15.20.43:906][542]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/roof/roof_half.roof_half as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4064
+[2026.04.28-15.20.44:002][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.28-15.20.44:006][546]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.04.28-15.20.44:012][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-15.20.44:012][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-15.20.44:015][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/roof/roof_half.roof_half as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4065
+[2026.04.28-15.20.48:796][ 38]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-15.20.54:782][667]Cmd: ACTOR BAKEPREPIVOT
+[2026.04.28-15.20.58:079][967]Cmd: PIVOT HERE
+[2026.04.28-15.20.59:960][151]Cmd: ACTOR BAKEPREPIVOT
+[2026.04.28-15.21.05:302][708]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-15.21.54:456][869]LogMaterial: Display: Material /Game/FBX/roof/roof_half_1001_BaseColor_Mat.roof_half_1001_BaseColor_Mat needed to have new flag set bUsedWithNanite !
+[2026.04.28-15.22.02:662][696]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FBX/roof/roof_half_1001_BaseColor_Mat.roof_half_1001_BaseColor_Mat
+[2026.04.28-15.22.02:664][696]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.04.28-15.22.03:000][696]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-15.22.03:000][696]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.04.28-15.22.03:000][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.03:000][696]MaterialEditorStats: Shader Count: 0
+[2026.04.28-15.22.03:000][696]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.03:082][698]MaterialEditorStats: Base pass shader: 209 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.04.28-15.22.03:082][698]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-15.22.03:082][698]MaterialEditorStats: Texture samplers: 3/16
+[2026.04.28-15.22.03:082][698]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.04.28-15.22.03:082][698]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.03:082][698]MaterialEditorStats: Shader Count: 5
+[2026.04.28-15.22.03:082][698]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.05:005][852]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FBX/roof/roof_half_1001_OcclusionRoughnessMetallic.roof_half_1001_OcclusionRoughnessMetallic
+[2026.04.28-15.22.05:413][852]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2026.04.28-15.22.05:414][852]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2026.04.28-15.22.05:414][852]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2026.04.28-15.22.05:414][852]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2026.04.28-15.22.06:615][982]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-15.22.06:615][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-15.22.06:690][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.04.28-15.22.08:096][130]LogTexture: Display: 텍스처 빌드 중: /Game/FBX/roof/roof_half_1001_OcclusionRoughnessMetallic.roof_half_1001_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 388.083323MB), 인코딩 속도: Final
+[2026.04.28-15.22.09:444][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-15.22.09:495][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/roof/roof_half_1001_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.28-15.22.09:496][253]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/roof/roof_half_1001_OcclusionRoughnessMetallic.roof_half_1001_OcclusionRoughnessMetallic]
+[2026.04.28-15.22.09:496][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/roof/roof_half_1001_OcclusionRoughnessMetallic]
+[2026.04.28-15.22.09:496][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/roof/roof_half_1001_OcclusionRoughnessMetallic" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/roof/roof_half_1001_OcclusionRoughnessMetallic.uasset" SILENT=true
+[2026.04.28-15.22.09:512][253]LogSavePackage: Moving output files for package: /Game/FBX/roof/roof_half_1001_OcclusionRoughnessMetallic
+[2026.04.28-15.22.09:512][253]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/roof_half_1001_OcclusionRoughnes93DFCAC64017BBDD5530E19E72DD85BF.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/roof/roof_half_1001_OcclusionRoughnessMetallic.uasset'
+[2026.04.28-15.22.09:524][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.979 ms (total: 3.36 sec)
+[2026.04.28-15.22.09:569][253]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-15.22.09:569][253]LogContentValidation: Enabled validators:
+[2026.04.28-15.22.09:569][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-15.22.09:569][253]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-15.22.09:569][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-15.22.09:569][253]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-15.22.09:569][253]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-15.22.09:569][253]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-15.22.09:569][253]AssetCheck: /Game/FBX/roof/roof_half_1001_OcclusionRoughnessMetallic 에셋 유효성 검사 중
+[2026.04.28-15.22.09:587][253]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.28-15.22.14:898][686]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-15.22.14:898][686]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.04.28-15.22.14:898][686]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.14:898][686]MaterialEditorStats: Shader Count: 0
+[2026.04.28-15.22.14:898][686]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.14:942][687]MaterialEditorStats: Base pass shader: 209 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.04.28-15.22.14:942][687]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-15.22.14:942][687]MaterialEditorStats: Texture samplers: 3/16
+[2026.04.28-15.22.14:942][687]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.04.28-15.22.14:942][687]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.14:942][687]MaterialEditorStats: Shader Count: 5
+[2026.04.28-15.22.14:942][687]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.17:404][930]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-15.22.17:404][930]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.28-15.22.17:404][930]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.17:404][930]MaterialEditorStats: Shader Count: 0
+[2026.04.28-15.22.17:404][930]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.17:475][933]MaterialEditorStats: Base pass shader: 217 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.04.28-15.22.17:475][933]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-15.22.17:475][933]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.28-15.22.17:475][933]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.28-15.22.17:475][933]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.17:475][933]MaterialEditorStats: Shader Count: 5
+[2026.04.28-15.22.17:475][933]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.21:565][330]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-15.22.21:565][330]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-15.22.21:565][330]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.21:565][330]MaterialEditorStats: Shader Count: 0
+[2026.04.28-15.22.21:565][330]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.21:645][333]MaterialEditorStats: Base pass shader: 217 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.04.28-15.22.21:645][333]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-15.22.21:645][333]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.28-15.22.21:645][333]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-15.22.21:645][333]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.21:645][333]MaterialEditorStats: Shader Count: 5
+[2026.04.28-15.22.21:645][333]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.23:088][463]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-15.22.23:088][463]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-15.22.23:088][463]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.23:088][463]MaterialEditorStats: Shader Count: 0
+[2026.04.28-15.22.23:088][463]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.23:172][465]MaterialEditorStats: Base pass shader: 219 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.28-15.22.23:172][465]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-15.22.23:172][465]MaterialEditorStats: Texture samplers: 5/16
+[2026.04.28-15.22.23:172][465]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-15.22.23:172][465]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.23:172][465]MaterialEditorStats: Shader Count: 5
+[2026.04.28-15.22.23:172][465]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.24:762][604]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-15.22.24:762][604]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-15.22.24:762][604]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.24:762][604]MaterialEditorStats: Shader Count: 0
+[2026.04.28-15.22.24:762][604]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.24:836][607]MaterialEditorStats: Base pass shader: 221 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.28-15.22.24:836][607]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-15.22.24:836][607]MaterialEditorStats: Texture samplers: 5/16
+[2026.04.28-15.22.24:836][607]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-15.22.24:836][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.24:836][607]MaterialEditorStats: Shader Count: 5
+[2026.04.28-15.22.24:836][607]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.29:841][ 10]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FBX/roof/roof_1001_BaseColor_Mat.roof_1001_BaseColor_Mat
+[2026.04.28-15.22.29:844][ 10]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.04.28-15.22.30:121][ 10]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-15.22.30:121][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-15.22.30:121][ 10]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.30:121][ 10]MaterialEditorStats: Shader Count: 0
+[2026.04.28-15.22.30:121][ 10]MaterialEditorStats: Preshaders: 5  (5 param fetches, 7 ops)
+[2026.04.28-15.22.30:182][ 12]MaterialEditorStats: Base pass shader: 224 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.28-15.22.30:182][ 12]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-15.22.30:182][ 12]MaterialEditorStats: Texture samplers: 5/16
+[2026.04.28-15.22.30:182][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-15.22.30:182][ 12]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.30:182][ 12]MaterialEditorStats: Shader Count: 5
+[2026.04.28-15.22.30:182][ 12]MaterialEditorStats: Preshaders: 5  (5 param fetches, 7 ops)
+[2026.04.28-15.22.40:966][ 86]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-15.22.40:966][ 86]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-15.22.40:966][ 86]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.40:966][ 86]MaterialEditorStats: Shader Count: 0
+[2026.04.28-15.22.40:966][ 86]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.41:001][ 88]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-15.22.41:001][ 88]MaterialEditorStats: Texture samplers: 3/16
+[2026.04.28-15.22.41:001][ 88]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-15.22.41:001][ 88]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.41:001][ 88]MaterialEditorStats: Shader Count: 3
+[2026.04.28-15.22.41:001][ 88]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.41:015][ 89]MaterialEditorStats: Base pass shader: 221 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.28-15.22.41:015][ 89]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-15.22.41:015][ 89]MaterialEditorStats: Texture samplers: 5/16
+[2026.04.28-15.22.41:015][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-15.22.41:015][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.41:015][ 89]MaterialEditorStats: Shader Count: 5
+[2026.04.28-15.22.41:015][ 89]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.41:885][173]LogMaterialEditor: Applying material roof_half_1001_BaseColor_Mat
+[2026.04.28-15.22.42:027][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.04.28-15.22.43:026][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.04.28-15.22.43:047][173]MaterialEditorStats: Base pass shader: 221 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.28-15.22.43:047][173]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-15.22.43:047][173]MaterialEditorStats: MaxSampler: 286 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.04.28-15.22.43:047][173]MaterialEditorStats: Nanite Compute Shader: 881 instructions
+Stats: Resources Used: 14
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.28-15.22.43:047][173]MaterialEditorStats: Texture samplers: 6/16
+[2026.04.28-15.22.43:047][173]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-15.22.43:047][173]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-15.22.43:047][173]MaterialEditorStats: Shader Count: 55
+[2026.04.28-15.22.43:047][173]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.28-15.22.54:428][246]Cmd: TRANSACTION UNDO
+[2026.04.28-15.22.54:428][246]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-15.22.55:954][362]Cmd: EDIT COPY
+[2026.04.28-15.22.56:439][412]Cmd: EDIT PASTE
+[2026.04.28-15.23.31:721][924]Cmd: EDIT COPY
+[2026.04.28-15.23.31:937][948]Cmd: EDIT PASTE
+[2026.04.28-15.24.06:962][384]Cmd: TRANSACTION UNDO
+[2026.04.28-15.24.06:962][384]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: ================================================
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Total job queries 1,040, among them cache hits 379 (36.44%), DDC hits 569 (54.71%), Duplicates 89 (8.56%)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Tracking 572 distinct input hashes that result in 436 distinct outputs (76.22%)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: RAM used: 5.52 MiB of 3.10 GiB budget. Usage: 0.17%
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Shaders Compiled: 3
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Average time worker was idle: 705.43 s
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Job execution time: average 0.68 s, max 0.71 s
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Job life time (pending + execution): average 0.75 s, max 0.81
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Shader code size: total 40.406 KiB, numShaders 3, average 13.469 KiB, min 13.426 KiB, max 13.555 KiB
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.25 s
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Average processing rate: 1.33 jobs/sec
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Total thread time: 1.701 s
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Total thread preprocess time: 12.353 s
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Percentage time preprocessing: 726.18%
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Effective parallelization: 0.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.047304
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 0.57 sec, max 0.58 sec, min 0.54 sec)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display:                                             FDebugViewModePS - 100.00% of total time (compiled    3 times, average 0.57 sec, max 0.58 sec, min 0.54 sec)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: === Material stats ===
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Materials Translated:    307
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Material Translation Only: 0.06 s (27%)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: Material Cache Hits: 57 (19%)
+[2026.04.28-15.24.23:257][ 43]LogShaderCompilers: Display: ================================================
+[2026.04.28-15.24.55:661][336]Cmd: EDIT COPY
+[2026.04.28-15.24.55:891][347]Cmd: EDIT PASTE
+[2026.04.28-15.25.15:826][471]Cmd: EDIT COPY
+[2026.04.28-15.25.16:131][489]Cmd: EDIT PASTE
+[2026.04.28-15.26.38:175][278]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37077.035156
+[2026.04.28-15.26.38:408][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-15.26.38:408][306]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37077.246094, Update Interval: 314.766083
+[2026.04.28-15.26.58:798][707]Cmd: DELETE
+[2026.04.28-15.26.58:798][707]Cmd: ACTOR DELETE
+[2026.04.28-15.26.58:828][707]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.26.58:847][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.28-15.26.58:852][707]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2026.04.28-15.27.19:419][150]Cmd: TRANSACTION UNDO
+[2026.04.28-15.27.19:419][150]LogEditorTransaction: Undo 엘리먼트 삭제
+[2026.04.28-15.27.28:020][128]Cmd: TRANSACTION UNDO
+[2026.04.28-15.27.28:020][128]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-15.27.30:250][344]Cmd: DELETE
+[2026.04.28-15.27.30:250][344]Cmd: ACTOR DELETE
+[2026.04.28-15.27.30:280][344]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.27.30:299][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-15.27.30:305][344]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2026.04.28-15.27.35:947][999]Cmd: TRANSACTION UNDO
+[2026.04.28-15.27.35:947][999]LogEditorTransaction: Undo 엘리먼트 삭제
+[2026.04.28-15.27.41:834][536]Cmd: EDIT COPY
+[2026.04.28-15.27.42:042][561]Cmd: EDIT PASTE
+[2026.04.28-15.29.10:018][506]Cmd: EDIT COPY
+[2026.04.28-15.29.10:231][517]Cmd: EDIT PASTE
+[2026.04.28-15.30.01:502][113]Cmd: DELETE
+[2026.04.28-15.30.01:502][113]Cmd: ACTOR DELETE
+[2026.04.28-15.30.01:532][113]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.30.01:551][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.28-15.30.01:556][113]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.04.28-15.30.02:817][248]Cmd: EDIT COPY
+[2026.04.28-15.30.03:025][273]Cmd: EDIT PASTE
+[2026.04.28-15.30.37:614][855]Cmd: TRANSACTION UNDO
+[2026.04.28-15.30.37:614][855]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.31.03:317][625]Cmd: DELETE
+[2026.04.28-15.31.03:317][625]Cmd: ACTOR DELETE
+[2026.04.28-15.31.03:346][625]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.31.03:364][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.28-15.31.03:370][625]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2026.04.28-15.31.04:003][681]Cmd: DELETE
+[2026.04.28-15.31.04:003][681]Cmd: ACTOR DELETE
+[2026.04.28-15.31.04:032][681]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.31.04:050][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.28-15.31.04:053][681]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2026.04.28-15.31.06:889][924]Cmd: EDIT COPY
+[2026.04.28-15.31.07:097][935]Cmd: EDIT PASTE
+[2026.04.28-15.31.20:657][406]Cmd: EDIT COPY
+[2026.04.28-15.31.21:248][477]Cmd: EDIT PASTE
+[2026.04.28-15.32.09:623][973]Cmd: EDIT COPY
+[2026.04.28-15.32.09:821][982]Cmd: EDIT PASTE
+[2026.04.28-15.32.28:756][ 59]Cmd: EDIT COPY
+[2026.04.28-15.32.28:973][ 73]Cmd: EDIT PASTE
+[2026.04.28-15.32.43:823][759]Cmd: TRANSACTION UNDO
+[2026.04.28-15.32.43:823][759]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-15.32.44:213][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37427.070312
+[2026.04.28-15.32.44:510][795]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-15.32.44:510][795]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37427.347656, Update Interval: 302.102112
+[2026.04.28-15.32.44:680][816]Cmd: TRANSACTION UNDO
+[2026.04.28-15.32.44:680][816]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-15.32.45:170][863]Cmd: TRANSACTION UNDO
+[2026.04.28-15.32.45:170][863]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-15.33.03:018][870]Cmd: EDIT COPY
+[2026.04.28-15.33.03:233][894]Cmd: EDIT PASTE
+[2026.04.28-15.33.06:653][285]Cmd: DELETE
+[2026.04.28-15.33.06:653][285]Cmd: ACTOR DELETE
+[2026.04.28-15.33.06:682][285]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.33.06:703][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.28-15.33.06:706][285]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.04.28-15.33.08:795][518]Cmd: EDIT COPY
+[2026.04.28-15.33.08:978][540]Cmd: EDIT PASTE
+[2026.04.28-15.33.31:583][109]Cmd: EDIT COPY
+[2026.04.28-15.33.31:796][133]Cmd: EDIT PASTE
+[2026.04.28-15.33.58:235][884]Cmd: TRANSACTION UNDO
+[2026.04.28-15.33.58:235][884]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-15.33.58:693][893]Cmd: TRANSACTION UNDO
+[2026.04.28-15.33.58:693][893]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.33.58:961][907]Cmd: TRANSACTION UNDO
+[2026.04.28-15.33.58:961][907]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-15.34.05:351][570]Cmd: EDIT COPY
+[2026.04.28-15.34.05:572][581]Cmd: EDIT PASTE
+[2026.04.28-15.34.25:984][798]Cmd: DELETE
+[2026.04.28-15.34.25:984][798]Cmd: ACTOR DELETE
+[2026.04.28-15.34.26:013][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.34.26:033][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.04.28-15.34.26:038][798]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.04.28-15.34.27:382][920]Cmd: EDIT COPY
+[2026.04.28-15.34.27:589][943]Cmd: EDIT PASTE
+[2026.04.28-15.34.31:767][395]Cmd: EDIT COPY
+[2026.04.28-15.34.31:986][408]Cmd: EDIT PASTE
+[2026.04.28-15.34.52:932][781]Cmd: TRANSACTION UNDO
+[2026.04.28-15.34.52:932][781]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.34.55:466][ 42]Cmd: DELETE
+[2026.04.28-15.34.55:466][ 42]Cmd: ACTOR DELETE
+[2026.04.28-15.34.55:496][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.34.55:514][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.28-15.34.55:520][ 42]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.04.28-15.35.16:353][205]Cmd: TRANSACTION UNDO
+[2026.04.28-15.35.16:353][205]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-15.35.24:511][ 32]Cmd: TRANSACTION UNDO
+[2026.04.28-15.35.24:511][ 32]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-15.35.43:611][  7]Cmd: TRANSACTION UNDO
+[2026.04.28-15.35.43:611][  7]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-15.35.46:510][297]Cmd: TRANSACTION UNDO
+[2026.04.28-15.35.46:510][297]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-15.35.49:054][576]Cmd: TRANSACTION UNDO
+[2026.04.28-15.35.49:054][576]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-15.35.51:446][806]Cmd: TRANSACTION UNDO
+[2026.04.28-15.35.51:446][806]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-15.36.06:498][436]Cmd: TRANSACTION UNDO
+[2026.04.28-15.36.06:498][436]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-15.36.12:151][ 61]Cmd: TRANSACTION UNDO
+[2026.04.28-15.36.12:151][ 61]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-15.36.58:721][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-15.36.58:751][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.28-15.36.58:782][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.28-15.36.59:219][747]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.28-15.36.59:219][747]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/MainD2DB2DB84509AE774669BDA5187E7E79.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.28-15.36.59:236][747]LogFileHelpers: Saving map 'Main' took 0.486
+[2026.04.28-15.36.59:250][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 528.740 ms (total: 3.89 sec)
+[2026.04.28-15.36.59:287][747]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-15.36.59:288][747]LogContentValidation: Enabled validators:
+[2026.04.28-15.36.59:288][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-15.36.59:288][747]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-15.36.59:288][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-15.36.59:288][747]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-15.36.59:288][747]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-15.36.59:288][747]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-15.36.59:288][747]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.28-15.37.00:516][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-15.37.01:338][853]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.04.28-15.37.01:357][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-15.37.01:384][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/roof/roof_half] ([1] browsable assets)...
+[2026.04.28-15.37.01:416][853]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/roof/roof_half.roof_half]
+[2026.04.28-15.37.01:416][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/roof/roof_half]
+[2026.04.28-15.37.01:416][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/roof/roof_half" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/roof/roof_half.uasset" SILENT=true
+[2026.04.28-15.37.01:423][853]LogSavePackage: Moving output files for package: /Game/FBX/roof/roof_half
+[2026.04.28-15.37.01:423][853]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/roof_halfDD2C9964414CF25F14FA37BDDBE8A0EC.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/roof/roof_half.uasset'
+[2026.04.28-15.37.01:424][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/roof/roof_half_1001_BaseColor] ([1] browsable assets)...
+[2026.04.28-15.37.01:425][853]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/roof/roof_half_1001_BaseColor.roof_half_1001_BaseColor]
+[2026.04.28-15.37.01:425][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/roof/roof_half_1001_BaseColor]
+[2026.04.28-15.37.01:425][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/roof/roof_half_1001_BaseColor" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/roof/roof_half_1001_BaseColor.uasset" SILENT=true
+[2026.04.28-15.37.01:444][853]LogSavePackage: Moving output files for package: /Game/FBX/roof/roof_half_1001_BaseColor
+[2026.04.28-15.37.01:444][853]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/roof_half_1001_BaseColorE3FD3F114183108862AE8A9729A92756.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/roof/roof_half_1001_BaseColor.uasset'
+[2026.04.28-15.37.01:445][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/roof/roof_half_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.04.28-15.37.01:452][853]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FBX/roof/roof_half_1001_BaseColor_Mat.roof_half_1001_BaseColor_Mat]
+[2026.04.28-15.37.01:452][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/roof/roof_half_1001_BaseColor_Mat]
+[2026.04.28-15.37.01:452][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/roof/roof_half_1001_BaseColor_Mat" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/roof/roof_half_1001_BaseColor_Mat.uasset" SILENT=true
+[2026.04.28-15.37.01:458][853]LogSavePackage: Moving output files for package: /Game/FBX/roof/roof_half_1001_BaseColor_Mat
+[2026.04.28-15.37.01:458][853]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/roof_half_1001_BaseColor_MatA02A2D5447F3C04605167E8286079990.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/roof/roof_half_1001_BaseColor_Mat.uasset'
+[2026.04.28-15.37.01:459][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/roof/roof_half_1001_Normal] ([1] browsable assets)...
+[2026.04.28-15.37.01:460][853]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/roof/roof_half_1001_Normal.roof_half_1001_Normal]
+[2026.04.28-15.37.01:460][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/roof/roof_half_1001_Normal]
+[2026.04.28-15.37.01:460][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/roof/roof_half_1001_Normal" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/roof/roof_half_1001_Normal.uasset" SILENT=true
+[2026.04.28-15.37.01:478][853]LogSavePackage: Moving output files for package: /Game/FBX/roof/roof_half_1001_Normal
+[2026.04.28-15.37.01:478][853]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/roof_half_1001_NormalDBA346C5434081DEA37A918657178CA0.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/roof/roof_half_1001_Normal.uasset'
+[2026.04.28-15.37.01:479][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/window_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.04.28-15.37.01:479][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window_1001_BaseColor_Mat]
+[2026.04.28-15.37.01:479][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window_1001_BaseColor_Mat" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window_1001_BaseColor_Mat.uasset" SILENT=true
+[2026.04.28-15.37.01:485][853]LogSavePackage: Moving output files for package: /Game/FBX/window/window_1001_BaseColor_Mat
+[2026.04.28-15.37.01:485][853]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window_1001_BaseColor_MatF128D235473CC15A4C29659AD1C5AE74.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window_1001_BaseColor_Mat.uasset'
+[2026.04.28-15.37.01:485][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/window_1001_BaseColor_Mat_Inst1] ([1] browsable assets)...
+[2026.04.28-15.37.01:485][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window_1001_BaseColor_Mat_Inst1]
+[2026.04.28-15.37.01:485][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window_1001_BaseColor_Mat_Inst1" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window_1001_BaseColor_Mat_Inst1.uasset" SILENT=true
+[2026.04.28-15.37.01:489][853]LogSavePackage: Moving output files for package: /Game/FBX/window/window_1001_BaseColor_Mat_Inst1
+[2026.04.28-15.37.01:489][853]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window_1001_BaseColor_Mat_Inst1C25CB31443E47C45126D2E913C1AAB0D.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window_1001_BaseColor_Mat_Inst1.uasset'
+[2026.04.28-15.37.01:500][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.084 ms (total: 4.03 sec)
+[2026.04.28-15.37.01:526][853]LogContentValidation: Display: Starting to validate 6 assets
+[2026.04.28-15.37.01:526][853]LogContentValidation: Enabled validators:
+[2026.04.28-15.37.01:526][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-15.37.01:526][853]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-15.37.01:526][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-15.37.01:526][853]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-15.37.01:526][853]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-15.37.01:526][853]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-15.37.01:526][853]AssetCheck: /Game/FBX/roof/roof_half 에셋 유효성 검사 중
+[2026.04.28-15.37.01:526][853]AssetCheck: /Game/FBX/roof/roof_half_1001_BaseColor 에셋 유효성 검사 중
+[2026.04.28-15.37.01:527][853]AssetCheck: /Game/FBX/roof/roof_half_1001_BaseColor_Mat 에셋 유효성 검사 중
+[2026.04.28-15.37.01:527][853]AssetCheck: /Game/FBX/roof/roof_half_1001_Normal 에셋 유효성 검사 중
+[2026.04.28-15.37.01:527][853]AssetCheck: /Game/FBX/window/window_1001_BaseColor_Mat 에셋 유효성 검사 중
+[2026.04.28-15.37.01:527][853]AssetCheck: /Game/FBX/window/window_1001_BaseColor_Mat_Inst1 에셋 유효성 검사 중
+[2026.04.28-15.37.01:541][853]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
