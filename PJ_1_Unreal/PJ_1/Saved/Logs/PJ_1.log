@@ -3212,3 +3212,916 @@ Sampler Limit: 32
 [2026.04.28-15.37.01:527][853]AssetCheck: /Game/FBX/window/window_1001_BaseColor_Mat 에셋 유효성 검사 중
 [2026.04.28-15.37.01:527][853]AssetCheck: /Game/FBX/window/window_1001_BaseColor_Mat_Inst1 에셋 유효성 검사 중
 [2026.04.28-15.37.01:541][853]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.28-15.38.37:221][316]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37769.035156
+[2026.04.28-15.38.40:322][688]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-15.38.40:322][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37771.953125, Update Interval: 311.255829
+[2026.04.28-15.39.07:185][487]Cmd: TRANSACTION UNDO
+[2026.04.28-15.39.07:185][487]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.39.29:556][777]Cmd: EDIT COPY
+[2026.04.28-15.39.29:781][788]Cmd: EDIT PASTE
+[2026.04.28-15.39.31:425][965]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-15.39.44:086][343]Cmd: TRANSACTION UNDO
+[2026.04.28-15.39.44:086][343]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.39.45:086][419]Cmd: TRANSACTION UNDO
+[2026.04.28-15.39.45:087][419]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-15.39.57:509][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-15.39.57:540][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.28-15.39.57:571][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.04.28-15.39.58:001][857]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.28-15.39.58:001][857]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main8DF2110840738F25894E5888F8E23239.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.28-15.39.58:018][857]LogFileHelpers: Saving map 'Main' took 0.479
+[2026.04.28-15.39.58:026][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 516.704 ms (total: 4.55 sec)
+[2026.04.28-15.39.58:065][857]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-15.39.58:065][857]LogContentValidation: Enabled validators:
+[2026.04.28-15.39.58:065][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-15.39.58:065][857]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-15.39.58:065][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-15.39.58:065][857]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-15.39.58:065][857]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-15.39.58:065][857]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-15.39.58:065][857]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.28-15.40.41:390][ 31]Cmd: DELETE
+[2026.04.28-15.40.41:390][ 31]Cmd: ACTOR DELETE
+[2026.04.28-15.40.41:420][ 31]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.40.41:438][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.28-15.40.41:441][ 31]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2026.04.28-15.41.56:914][950]Cmd: TRANSACTION UNDO
+[2026.04.28-15.41.56:914][950]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-15.42.03:160][557]Cmd: EDIT COPY
+[2026.04.28-15.42.03:375][581]Cmd: EDIT PASTE
+[2026.04.28-15.42.07:658][ 66]Cmd: DELETE
+[2026.04.28-15.42.07:658][ 66]Cmd: ACTOR DELETE
+[2026.04.28-15.42.07:689][ 66]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.42.07:708][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.28-15.42.07:714][ 66]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2026.04.28-15.42.18:094][281]Cmd: TRANSACTION UNDO
+[2026.04.28-15.42.18:094][281]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.42.48:664][351]Cmd: DELETE
+[2026.04.28-15.42.48:665][351]Cmd: ACTOR DELETE
+[2026.04.28-15.42.48:694][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.42.48:715][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-15.42.48:719][351]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.04.28-15.42.48:996][364]Cmd: DELETE
+[2026.04.28-15.42.48:996][364]Cmd: ACTOR DELETE
+[2026.04.28-15.42.49:026][364]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.42.49:043][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-15.42.49:046][364]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2026.04.28-15.42.49:274][377]Cmd: DELETE
+[2026.04.28-15.42.49:274][377]Cmd: ACTOR DELETE
+[2026.04.28-15.42.49:304][377]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.42.49:325][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.04.28-15.42.49:328][377]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.04.28-15.42.49:598][396]Cmd: DELETE
+[2026.04.28-15.42.49:598][396]Cmd: ACTOR DELETE
+[2026.04.28-15.42.49:598][396]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.04.28-15.42.49:627][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.42.49:647][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-15.42.49:650][396]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2026.04.28-15.42.49:912][415]Cmd: DELETE
+[2026.04.28-15.42.49:912][415]Cmd: ACTOR DELETE
+[2026.04.28-15.42.49:942][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.42.49:962][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.28-15.42.49:966][415]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2026.04.28-15.42.50:250][437]Cmd: DELETE
+[2026.04.28-15.42.50:250][437]Cmd: ACTOR DELETE
+[2026.04.28-15.42.50:281][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.42.50:298][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-15.42.50:302][437]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2026.04.28-15.42.50:532][451]Cmd: DELETE
+[2026.04.28-15.42.50:532][451]Cmd: ACTOR DELETE
+[2026.04.28-15.42.50:562][451]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.42.50:579][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-15.42.50:583][451]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2026.04.28-15.42.50:853][470]Cmd: DELETE
+[2026.04.28-15.42.50:853][470]Cmd: ACTOR DELETE
+[2026.04.28-15.42.50:882][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.42.50:903][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.28-15.42.50:907][470]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.04.28-15.42.52:797][628]Cmd: EDIT COPY
+[2026.04.28-15.42.53:018][653]Cmd: EDIT PASTE
+[2026.04.28-15.43.22:729][901]Cmd: EDIT COPY
+[2026.04.28-15.43.22:951][926]Cmd: EDIT PASTE
+[2026.04.28-15.43.25:344][200]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-15.43.28:944][573]Cmd: EDIT COPY
+[2026.04.28-15.43.29:146][584]Cmd: EDIT PASTE
+[2026.04.28-15.44.08:533][745]Cmd: EDIT COPY
+[2026.04.28-15.44.08:741][767]Cmd: EDIT PASTE
+[2026.04.28-15.44.14:343][404]Cmd: EDIT COPY
+[2026.04.28-15.44.14:539][417]Cmd: EDIT PASTE
+[2026.04.28-15.44.17:178][712]Cmd: EDIT COPY
+[2026.04.28-15.44.17:384][735]Cmd: EDIT PASTE
+[2026.04.28-15.44.21:826][224]Cmd: EDIT COPY
+[2026.04.28-15.44.22:030][244]Cmd: EDIT PASTE
+[2026.04.28-15.44.26:651][750]Cmd: TRANSACTION UNDO
+[2026.04.28-15.44.26:651][750]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.44.38:310][ 20]Cmd: DELETE
+[2026.04.28-15.44.38:310][ 20]Cmd: ACTOR DELETE
+[2026.04.28-15.44.38:340][ 20]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.44.38:363][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.28-15.44.38:368][ 20]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2026.04.28-15.44.38:585][ 32]Cmd: DELETE
+[2026.04.28-15.44.38:585][ 32]Cmd: ACTOR DELETE
+[2026.04.28-15.44.38:616][ 32]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.44.38:642][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.04.28-15.44.38:645][ 32]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2026.04.28-15.44.39:000][ 61]Cmd: DELETE
+[2026.04.28-15.44.39:000][ 61]Cmd: ACTOR DELETE
+[2026.04.28-15.44.39:030][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.44.39:051][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-15.44.39:054][ 61]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2026.04.28-15.44.45:303][720]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38121.656250
+[2026.04.28-15.44.45:536][748]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-15.44.45:536][748]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38121.867188, Update Interval: 333.948792
+[2026.04.28-15.45.35:078][212]Cmd: TRANSACTION UNDO
+[2026.04.28-15.45.35:078][212]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.45.38:427][498]Cmd: TRANSACTION UNDO
+[2026.04.28-15.45.38:427][498]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-15.45.38:836][532]Cmd: TRANSACTION UNDO
+[2026.04.28-15.45.38:836][532]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.45.39:122][537]Cmd: TRANSACTION UNDO
+[2026.04.28-15.45.39:122][537]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-15.45.55:168][295]Cmd: TRANSACTION UNDO
+[2026.04.28-15.45.55:168][295]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.46.18:019][701]Cmd: EDIT COPY
+[2026.04.28-15.46.18:225][714]Cmd: EDIT PASTE
+[2026.04.28-15.47.37:207][364]Cmd: TRANSACTION UNDO
+[2026.04.28-15.47.37:208][364]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-15.47.50:267][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-15.47.50:294][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.28-15.47.50:327][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.04.28-15.47.50:759][749]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.28-15.47.50:760][749]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main1E255A1D4EC70D71E40AF09E537DE4EF.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.28-15.47.50:775][749]LogFileHelpers: Saving map 'Main' took 0.483
+[2026.04.28-15.47.50:789][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 522.291 ms (total: 5.07 sec)
+[2026.04.28-15.47.50:821][749]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-15.47.50:821][749]LogContentValidation: Enabled validators:
+[2026.04.28-15.47.50:821][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-15.47.50:821][749]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-15.47.50:821][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-15.47.50:821][749]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-15.47.50:821][749]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-15.47.50:821][749]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-15.47.50:822][749]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.28-15.48.30:603][928]Cmd: EDIT COPY
+[2026.04.28-15.48.30:777][949]Cmd: EDIT PASTE
+[2026.04.28-15.49.47:035][701]Cmd: DELETE
+[2026.04.28-15.49.47:035][701]Cmd: ACTOR DELETE
+[2026.04.28-15.49.47:067][701]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.49.47:094][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.28-15.49.47:098][701]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2026.04.28-15.50.58:870][225]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38479.750000
+[2026.04.28-15.50.59:104][253]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-15.50.59:104][253]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38479.960938, Update Interval: 349.884949
+[2026.04.28-15.51.36:630][692]Cmd: DELETE
+[2026.04.28-15.51.36:630][692]Cmd: ACTOR DELETE
+[2026.04.28-15.51.36:660][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.51.36:684][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.04.28-15.51.36:688][692]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2026.04.28-15.51.41:220][204]Cmd: EDIT COPY
+[2026.04.28-15.51.41:443][229]Cmd: EDIT PASTE
+[2026.04.28-15.52.31:983][737]Cmd: EDIT COPY
+[2026.04.28-15.52.32:194][754]Cmd: EDIT PASTE
+[2026.04.28-15.53.10:228][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-15.53.10:254][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.28-15.53.10:286][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.28-15.53.10:714][ 92]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.28-15.53.10:714][ 92]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main0B75636249FE69B07F3AC69AA9A6648F.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.28-15.53.10:731][ 92]LogFileHelpers: Saving map 'Main' took 0.479
+[2026.04.28-15.53.10:740][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 511.950 ms (total: 5.58 sec)
+[2026.04.28-15.53.10:780][ 92]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-15.53.10:780][ 92]LogContentValidation: Enabled validators:
+[2026.04.28-15.53.10:780][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-15.53.10:780][ 92]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-15.53.10:780][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-15.53.10:780][ 92]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-15.53.10:780][ 92]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-15.53.10:780][ 92]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-15.53.10:780][ 92]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.28-15.53.59:713][774]Cmd: DELETE
+[2026.04.28-15.53.59:714][774]Cmd: ACTOR DELETE
+[2026.04.28-15.53.59:744][774]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.53.59:767][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.28-15.53.59:770][774]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2026.04.28-15.54.00:861][892]Cmd: EDIT COPY
+[2026.04.28-15.54.01:084][917]Cmd: EDIT PASTE
+[2026.04.28-15.54.08:529][739]Cmd: TRANSACTION UNDO
+[2026.04.28-15.54.08:529][739]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-15.55.38:123][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-15.55.38:145][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.28-15.55.38:180][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.28-15.55.38:607][776]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.28-15.55.38:607][776]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main82E061A24C7E75C5F0D790BE6D53DFE4.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.28-15.55.38:624][776]LogFileHelpers: Saving map 'Main' took 0.480
+[2026.04.28-15.55.38:631][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 509.412 ms (total: 6.09 sec)
+[2026.04.28-15.55.38:674][776]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-15.55.38:675][776]LogContentValidation: Enabled validators:
+[2026.04.28-15.55.38:675][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-15.55.38:675][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-15.55.38:675][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-15.55.38:675][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-15.55.38:675][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-15.55.38:675][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-15.55.38:675][776]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.28-15.55.40:568][957]Cmd: DELETE
+[2026.04.28-15.55.40:568][957]Cmd: ACTOR DELETE
+[2026.04.28-15.55.40:598][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-15.55.40:625][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-15.55.40:628][957]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2026.04.28-15.55.43:773][252]Cmd: EDIT COPY
+[2026.04.28-15.55.44:023][282]Cmd: EDIT PASTE
+[2026.04.28-15.56.14:917][836]Cmd: EDIT COPY
+[2026.04.28-15.56.15:162][853]Cmd: EDIT PASTE
+[2026.04.28-15.56.36:161][168]Cmd: EDIT COPY
+[2026.04.28-15.56.36:363][178]Cmd: EDIT PASTE
+[2026.04.28-15.57.39:801][544]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38862.210938
+[2026.04.28-15.57.40:042][573]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-15.57.40:044][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38862.429688, Update Interval: 319.543457
+[2026.04.28-16.02.13:382][216]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/FBX/window/window_1001_BaseColor_Mat_Inst1.window_1001_BaseColor_Mat_Inst1
+[2026.04.28-16.02.13:383][216]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.04.28-16.02.24:432][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-16.02.24:486][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/window/window_1001_BaseColor_Mat_Inst1] ([1] browsable assets)...
+[2026.04.28-16.02.24:535][276]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FBX/window/window_1001_BaseColor_Mat_Inst1.window_1001_BaseColor_Mat_Inst1]
+[2026.04.28-16.02.24:536][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window_1001_BaseColor_Mat_Inst1]
+[2026.04.28-16.02.24:536][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window_1001_BaseColor_Mat_Inst1" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window_1001_BaseColor_Mat_Inst1.uasset" SILENT=true
+[2026.04.28-16.02.24:588][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.04.28-16.02.24:619][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.28-16.02.24:630][276]LogSavePackage: Moving output files for package: /Game/FBX/window/window_1001_BaseColor_Mat_Inst1
+[2026.04.28-16.02.24:630][276]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window_1001_BaseColor_Mat_Inst1B88CD85644127A0DC14594B6423BF28F.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window_1001_BaseColor_Mat_Inst1.uasset'
+[2026.04.28-16.02.24:639][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 205.766 ms (total: 6.30 sec)
+[2026.04.28-16.02.24:673][276]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-16.02.24:673][276]LogContentValidation: Enabled validators:
+[2026.04.28-16.02.24:673][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-16.02.24:673][276]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-16.02.24:673][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-16.02.24:673][276]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-16.02.24:673][276]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-16.02.24:673][276]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-16.02.24:673][276]AssetCheck: /Game/FBX/window/window_1001_BaseColor_Mat_Inst1 에셋 유효성 검사 중
+[2026.04.28-16.02.45:866][383]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-16.02.45:867][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-16.02.45:908][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.28-16.02.49:698][690]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FBX/window/window_1001_BaseColor_Mat.window_1001_BaseColor_Mat
+[2026.04.28-16.02.49:701][690]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.28-16.02.50:057][690]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-16.02.50:057][690]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-16.02.50:057][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-16.02.50:057][690]MaterialEditorStats: Shader Count: 0
+[2026.04.28-16.02.50:057][690]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.28-16.02.50:136][692]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.28-16.02.50:136][692]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-16.02.50:136][692]MaterialEditorStats: Texture samplers: 5/16
+[2026.04.28-16.02.50:136][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-16.02.50:136][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-16.02.50:136][692]MaterialEditorStats: Shader Count: 5
+[2026.04.28-16.02.50:136][692]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.28-16.02.59:075][604]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_4.MaterialExpressionScalarParameter_0'")'
+[2026.04.28-16.02.59:088][604]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-16.02.59:088][604]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-16.02.59:088][604]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-16.02.59:088][604]MaterialEditorStats: Shader Count: 0
+[2026.04.28-16.02.59:088][604]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.28-16.02.59:155][606]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.28-16.02.59:155][606]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-16.02.59:155][606]MaterialEditorStats: Texture samplers: 5/16
+[2026.04.28-16.02.59:155][606]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-16.02.59:155][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-16.02.59:155][606]MaterialEditorStats: Shader Count: 5
+[2026.04.28-16.02.59:155][606]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.28-16.03.01:656][855]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-16.03.01:656][855]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-16.03.01:656][855]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-16.03.01:656][855]MaterialEditorStats: Shader Count: 0
+[2026.04.28-16.03.01:656][855]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.28-16.03.01:724][857]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.28-16.03.01:724][857]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-16.03.01:724][857]MaterialEditorStats: Texture samplers: 5/16
+[2026.04.28-16.03.01:724][857]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-16.03.01:724][857]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-16.03.01:724][857]MaterialEditorStats: Shader Count: 5
+[2026.04.28-16.03.01:724][857]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.28-16.03.04:269][100]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-16.03.04:269][100]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-16.03.04:269][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-16.03.04:269][100]MaterialEditorStats: Shader Count: 0
+[2026.04.28-16.03.04:269][100]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.28-16.03.04:318][103]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-16.03.04:318][103]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.28-16.03.04:318][103]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-16.03.04:318][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-16.03.04:318][103]MaterialEditorStats: Shader Count: 2
+[2026.04.28-16.03.04:318][103]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.28-16.03.04:868][148]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-16.03.04:868][148]MaterialEditorStats: Texture samplers: 3/16
+[2026.04.28-16.03.04:868][148]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-16.03.04:868][148]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-16.03.04:868][148]MaterialEditorStats: Shader Count: 3
+[2026.04.28-16.03.04:868][148]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.28-16.03.04:969][155]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.28-16.03.04:969][155]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-16.03.04:969][155]MaterialEditorStats: Texture samplers: 5/16
+[2026.04.28-16.03.04:969][155]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-16.03.04:969][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-16.03.04:969][155]MaterialEditorStats: Shader Count: 4
+[2026.04.28-16.03.04:969][155]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.28-16.03.05:388][188]LogMaterialEditor: Applying material window_1001_BaseColor_Mat
+[2026.04.28-16.03.06:557][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.28-16.03.08:795][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.28-16.03.08:855][188]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.28-16.03.08:855][188]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.28-16.03.08:855][188]MaterialEditorStats: MaxSampler: 288 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.04.28-16.03.08:855][188]MaterialEditorStats: Nanite Compute Shader: 883 instructions
+Stats: Resources Used: 14
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.28-16.03.08:855][188]MaterialEditorStats: Texture samplers: 6/16
+[2026.04.28-16.03.08:855][188]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.28-16.03.08:855][188]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.28-16.03.08:855][188]MaterialEditorStats: Shader Count: 55
+[2026.04.28-16.03.08:855][188]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.28-16.03.08:879][188]LogAutomationController: Ignoring very large delta of 3.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: ================================================
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Total job queries 1,138, among them cache hits 426 (37.43%), DDC hits 577 (50.70%), Duplicates 104 (9.14%)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Tracking 608 distinct input hashes that result in 465 distinct outputs (76.48%)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: RAM used: 5.88 MiB of 3.10 GiB budget. Usage: 0.19%
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Shaders Compiled: 31
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Jobs assigned 31, completed 31 (100%)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Average time worker was idle: 255.81 s
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Time job spent in pending queue: average 0.37 s, longest 1.27 s
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 1.80 s
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Job life time (pending + execution): average 1.34 s, max 2.10
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Shader code size: total 457.365 KiB, numShaders 31, average 14.753 KiB, min 2.801 KiB, max 23.617 KiB
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.43 s
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Jobs were issued in 31 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Average processing rate: 5.71 jobs/sec
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Total thread time: 24.417 s
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Total thread preprocess time: 13.467 s
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Percentage time preprocessing: 55.15%
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Effective parallelization: 4.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.280913
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display:        TBasePassCSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.54 sec, max 1.54 sec, min 1.54 sec)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display:       TBasePassCSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: TBasePassCSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.50 sec, max 1.50 sec, min 1.50 sec)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy (compiled    1 times, average 1.50 sec, max 1.50 sec, min 1.50 sec)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.50 sec, max 1.50 sec, min 1.50 sec)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.24% of total time (compiled    4 times, average 0.69 sec, max 1.04 sec, min 0.54 sec)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 7.38% of total time (compiled    2 times, average 0.90 sec, max 1.00 sec, min 0.81 sec)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 6.40% of total time (compiled    2 times, average 0.78 sec, max 0.98 sec, min 0.58 sec)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display:        TBasePassCSFCachedPointIndirectLightingPolicySkylight - 6.29% of total time (compiled    1 times, average 1.54 sec, max 1.54 sec, min 1.54 sec)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display:       TBasePassCSFCachedVolumeIndirectLightingPolicySkylight - 6.26% of total time (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: === Material stats ===
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Materials Translated:    318
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.04.28-16.03.23:303][570]LogShaderCompilers: Display: Material Translation Only: 0.07 s (27%)
+[2026.04.28-16.03.23:304][570]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.28-16.03.23:304][570]LogShaderCompilers: Display: Material Cache Hits: 57 (18%)
+[2026.04.28-16.03.23:304][570]LogShaderCompilers: Display: ================================================
+[2026.04.28-16.03.31:237][242]Cmd: TRANSACTION UNDO
+[2026.04.28-16.03.31:237][242]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-16.03.53:909][288]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39222.253906
+[2026.04.28-16.03.54:188][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-16.03.54:188][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39222.519531, Update Interval: 350.346375
+[2026.04.28-16.04.24:594][922]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.04.32:802][692]Cmd: TRANSACTION UNDO
+[2026.04.28-16.04.32:802][692]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-16.04.33:119][697]Cmd: TRANSACTION UNDO
+[2026.04.28-16.04.33:119][697]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-16.04.33:342][700]Cmd: TRANSACTION UNDO
+[2026.04.28-16.04.33:342][700]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-16.04.41:277][448]Cmd: EDIT COPY
+[2026.04.28-16.04.41:494][458]Cmd: EDIT PASTE
+[2026.04.28-16.04.41:494][458]LogWindows: Warning: OpenClipboard failed with error code 5
+[2026.04.28-16.04.43:064][615]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.04.58:828][391]LogDerivedDataCache: C:/Users/ckj86/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.28-16.05.24:176][ 66]Cmd: TRANSACTION UNDO
+[2026.04.28-16.05.24:176][ 66]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-16.05.24:224][ 66]Cmd: TRANSACTION UNDO
+[2026.04.28-16.05.24:224][ 66]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-16.05.29:130][551]Cmd: TRANSACTION UNDO
+[2026.04.28-16.05.29:130][551]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-16.05.30:633][663]Cmd: TRANSACTION UNDO
+[2026.04.28-16.05.30:633][663]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-16.05.41:117][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.28-16.05.41:126][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.04.28-16.05.41:553][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto0
+[2026.04.28-16.05.41:553][786]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto09419619942BBCAF026870F90DB0CDE49.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto0.umap'
+[2026.04.28-16.05.41:557][786]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.465
+[2026.04.28-16.05.41:557][786]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.465
+[2026.04.28-16.05.41:557][786]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/window/window_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.04.28-16.05.41:585][786]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FBX/window/window_1001_BaseColor_Mat.window_1001_BaseColor_Mat]
+[2026.04.28-16.05.41:585][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window_1001_BaseColor_Mat]
+[2026.04.28-16.05.41:591][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/window_1001_BaseColor_Mat_Auto0
+[2026.04.28-16.05.41:591][786]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window_1001_BaseColor_Mat_Auto0A71DEDDD4BDB1BD8F3BE51A00531018E.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window_1001_BaseColor_Mat_Auto0.uasset'
+[2026.04.28-16.05.41:591][786]LogFileHelpers: Auto-saving content packages took 0.034
+[2026.04.28-16.08.44:387][232]Cmd: EDIT COPY
+[2026.04.28-16.08.44:618][258]Cmd: EDIT PASTE
+[2026.04.28-16.09.05:025][636]Cmd: EDIT COPY
+[2026.04.28-16.09.05:218][659]Cmd: EDIT PASTE
+[2026.04.28-16.09.18:907][161]Cmd: EDIT COPY
+[2026.04.28-16.09.19:139][187]Cmd: EDIT PASTE
+[2026.04.28-16.09.30:351][412]Cmd: DELETE
+[2026.04.28-16.09.30:351][412]Cmd: ACTOR DELETE
+[2026.04.28-16.09.30:381][412]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.09.30:409][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.04.28-16.09.30:414][412]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2026.04.28-16.10.15:514][133]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39590.000000
+[2026.04.28-16.10.16:513][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-16.10.16:513][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39590.664062, Update Interval: 311.993774
+[2026.04.28-16.10.52:380][961]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.10.59:660][643]Cmd: EDIT COPY
+[2026.04.28-16.10.59:853][657]Cmd: EDIT PASTE
+[2026.04.28-16.11.01:502][839]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.11.38:256][755]Cmd: EDIT COPY
+[2026.04.28-16.11.38:471][765]Cmd: EDIT PASTE
+[2026.04.28-16.11.39:851][913]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.11.53:664][343]Cmd: TRANSACTION UNDO
+[2026.04.28-16.11.53:664][343]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-16.12.43:361][529]Cmd: EDIT COPY
+[2026.04.28-16.12.43:579][555]Cmd: EDIT PASTE
+[2026.04.28-16.13.51:372][876]Cmd: EDIT COPY
+[2026.04.28-16.13.51:580][901]Cmd: EDIT PASTE
+[2026.04.28-16.13.58:529][713]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.14.03:390][163]Cmd: EDIT COPY
+[2026.04.28-16.14.03:605][178]Cmd: EDIT PASTE
+[2026.04.28-16.14.05:361][378]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.14.14:871][446]Cmd: EDIT COPY
+[2026.04.28-16.14.15:047][467]Cmd: EDIT PASTE
+[2026.04.28-16.15.04:500][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-16.15.04:527][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.28-16.15.04:576][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.28-16.15.05:015][413]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.28-16.15.05:015][413]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/MainA315CE4C41A28BCB0D78FB828F6718FE.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.28-16.15.05:033][413]LogFileHelpers: Saving map 'Main' took 0.506
+[2026.04.28-16.15.05:045][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 545.473 ms (total: 6.84 sec)
+[2026.04.28-16.15.05:084][413]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-16.15.05:084][413]LogContentValidation: Enabled validators:
+[2026.04.28-16.15.05:084][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-16.15.05:084][413]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-16.15.05:084][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-16.15.05:084][413]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-16.15.05:084][413]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-16.15.05:084][413]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-16.15.05:084][413]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.28-16.16.01:897][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39923.761719
+[2026.04.28-16.16.02:140][245]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-16.16.02:140][245]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39923.996094, Update Interval: 333.155914
+[2026.04.28-16.16.48:548][722]Cmd: EDIT COPY
+[2026.04.28-16.16.48:771][747]Cmd: EDIT PASTE
+[2026.04.28-16.16.52:112][135]Cmd: EDIT COPY
+[2026.04.28-16.16.52:334][160]Cmd: EDIT PASTE
+[2026.04.28-16.17.59:825][854]Cmd: EDIT COPY
+[2026.04.28-16.18.00:048][864]Cmd: EDIT PASTE
+[2026.04.28-16.18.16:863][617]Cmd: TRANSACTION UNDO
+[2026.04.28-16.18.16:863][617]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-16.18.17:371][630]Cmd: TRANSACTION UNDO
+[2026.04.28-16.18.17:371][630]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-16.18.17:776][658]Cmd: TRANSACTION UNDO
+[2026.04.28-16.18.17:776][658]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-16.18.18:322][707]Cmd: TRANSACTION UNDO
+[2026.04.28-16.18.18:322][707]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-16.18.24:287][348]Cmd: TRANSACTION UNDO
+[2026.04.28-16.18.24:287][348]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-16.18.24:658][356]Cmd: TRANSACTION UNDO
+[2026.04.28-16.18.24:658][356]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-16.18.25:083][382]Cmd: TRANSACTION UNDO
+[2026.04.28-16.18.25:084][382]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-16.18.25:671][437]Cmd: TRANSACTION UNDO
+[2026.04.28-16.18.25:671][437]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.28-16.18.36:412][513]Cmd: EDIT COPY
+[2026.04.28-16.18.36:654][524]Cmd: EDIT PASTE
+[2026.04.28-16.18.48:286][786]Cmd: TRANSACTION UNDO
+[2026.04.28-16.18.48:286][786]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-16.19.34:160][ 42]Cmd: DELETE
+[2026.04.28-16.19.34:161][ 42]Cmd: ACTOR DELETE
+[2026.04.28-16.19.34:190][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:191][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:191][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:191][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:192][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:192][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:193][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:193][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:193][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:194][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:194][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:194][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:194][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.34:232][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.04.28-16.19.34:237][ 42]LogEditorActor: Deleted 13 Actors (0.076 secs)
+[2026.04.28-16.19.37:925][471]Cmd: DELETE
+[2026.04.28-16.19.37:925][471]Cmd: ACTOR DELETE
+[2026.04.28-16.19.37:954][471]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.37:985][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-16.19.37:988][471]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2026.04.28-16.19.38:251][495]Cmd: DELETE
+[2026.04.28-16.19.38:251][495]Cmd: ACTOR DELETE
+[2026.04.28-16.19.38:283][495]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.19.38:315][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-16.19.38:319][495]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2026.04.28-16.19.44:898][154]Cmd: EDIT COPY
+[2026.04.28-16.19.45:098][165]Cmd: EDIT PASTE
+[2026.04.28-16.20.07:688][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-16.20.07:688][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-16.20.07:690][696]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/roof/roof_half.roof_half as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4239
+[2026.04.28-16.20.07:880][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.28-16.20.07:883][708]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.04.28-16.20.07:890][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-16.20.07:890][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof/roof_half.roof_half
+[2026.04.28-16.20.07:894][708]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/roof/roof_half.roof_half as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4240
+[2026.04.28-16.20.19:463][422]LogAutomationController: Ignoring very large delta of 4.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.28-16.20.21:705][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-16.20.21:732][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.28-16.20.21:773][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.04.28-16.20.22:210][588]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.28-16.20.22:210][588]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main0E0598AB465A09C68E5B16B000D879BD.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.28-16.20.22:227][588]LogFileHelpers: Saving map 'Main' took 0.496
+[2026.04.28-16.20.22:235][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 530.591 ms (total: 7.37 sec)
+[2026.04.28-16.20.22:277][588]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-16.20.22:277][588]LogContentValidation: Enabled validators:
+[2026.04.28-16.20.22:277][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-16.20.22:277][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-16.20.22:277][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-16.20.22:277][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-16.20.22:277][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-16.20.22:277][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-16.20.22:278][588]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.28-16.20.22:710][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-16.20.24:086][629]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.04.28-16.20.24:105][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-16.20.24:136][629]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/window_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.04.28-16.20.24:136][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window_1001_BaseColor_Mat]
+[2026.04.28-16.20.24:136][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window_1001_BaseColor_Mat" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window_1001_BaseColor_Mat.uasset" SILENT=true
+[2026.04.28-16.20.24:146][629]LogSavePackage: Moving output files for package: /Game/FBX/window/window_1001_BaseColor_Mat
+[2026.04.28-16.20.24:147][629]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window_1001_BaseColor_MatF834B0164D0DE8FAD1817CA09D46849F.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window_1001_BaseColor_Mat.uasset'
+[2026.04.28-16.20.24:155][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.034 ms (total: 7.42 sec)
+[2026.04.28-16.20.24:185][629]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-16.20.24:185][629]LogContentValidation: Enabled validators:
+[2026.04.28-16.20.24:185][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-16.20.24:185][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-16.20.24:185][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-16.20.24:185][629]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-16.20.24:185][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-16.20.24:185][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-16.20.24:185][629]AssetCheck: /Game/FBX/window/window_1001_BaseColor_Mat 에셋 유효성 검사 중
+[2026.04.28-16.20.26:873][923]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.20.27:623][ 10]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.20.39:418][346]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.20.41:139][542]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.20.45:137][  1]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.20.47:538][285]Cmd: DELETE
+[2026.04.28-16.20.47:538][285]Cmd: ACTOR DELETE
+[2026.04.28-16.20.47:568][285]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.20.47:598][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.28-16.20.47:602][285]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2026.04.28-16.20.48:548][382]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.21.02:145][814]Cmd: PIVOT HERE
+[2026.04.28-16.21.04:600][ 22]Cmd: ACTOR BAKEPREPIVOT
+[2026.04.28-16.21.06:690][223]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.21.30:025][586]Cmd: EDIT COPY
+[2026.04.28-16.21.30:248][599]Cmd: EDIT PASTE
+[2026.04.28-16.21.35:854][183]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.21.38:828][509]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.22.20:311][127]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40288.289062
+[2026.04.28-16.22.20:587][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-16.22.20:587][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40288.539062, Update Interval: 338.958710
+[2026.04.28-16.22.27:397][967]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.22.30:997][356]Cmd: EDIT COPY
+[2026.04.28-16.22.31:215][371]Cmd: EDIT PASTE
+[2026.04.28-16.22.33:446][620]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.22.53:089][668]Cmd: TRANSACTION UNDO
+[2026.04.28-16.22.53:089][668]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-16.22.55:759][930]Cmd: TRANSACTION UNDO
+[2026.04.28-16.22.55:759][930]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-16.22.58:161][187]Cmd: TRANSACTION UNDO
+[2026.04.28-16.22.58:161][187]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-16.23.03:784][773]Cmd: TRANSACTION UNDO
+[2026.04.28-16.23.03:784][773]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-16.23.15:006][992]Cmd: TRANSACTION UNDO
+[2026.04.28-16.23.15:006][992]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-16.23.15:368][  1]Cmd: TRANSACTION UNDO
+[2026.04.28-16.23.15:368][  1]LogEditorTransaction: Undo 스케일 설정
+[2026.04.28-16.23.23:811][955]Cmd: MODE SCALEGRID=1
+[2026.04.28-16.23.57:676][718]Cmd: MODE SCALEGRID=0
+[2026.04.28-16.24.50:041][844]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.25.00:918][931]Cmd: EDIT COPY
+[2026.04.28-16.25.01:126][948]Cmd: EDIT PASTE
+[2026.04.28-16.25.01:906][ 29]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-16.26.13:260][444]Cmd: TRANSACTION UNDO
+[2026.04.28-16.26.13:260][444]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-16.26.26:641][756]Cmd: EDIT COPY
+[2026.04.28-16.26.26:861][779]Cmd: EDIT PASTE
+[2026.04.28-16.26.32:954][459]Cmd: EDIT COPY
+[2026.04.28-16.26.33:188][484]Cmd: EDIT PASTE
+[2026.04.28-16.26.37:664][987]Cmd: DELETE
+[2026.04.28-16.26.37:664][987]Cmd: ACTOR DELETE
+[2026.04.28-16.26.37:695][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.26.37:745][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.04.28-16.26.37:749][987]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2026.04.28-16.26.39:048][129]Cmd: EDIT COPY
+[2026.04.28-16.26.39:259][154]Cmd: EDIT PASTE
+[2026.04.28-16.26.44:019][697]Cmd: EDIT COPY
+[2026.04.28-16.26.44:215][711]Cmd: EDIT PASTE
+[2026.04.28-16.26.45:423][824]Cmd: DELETE
+[2026.04.28-16.26.45:423][824]Cmd: ACTOR DELETE
+[2026.04.28-16.26.45:453][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.28-16.26.45:482][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.28-16.26.45:485][824]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2026.04.28-16.26.48:418][159]Cmd: TRANSACTION UNDO
+[2026.04.28-16.26.48:418][159]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.28-16.26.49:721][262]Cmd: EDIT COPY
+[2026.04.28-16.26.50:029][297]Cmd: EDIT PASTE
+[2026.04.28-16.27.18:213][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-16.27.18:235][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.28-16.27.18:276][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.28-16.27.18:715][903]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.28-16.27.18:715][903]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main55EB58AB4425164793DEC7B2C16CBAC0.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.28-16.27.18:731][903]LogFileHelpers: Saving map 'Main' took 0.499
+[2026.04.28-16.27.18:739][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 526.503 ms (total: 7.95 sec)
+[2026.04.28-16.27.18:779][903]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-16.27.18:779][903]LogContentValidation: Enabled validators:
+[2026.04.28-16.27.18:779][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-16.27.18:779][903]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-16.27.18:779][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-16.27.18:779][903]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-16.27.18:779][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-16.27.18:779][903]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-16.27.18:780][903]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.28-16.28.42:209][791]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40658.101562
+[2026.04.28-16.28.43:539][795]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-16.28.43:539][795]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40659.101562, Update Interval: 334.488953
+[2026.04.28-16.30.45:995][348]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.28-16.30.46:068][348]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.28-16.30.46:068][348]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.28-16.30.46:134][349]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.28-16.30.46:213][349]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.28-16.30.46:213][349]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.28-16.30.46:335][350]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.28-16.30.46:403][350]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.28-16.30.46:404][350]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.28-16.30.46:518][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-16.30.46:718][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/wood_b/wood_b_1001_BaseColor] ([1] browsable assets)...
+[2026.04.28-16.30.46:720][351]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/wood_b/wood_b_1001_BaseColor.wood_b_1001_BaseColor]
+[2026.04.28-16.30.46:720][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/wood_b/wood_b_1001_BaseColor]
+[2026.04.28-16.30.46:720][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/wood_b/wood_b_1001_BaseColor" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/wood_b/wood_b_1001_BaseColor.uasset" SILENT=true
+[2026.04.28-16.30.46:738][351]LogSavePackage: Moving output files for package: /Game/FBX/wood_b/wood_b_1001_BaseColor
+[2026.04.28-16.30.46:738][351]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/wood_b_1001_BaseColor7C47CB864826500EC4F0B18BE6307B75.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/wood_b/wood_b_1001_BaseColor.uasset'
+[2026.04.28-16.30.46:739][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/wood_b/wood_b_1001_Normal] ([1] browsable assets)...
+[2026.04.28-16.30.46:741][351]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/wood_b/wood_b_1001_Normal.wood_b_1001_Normal]
+[2026.04.28-16.30.46:741][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/wood_b/wood_b_1001_Normal]
+[2026.04.28-16.30.46:741][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/wood_b/wood_b_1001_Normal" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/wood_b/wood_b_1001_Normal.uasset" SILENT=true
+[2026.04.28-16.30.46:760][351]LogSavePackage: Moving output files for package: /Game/FBX/wood_b/wood_b_1001_Normal
+[2026.04.28-16.30.46:760][351]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/wood_b_1001_Normal28F78D534729D98728D12FB42FEEAB3B.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/wood_b/wood_b_1001_Normal.uasset'
+[2026.04.28-16.30.46:761][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/wood_b/wood_b_1001_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.28-16.30.46:762][351]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/wood_b/wood_b_1001_OcclusionRoughnessMetallic.wood_b_1001_OcclusionRoughnessMetallic]
+[2026.04.28-16.30.46:762][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/wood_b/wood_b_1001_OcclusionRoughnessMetallic]
+[2026.04.28-16.30.46:762][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/wood_b/wood_b_1001_OcclusionRoughnessMetallic" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/wood_b/wood_b_1001_OcclusionRoughnessMetallic.uasset" SILENT=true
+[2026.04.28-16.30.46:777][351]LogSavePackage: Moving output files for package: /Game/FBX/wood_b/wood_b_1001_OcclusionRoughnessMetallic
+[2026.04.28-16.30.46:777][351]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/wood_b_1001_OcclusionRoughnessMeF0ABFB35470541E781AA55AA4C42FFDC.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/wood_b/wood_b_1001_OcclusionRoughnessMetallic.uasset'
+[2026.04.28-16.30.46:806][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 287.951 ms (total: 8.24 sec)
+[2026.04.28-16.30.46:821][351]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.28-16.30.46:871][352]LogContentValidation: Display: Starting to validate 3 assets
+[2026.04.28-16.30.46:871][352]LogContentValidation: Enabled validators:
+[2026.04.28-16.30.46:871][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-16.30.46:871][352]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-16.30.46:871][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-16.30.46:871][352]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-16.30.46:871][352]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-16.30.46:871][352]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-16.30.46:871][352]AssetCheck: /Game/FBX/wood_b/wood_b_1001_BaseColor 에셋 유효성 검사 중
+[2026.04.28-16.30.46:871][352]AssetCheck: /Game/FBX/wood_b/wood_b_1001_Normal 에셋 유효성 검사 중
+[2026.04.28-16.30.46:871][352]AssetCheck: /Game/FBX/wood_b/wood_b_1001_OcclusionRoughnessMetallic 에셋 유효성 검사 중
+[2026.04.28-16.30.49:812][673]AssetReimport: F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/wood_b/wood_b_1001_BaseColor.png에서 wood_b_1001_BaseColor 에셋을 리임포트했습니다.
+[2026.04.28-16.30.49:812][673]AssetReimport: F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/wood_b/wood_b_1001_Normal.png에서 wood_b_1001_Normal 에셋을 리임포트했습니다.
+[2026.04.28-16.30.49:812][673]AssetReimport: F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/wood_b/wood_b_1001_OcclusionRoughnessMetallic.png에서 wood_b_1001_OcclusionRoughnessMetallic 에셋을 리임포트했습니다.
+[2026.04.28-16.33.13:144][927]Cmd: EDIT COPY
+[2026.04.28-16.33.13:369][954]Cmd: EDIT PASTE
+[2026.04.28-16.33.20:239][718]Cmd: TRANSACTION UNDO
+[2026.04.28-16.33.20:239][718]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.28-16.33.44:994][362]Cmd: EDIT COPY
+[2026.04.28-16.33.45:192][371]Cmd: EDIT PASTE
+[2026.04.28-16.34.57:791][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-16.34.57:825][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.28-16.34.57:913][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.04.28-16.34.58:360][495]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.28-16.34.58:360][495]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main018CFDD6435FA922ABD95EA4AF8FD9C7.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.28-16.34.58:376][495]LogFileHelpers: Saving map 'Main' took 0.553
+[2026.04.28-16.34.58:384][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 593.849 ms (total: 8.83 sec)
+[2026.04.28-16.34.58:425][495]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-16.34.58:425][495]LogContentValidation: Enabled validators:
+[2026.04.28-16.34.58:425][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-16.34.58:425][495]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-16.34.58:425][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-16.34.58:425][495]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-16.34.58:425][495]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-16.34.58:425][495]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-16.34.58:426][495]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.28-16.34.59:761][653]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41026.968750
+[2026.04.28-16.34.59:995][681]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-16.34.59:995][681]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41027.187500, Update Interval: 311.217377
+[2026.04.28-16.41.09:678][915]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41394.937500
+[2026.04.28-16.41.10:678][918]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-16.41.10:678][918]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41395.601562, Update Interval: 318.323914
+[2026.04.28-16.47.22:723][586]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41765.386719
+[2026.04.28-16.47.23:723][589]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-16.47.23:723][589]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41766.050781, Update Interval: 326.996063
+[2026.04.28-16.53.22:776][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42124.257812
+[2026.04.28-16.53.23:776][669]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-16.53.23:776][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42124.921875, Update Interval: 350.273132
+[2026.04.28-17.00.13:188][248]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42532.824219
+[2026.04.28-17.00.14:188][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-17.00.14:188][251]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42533.492188, Update Interval: 331.383392
+[2026.04.28-17.04.58:828][105]LogDerivedDataCache: C:/Users/ckj86/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.28-17.06.23:243][358]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42901.765625
+[2026.04.28-17.06.24:244][361]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-17.06.24:244][361]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42902.429688, Update Interval: 307.458099
+[2026.04.28-17.12.03:956][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43241.429688
+[2026.04.28-17.12.04:957][383]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-17.12.04:957][383]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43242.093750, Update Interval: 340.260620
+[2026.04.28-17.17.39:388][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.28-17.17.39:445][  8]LogStall: Shutdown...
+[2026.04.28-17.17.39:445][  8]LogStall: Shutdown complete.
+[2026.04.28-17.17.39:476][  8]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-17.17.39:476][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-17.17.39:516][  8]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-17.17.39:516][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-17.17.39:527][  8]LogSlate: Window 'window_1001_BaseColor_Mat_Inst1' being destroyed
+[2026.04.28-17.17.39:543][  8]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-17.17.39:543][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-17.17.39:567][  8]LogSlate: Window 'PJ_1 - 언리얼 에디터' being destroyed
+[2026.04.28-17.17.39:790][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.04.28-17.17.39:829][  8]Cmd: QUIT_EDITOR
+[2026.04.28-17.17.39:829][  9]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.28-17.17.39:832][  9]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.28-17.17.39:833][  9]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.28-17.17.39:833][  9]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.28-17.17.39:873][  9]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-17.17.39:875][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-17.17.39:882][  9]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.28-17.17.39:883][  9]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.28-17.17.39:884][  9]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.28-17.17.39:891][  9]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-17.17.39:892][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-17.17.39:892][  9]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-17.17.39:892][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-17.17.39:892][  9]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-17.17.39:892][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-17.17.39:892][  9]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.28-17.17.39:892][  9]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.28-17.17.39:898][  9]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.04.28-17.17.39:900][  9]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.28-17.17.39:900][  9]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.28-17.17.39:900][  9]LogAudio: Display: Audio Device unregistered from world 'Main'.
+[2026.04.28-17.17.39:900][  9]LogAudioMixer: Display: Unregistering submix buffer listener 'PixelStreamingEditorListener' from submix 'MasterSubmixDefault'
+[2026.04.28-17.17.39:900][  9]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.28-17.17.39:900][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.28-17.17.39:904][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.28-17.17.39:915][  9]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.28-17.17.39:915][  9]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.28-17.17.39:916][  9]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2026.04.28-17.17.39:919][  9]LogExit: Preparing to exit.
+[2026.04.28-17.17.39:974][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.04.28-17.17.41:223][  9]LogEditorDataStorage: Deinitializing
+[2026.04.28-17.17.41:426][  9]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.28-17.17.41:464][  9]LogExit: Editor shut down
+[2026.04.28-17.17.41:467][  9]LogExit: Transaction tracking system shut down
+[2026.04.28-17.17.41:706][  9]LogExit: Object subsystem successfully closed.
+[2026.04.28-17.17.41:805][  9]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.28-17.17.42:105][  9]LogHttpServerModule: Stopping all listeners...
+[2026.04.28-17.17.42:105][  9]LogHttpListener: HttpListener stopping listening on Port 30010
+[2026.04.28-17.17.42:105][  9]LogHttpServerModule: All listeners stopped
+[2026.04.28-17.17.42:106][  9]LogHttpServerModule: Stopping all listeners...
+[2026.04.28-17.17.42:106][  9]LogHttpServerModule: All listeners stopped
+[2026.04.28-17.17.42:110][  9]LogSharedMemoryMedia: Shutting down module SharedMemoryMedia'...
+[2026.04.28-17.17.42:110][  9]LogDisplayClusterMedia: Shutting down module 'DisplayClusterMedia'...
+[2026.04.28-17.17.42:112][  9]LogDisplayClusterRemoteControlInterceptor: DisplayClusterRemoteControlInterceptor has been unregistered
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterWarp: Warp module shutdown
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterWarp: Un-registering <InFrustumFit> warp factory...
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistering factory for warp policy: InFrustumFit
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistered factory for warp policy: InFrustumFit
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterWarp: Warp module has been shutdown.
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterWarp: Warp module has been destroyed
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjection: Projection module shutdown
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjection: Un-registering <camera> projection factory...
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistering factory for projection policy: camera
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistered factory for projection policy: camera
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjection: Un-registering <domeprojection> projection factory...
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistering factory for projection policy: domeprojection
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistered factory for projection policy: domeprojection
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjection: Un-registering <easyblend> projection factory...
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistering factory for projection policy: easyblend
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistered factory for projection policy: easyblend
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjection: Un-registering <link> projection factory...
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistering factory for projection policy: link
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistered factory for projection policy: link
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjection: Un-registering <reference> projection factory...
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistering factory for projection policy: reference
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistered factory for projection policy: reference
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjection: Un-registering <manual> projection factory...
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistering factory for projection policy: manual
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistered factory for projection policy: manual
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjection: Un-registering <mpcdi> projection factory...
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistering factory for projection policy: mpcdi
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistered factory for projection policy: mpcdi
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjection: Un-registering <mesh> projection factory...
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistering factory for projection policy: mesh
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistered factory for projection policy: mesh
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjection: Un-registering <simple> projection factory...
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistering factory for projection policy: simple
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistered factory for projection policy: simple
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjection: Un-registering <vioso> projection factory...
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistering factory for projection policy: vioso
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterRender: Unregistered factory for projection policy: vioso
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjection: Projection module has been destroyed
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterProjectionVIOSO: VIOSO API released.
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterModule: Cleaning up internals...
+[2026.04.28-17.17.42:113][  9]LogDisplayClusterCluster: Releasing cluster manager...
+[2026.04.28-17.17.42:118][  9]LogMemoryProfiler: Shutdown
+[2026.04.28-17.17.42:118][  9]LogNetworkingProfiler: Shutdown
+[2026.04.28-17.17.42:118][  9]LoadingProfiler: Shutdown
+[2026.04.28-17.17.42:118][  9]LogTimingProfiler: Shutdown
+[2026.04.28-17.17.42:120][  9]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.28-17.17.42:120][  9]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.28-17.17.42:438][  9]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.28-17.17.42:439][  9]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.28-17.17.42:468][  9]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.28-17.17.42:468][  9]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B83253221-4EC5-38FF-1E0F-8A83D0AEA28A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=5f582af143a73884e7cc5b82603e59c4%7C35dd501bddea4e8592a278044a90a4e6%7Cffd848ab-0694-4fe0-952b-b0a709b55648&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.28-17.17.43:027][  9]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.28-17.17.43:028][  9]RenderDocPlugin: plugin has been unloaded.
+[2026.04.28-17.17.43:029][  9]LogXGEController: Cleaning working directory: C:/Users/ckj86/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.04.28-17.17.43:032][  9]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.28-17.17.43:032][  9]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.28-17.17.43:032][  9]LogPakFile: Destroying PakPlatformFile
+[2026.04.28-17.17.43:664][  9]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.28-17.17.43:729][  9]LogExit: Exiting.
+[2026.04.28-17.17.43:753][  9]Log file closed, 04/29/26 02:17:43
