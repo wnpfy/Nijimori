@@ -2938,3 +2938,748 @@ Sampler Limit: 32
 [2026.04.29-16.33.39:740][412]AssetCheck: /Game/FBX/building_wall/glass_Inst 에셋 유효성 검사 중
 [2026.04.29-16.33.39:740][412]AssetCheck: /Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat 에셋 유효성 검사 중
 [2026.04.29-16.33.39:754][412]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.29-16.36.13:852][552]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8438.069336
+[2026.04.29-16.36.14:103][582]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.36.14:103][582]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8438.311523, Update Interval: 327.274384
+[2026.04.29-16.38.02:161][186]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-16.38.08:255][797]Cmd: EDIT COPY
+[2026.04.29-16.38.08:512][810]Cmd: EDIT PASTE
+[2026.04.29-16.38.16:619][701]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-16.39.22:146][425]Cmd: EDIT COPY
+[2026.04.29-16.39.22:413][457]Cmd: EDIT PASTE
+[2026.04.29-16.39.23:954][633]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-16.39.52:577][948]Cmd: EDIT COPY
+[2026.04.29-16.39.52:837][979]Cmd: EDIT PASTE
+[2026.04.29-16.40.10:338][886]Cmd: TRANSACTION UNDO
+[2026.04.29-16.40.10:338][886]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.29-16.40.12:332][ 61]Cmd: TRANSACTION UNDO
+[2026.04.29-16.40.12:332][ 61]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.29-16.40.19:906][873]Cmd: EDIT COPY
+[2026.04.29-16.40.20:125][885]Cmd: EDIT PASTE
+[2026.04.29-16.42.10:140][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8797.141602
+[2026.04.29-16.42.10:373][ 40]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.42.10:373][ 40]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8797.366211, Update Interval: 345.902283
+[2026.04.29-16.43.35:620][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.04.29-16.43.35:628][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.04.29-16.43.36:065][214]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto9
+[2026.04.29-16.43.36:065][214]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto9D78FE8AB402D5C46C407B58A40871B2D.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto9.umap'
+[2026.04.29-16.43.36:072][214]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.482
+[2026.04.29-16.43.36:072][214]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.482
+[2026.04.29-16.48.40:120][600]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9187.436523
+[2026.04.29-16.48.40:378][631]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.48.40:378][631]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9187.685547, Update Interval: 331.777100
+[2026.04.29-16.52.49:020][386]Cmd: EDIT COPY
+[2026.04.29-16.52.49:290][417]Cmd: EDIT PASTE
+[2026.04.29-16.52.58:861][427]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-16.53.41:137][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.04.29-16.53.41:145][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.04.29-16.53.41:592][206]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto0
+[2026.04.29-16.53.41:592][206]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto08586236A493910B374D2BC86755A7464.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto0.umap'
+[2026.04.29-16.53.41:599][206]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.496
+[2026.04.29-16.53.41:599][206]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.496
+[2026.04.29-16.54.47:964][406]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9555.532227
+[2026.04.29-16.54.48:965][409]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.54.48:965][409]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9556.198242, Update Interval: 322.980438
+[2026.04.29-16.55.06:196][702]Cmd: DELETE
+[2026.04.29-16.55.06:196][702]Cmd: ACTOR DELETE
+[2026.04.29-16.55.06:226][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.55.06:227][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.55.06:227][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.55.06:255][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.04.29-16.55.06:257][702]LogEditorActor: Deleted 3 Actors (0.061 secs)
+[2026.04.29-16.55.10:371][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.00.54:137][942]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9921.659180
+[2026.04.29-17.00.55:135][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-17.00.55:135][945]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9922.325195, Update Interval: 357.441956
+[2026.04.29-17.02.48:272][476]LogSlate: Window '콘텐츠 임포트' being destroyed
+[2026.04.29-17.02.48:291][476]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.29-17.02.48:304][476]LogStaticMesh: Adjacency [0.00s], tris: 172, UVs 1
+[2026.04.29-17.02.48:305][476]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.04.29-17.02.48:305][476]LogStaticMesh: Leaves [0.00s]
+[2026.04.29-17.02.48:308][476]LogStaticMesh: Reduce [0.00s]
+[2026.04.29-17.02.48:308][476]LogStaticMesh: Fallback [0.00s], num tris: 172
+[2026.04.29-17.02.48:308][476]LogStaticMesh: Fallback [0.00s], num tris: 172
+[2026.04.29-17.02.48:308][476]LogStaticMesh: ConstrainClusters:
+[2026.04.29-17.02.48:308][476]LogStaticMesh:   Input: 3 Clusters, 298 Triangles and 368 Vertices
+[2026.04.29-17.02.48:308][476]LogStaticMesh:   Output without splits: 3 Clusters, 298 Triangles and 368 Vertices
+[2026.04.29-17.02.48:308][476]LogStaticMesh:   Output with splits: 3 Clusters, 298 Triangles and 368 Vertices
+[2026.04.29-17.02.48:308][476]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.04.29-17.02.48:309][476]LogStaticMesh: WritePages:
+[2026.04.29-17.02.48:309][476]LogStaticMesh:   Root: GPU size: 4460 bytes. 1 Pages. 4460.000 bytes per page (13.611% utilization).
+[2026.04.29-17.02.48:309][476]LogStaticMesh:   Streaming: 0 bytes.
+[2026.04.29-17.02.48:309][476]LogStaticMesh:   Page data disk size: 4164 bytes. Fixup data size: 40 bytes.
+[2026.04.29-17.02.48:309][476]LogStaticMesh:   Total GPU size: 4460 bytes, Total disk size: 4204 bytes.
+[2026.04.29-17.02.48:309][476]LogStaticMesh: Encode [0.00s]
+[2026.04.29-17.02.48:309][476]LogStaticMesh: NaniteBuild [0.00s]
+[2026.04.29-17.02.48:317][476]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/window/window2.window2
+[2026.04.29-17.02.48:327][476]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.29-17.02.48:327][476]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.29-17.02.48:380][477]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.29-17.02.48:447][477]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.29-17.02.48:447][477]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.29-17.02.48:522][478]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.29-17.02.48:611][478]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.29-17.02.48:611][478]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.29-17.02.48:789][479]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.29-17.02.48:873][479]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.29-17.02.48:873][479]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.29-17.02.49:984][552]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/window/window2.window2
+[2026.04.29-17.02.49:985][552]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/window/window2.window2
+[2026.04.29-17.02.49:986][552]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/window/window2.window2 as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4301
+[2026.04.29-17.02.50:138][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.04.29-17.02.50:145][561]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2026.04.29-17.02.50:153][561]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/window/window2.window2
+[2026.04.29-17.02.50:153][561]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/window/window2.window2
+[2026.04.29-17.02.50:156][561]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/window/window2.window2 as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4302
+[2026.04.29-17.02.53:332][857]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.02.53:367][857]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.02.54:634][  0]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.02.58:463][417]Cmd: PIVOT HERE
+[2026.04.29-17.03.01:628][754]Cmd: ACTOR BAKEPREPIVOT
+[2026.04.29-17.03.07:236][344]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.07:236][344]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.07:236][344]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.07:236][344]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.07:236][344]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.07:236][344]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.07:236][344]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.07:236][344]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.07:236][344]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.07:275][344]LogMaterial: Display: Material /Game/FBX/window/window2_1001_BaseColor_Mat.window2_1001_BaseColor_Mat needed to have new flag set bUsedWithNanite !
+[2026.04.29-17.03.07:297][344]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.07:297][344]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.07:335][344]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.07:675][350]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.03.09:802][571]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FBX/window/window2_1001_OcclusionRoughnessMetallic.window2_1001_OcclusionRoughnessMetallic
+[2026.04.29-17.03.09:911][571]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.09:911][571]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.09:912][571]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.09:912][571]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.09:912][571]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.09:912][571]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.09:912][571]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.09:912][571]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.09:912][571]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.10:161][571]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.12:739][802]LogTexture: Display: 텍스처 빌드 중: /Game/FBX/window/window2_1001_OcclusionRoughnessMetallic.window2_1001_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 388.083323MB), 인코딩 속도: Final
+[2026.04.29-17.03.12:797][802]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.12:798][802]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.12:798][802]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.12:798][802]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.12:798][802]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.12:798][802]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.12:798][802]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.12:798][802]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.12:798][802]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.12:803][802]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.13:799][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-17.03.13:859][898]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/window/window2_1001_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.29-17.03.13:861][898]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/window/window2_1001_OcclusionRoughnessMetallic.window2_1001_OcclusionRoughnessMetallic]
+[2026.04.29-17.03.13:861][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window2_1001_OcclusionRoughnessMetallic]
+[2026.04.29-17.03.13:861][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window2_1001_OcclusionRoughnessMetallic" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window2_1001_OcclusionRoughnessMetallic.uasset" SILENT=true
+[2026.04.29-17.03.13:879][898]LogSavePackage: Moving output files for package: /Game/FBX/window/window2_1001_OcclusionRoughnessMetallic
+[2026.04.29-17.03.13:879][898]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window2_1001_OcclusionRoughnessM196BC09A440F5357B4CA219E289C8831.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window2_1001_OcclusionRoughnessMetallic.uasset'
+[2026.04.29-17.03.13:889][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.073 ms (total: 2.90 sec)
+[2026.04.29-17.03.13:925][898]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-17.03.13:925][898]LogContentValidation: Enabled validators:
+[2026.04.29-17.03.13:925][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-17.03.13:925][898]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-17.03.13:925][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-17.03.13:925][898]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-17.03.13:925][898]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-17.03.13:925][898]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-17.03.13:925][898]AssetCheck: /Game/FBX/window/window2_1001_OcclusionRoughnessMetallic 에셋 유효성 검사 중
+[2026.04.29-17.03.13:944][898]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.29-17.03.21:096][516]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FBX/window/window2_1001_BaseColor_Mat.window2_1001_BaseColor_Mat
+[2026.04.29-17.03.21:098][516]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.04.29-17.03.21:218][516]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.21:218][516]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.21:451][516]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.03.21:451][516]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.04.29-17.03.21:451][516]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.21:451][516]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.03.21:451][516]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.21:520][518]MaterialEditorStats: Base pass shader: 209 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.04.29-17.03.21:520][518]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.03.21:520][518]MaterialEditorStats: Texture samplers: 3/16
+[2026.04.29-17.03.21:520][518]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.04.29-17.03.21:520][518]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.21:520][518]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.03.21:520][518]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.26:628][985]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.26:628][985]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.26:644][985]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.26:644][985]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.26:652][985]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.03.26:652][985]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.04.29-17.03.26:652][985]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.26:652][985]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.03.26:652][985]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.26:695][986]MaterialEditorStats: Base pass shader: 209 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.04.29-17.03.26:695][986]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.03.26:695][986]MaterialEditorStats: Texture samplers: 3/16
+[2026.04.29-17.03.26:695][986]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.04.29-17.03.26:695][986]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.26:695][986]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.03.26:695][986]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.31:180][438]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.31:180][438]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.31:184][438]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.03.31:184][438]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-17.03.31:185][438]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.31:185][438]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.03.31:185][438]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.31:270][440]MaterialEditorStats: Base pass shader: 209 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.04.29-17.03.31:270][440]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.03.31:270][440]MaterialEditorStats: Texture samplers: 3/16
+[2026.04.29-17.03.31:270][440]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-17.03.31:270][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.31:270][440]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.03.31:270][440]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.33:928][719]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.33:928][719]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.33:933][719]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.03.33:933][719]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-17.03.33:933][719]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.33:933][719]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.03.33:933][719]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.34:021][721]MaterialEditorStats: Base pass shader: 212 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.04.29-17.03.34:021][721]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.03.34:021][721]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.29-17.03.34:021][721]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-17.03.34:021][721]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.34:021][721]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.03.34:021][721]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.35:537][864]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.35:537][864]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.35:543][864]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.03.35:543][864]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-17.03.35:543][864]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.35:543][864]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.03.35:543][864]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.35:615][867]MaterialEditorStats: Base pass shader: 213 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.04.29-17.03.35:615][867]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.03.35:615][867]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.29-17.03.35:615][867]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-17.03.35:615][867]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.35:615][867]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.03.35:615][867]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.36:921][993]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.36:921][993]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.36:925][993]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.03.36:926][993]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.29-17.03.36:926][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.36:926][993]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.03.36:926][993]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.36:995][996]MaterialEditorStats: Base pass shader: 221 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.29-17.03.36:995][996]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.03.36:995][996]MaterialEditorStats: Texture samplers: 5/16
+[2026.04.29-17.03.36:995][996]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.29-17.03.36:995][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.36:995][996]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.03.36:995][996]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.39:698][251]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.39:698][251]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.39:700][251]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.03.39:700][251]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.29-17.03.39:700][251]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.39:700][251]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.03.39:700][251]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.39:735][253]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.03.39:735][253]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.03.39:735][253]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.29-17.03.39:735][253]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.39:735][253]MaterialEditorStats: Shader Count: 2
+[2026.04.29-17.03.39:735][253]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.39:749][254]MaterialEditorStats: Base pass shader: 221 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.29-17.03.39:749][254]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.03.39:749][254]MaterialEditorStats: Texture samplers: 5/16
+[2026.04.29-17.03.39:749][254]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.29-17.03.39:749][254]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.39:749][254]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.03.39:749][254]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.40:394][314]LogMaterialEditor: Applying material window2_1001_BaseColor_Mat
+[2026.04.29-17.03.40:437][314]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.40:437][314]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.40:496][314]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.40:496][314]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.40:496][314]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.40:496][314]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.40:496][314]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.40:496][314]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.40:496][314]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.40:496][314]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.40:496][314]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.03.40:563][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.04.29-17.03.40:759][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.29-17.03.40:814][314]MaterialEditorStats: Base pass shader: 221 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.29-17.03.40:814][314]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.03.40:814][314]MaterialEditorStats: MaxSampler: 286 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.04.29-17.03.40:814][314]MaterialEditorStats: Nanite Compute Shader: 881 instructions
+Stats: Resources Used: 14
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.29-17.03.40:814][314]MaterialEditorStats: Texture samplers: 6/16
+[2026.04.29-17.03.40:814][314]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.29-17.03.40:814][314]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-17.03.40:814][314]MaterialEditorStats: Shader Count: 55
+[2026.04.29-17.03.40:814][314]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.03.40:844][315]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.04.08:660][822]Cmd: DELETE
+[2026.04.29-17.04.08:660][822]Cmd: ACTOR DELETE
+[2026.04.29-17.04.08:693][822]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.04.08:718][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.29-17.04.08:725][822]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2026.04.29-17.04.13:509][287]Cmd: DELETE
+[2026.04.29-17.04.13:509][287]Cmd: ACTOR DELETE
+[2026.04.29-17.04.13:540][287]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.04.13:563][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.29-17.04.13:569][287]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2026.04.29-17.04.14:408][365]Cmd: EDIT COPY
+[2026.04.29-17.04.14:623][384]Cmd: EDIT PASTE
+[2026.04.29-17.04.27:001][537]Cmd: DELETE
+[2026.04.29-17.04.27:001][537]Cmd: ACTOR DELETE
+[2026.04.29-17.04.27:033][537]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.04.27:056][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.29-17.04.27:063][537]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2026.04.29-17.04.33:110][105]Cmd: EDIT COPY
+[2026.04.29-17.04.33:313][124]Cmd: EDIT PASTE
+[2026.04.29-17.04.37:497][495]Cmd: DELETE
+[2026.04.29-17.04.37:497][495]Cmd: ACTOR DELETE
+[2026.04.29-17.04.37:528][495]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.04.37:558][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.29-17.04.37:564][495]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2026.04.29-17.04.47:047][422]Cmd: EDIT COPY
+[2026.04.29-17.04.47:237][441]Cmd: EDIT PASTE
+[2026.04.29-17.05.19:406][482]Cmd: DELETE
+[2026.04.29-17.05.19:406][482]Cmd: ACTOR DELETE
+[2026.04.29-17.05.19:437][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.05.19:470][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.29-17.05.19:478][482]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2026.04.29-17.05.19:885][513]Cmd: DELETE
+[2026.04.29-17.05.19:885][513]Cmd: ACTOR DELETE
+[2026.04.29-17.05.19:917][513]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.05.19:941][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.29-17.05.19:945][513]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2026.04.29-17.05.20:792][593]Cmd: DELETE
+[2026.04.29-17.05.20:792][593]Cmd: ACTOR DELETE
+[2026.04.29-17.05.20:824][593]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.05.20:851][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.04.29-17.05.20:855][593]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2026.04.29-17.05.21:186][616]Cmd: DELETE
+[2026.04.29-17.05.21:186][616]Cmd: ACTOR DELETE
+[2026.04.29-17.05.21:217][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.05.21:243][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.04.29-17.05.21:247][616]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2026.04.29-17.05.22:592][750]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.05.25:354][993]Cmd: EDIT COPY
+[2026.04.29-17.05.25:571][  2]Cmd: EDIT PASTE
+[2026.04.29-17.05.26:545][ 86]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.05.31:018][490]Cmd: EDIT COPY
+[2026.04.29-17.05.31:219][503]Cmd: EDIT PASTE
+[2026.04.29-17.06.11:922][728]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.06.19:907][499]Cmd: EDIT COPY
+[2026.04.29-17.06.20:124][525]Cmd: EDIT PASTE
+[2026.04.29-17.06.21:425][671]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.06.31:866][789]Cmd: EDIT COPY
+[2026.04.29-17.06.32:090][814]Cmd: EDIT PASTE
+[2026.04.29-17.06.33:679][997]Cmd: TRANSACTION UNDO
+[2026.04.29-17.06.33:679][997]LogEditorTransaction: Undo 붙여넣기
+[2026.04.29-17.06.33:763][997]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.06.33:763][997]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.06.33:763][997]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.06.33:763][997]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.06.33:763][997]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.06.33:763][997]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.06.33:763][997]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.06.33:763][997]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.06.33:763][997]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.06.33:765][997]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-17.06.35:293][136]Cmd: EDIT COPY
+[2026.04.29-17.06.35:527][162]Cmd: EDIT PASTE
+[2026.04.29-17.06.36:336][249]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.06.38:699][458]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.06.55:764][284]Cmd: DELETE
+[2026.04.29-17.06.55:764][284]Cmd: ACTOR DELETE
+[2026.04.29-17.06.55:795][284]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.06.55:825][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.29-17.06.55:831][284]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2026.04.29-17.07.05:316][301]Cmd: EDIT COPY
+[2026.04.29-17.07.05:527][318]Cmd: EDIT PASTE
+[2026.04.29-17.07.08:050][603]Cmd: EDIT COPY
+[2026.04.29-17.07.12:331][106]Cmd: EDIT COPY
+[2026.04.29-17.07.12:548][132]Cmd: EDIT PASTE
+[2026.04.29-17.07.14:076][303]Cmd: DELETE
+[2026.04.29-17.07.14:076][303]Cmd: ACTOR DELETE
+[2026.04.29-17.07.14:108][303]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.07.14:136][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.29-17.07.14:143][303]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2026.04.29-17.07.16:606][524]Cmd: EDIT COPY
+[2026.04.29-17.07.16:813][544]Cmd: EDIT PASTE
+[2026.04.29-17.07.17:523][618]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.07.25:804][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10313.512695
+[2026.04.29-17.07.26:069][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-17.07.26:069][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10313.768555, Update Interval: 328.358398
+[2026.04.29-17.07.43:210][404]Cmd: EDIT COPY
+[2026.04.29-17.07.43:415][427]Cmd: EDIT PASTE
+[2026.04.29-17.07.50:392][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.07.52:701][416]Cmd: EDIT COPY
+[2026.04.29-17.07.52:906][425]Cmd: EDIT PASTE
+[2026.04.29-17.07.53:556][478]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.07.58:682][ 67]Cmd: DELETE
+[2026.04.29-17.07.58:682][ 67]Cmd: ACTOR DELETE
+[2026.04.29-17.07.58:713][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.07.58:743][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.29-17.07.58:749][ 67]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2026.04.29-17.08.03:116][509]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.08.05:806][794]Cmd: EDIT COPY
+[2026.04.29-17.08.06:007][806]Cmd: EDIT PASTE
+[2026.04.29-17.10.14:361][583]Cmd: TRANSACTION UNDO
+[2026.04.29-17.10.14:361][583]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.29-17.10.23:737][551]Cmd: EDIT COPY
+[2026.04.29-17.10.23:993][580]Cmd: EDIT PASTE
+[2026.04.29-17.10.25:556][758]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.12.05:505][865]Cmd: EDIT COPY
+[2026.04.29-17.12.05:740][893]Cmd: EDIT PASTE
+[2026.04.29-17.12.13:256][743]Cmd: EDIT CUT
+[2026.04.29-17.12.13:288][743]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.12.13:325][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.04.29-17.12.13:331][743]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2026.04.29-17.12.15:612][  4]Cmd: EDIT COPY
+[2026.04.29-17.12.15:813][ 28]Cmd: EDIT PASTE
+[2026.04.29-17.12.23:995][952]Cmd: EDIT COPY
+[2026.04.29-17.12.24:208][976]Cmd: EDIT PASTE
+[2026.04.29-17.13.18:545][206]Cmd: EDIT COPY
+[2026.04.29-17.13.18:772][225]Cmd: EDIT PASTE
+[2026.04.29-17.13.19:647][309]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.13.42:974][764]Cmd: EDIT COPY
+[2026.04.29-17.13.43:183][789]Cmd: EDIT PASTE
+[2026.04.29-17.13.43:687][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10691.574219
+[2026.04.29-17.13.43:927][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-17.13.43:927][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10691.804688, Update Interval: 355.922119
+[2026.04.29-17.14.10:487][901]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.14.13:154][171]Cmd: EDIT COPY
+[2026.04.29-17.14.13:364][184]Cmd: EDIT PASTE
+[2026.04.29-17.14.20:602][957]Cmd: EDIT COPY
+[2026.04.29-17.14.20:857][986]Cmd: EDIT PASTE
+[2026.04.29-17.16.34:215][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.04.29-17.16.34:222][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.04.29-17.16.34:683][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto1
+[2026.04.29-17.16.34:683][895]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto12FCCDCA74DFC1F32850E3ABC3B868885.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto1.umap'
+[2026.04.29-17.16.34:687][895]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.515
+[2026.04.29-17.16.34:687][895]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.515
+[2026.04.29-17.16.34:687][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/window/window2] ([1] browsable assets)...
+[2026.04.29-17.16.34:758][895]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/window/window2.window2]
+[2026.04.29-17.16.34:758][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window2]
+[2026.04.29-17.16.34:758][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window2" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.04.29-17.16.34:766][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/window2_Auto1
+[2026.04.29-17.16.34:766][895]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window2_Auto19A2CE1B84726A3E7440FDE9212A779FC.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window2_Auto1.uasset'
+[2026.04.29-17.16.34:768][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/window/window2_1001_Normal] ([1] browsable assets)...
+[2026.04.29-17.16.34:773][895]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/window/window2_1001_Normal.window2_1001_Normal]
+[2026.04.29-17.16.34:773][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window2_1001_Normal]
+[2026.04.29-17.16.34:773][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window2_1001_Normal" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window2_1001_Normal_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.04.29-17.16.34:786][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/window2_1001_Normal_Auto1
+[2026.04.29-17.16.34:786][895]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window2_1001_Normal_Auto1959A915042362207514D39A5E6140716.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window2_1001_Normal_Auto1.uasset'
+[2026.04.29-17.16.34:787][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/window/window2_1001_BaseColor] ([1] browsable assets)...
+[2026.04.29-17.16.34:792][895]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/window/window2_1001_BaseColor.window2_1001_BaseColor]
+[2026.04.29-17.16.34:792][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window2_1001_BaseColor]
+[2026.04.29-17.16.34:792][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window2_1001_BaseColor" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window2_1001_BaseColor_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.04.29-17.16.34:805][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/window2_1001_BaseColor_Auto1
+[2026.04.29-17.16.34:805][895]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window2_1001_BaseColor_Auto1B0C7504549F1372CA77D03905513A293.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window2_1001_BaseColor_Auto1.uasset'
+[2026.04.29-17.16.34:806][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/window/window2_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.04.29-17.16.34:842][895]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FBX/window/window2_1001_BaseColor_Mat.window2_1001_BaseColor_Mat]
+[2026.04.29-17.16.34:842][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window2_1001_BaseColor_Mat]
+[2026.04.29-17.16.34:849][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/window2_1001_BaseColor_Mat_Auto1
+[2026.04.29-17.16.34:849][895]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window2_1001_BaseColor_Mat_Auto1329392DD47D335B55CD2E8A6DBF0D93B.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window2_1001_BaseColor_Mat_Auto1.uasset'
+[2026.04.29-17.16.34:850][895]LogFileHelpers: Auto-saving content packages took 0.162
+[2026.04.29-17.17.23:943][724]LogDerivedDataCache: C:/Users/ckj86/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.29-17.17.33:636][779]Cmd: EDIT COPY
+[2026.04.29-17.17.33:853][805]Cmd: EDIT PASTE
+[2026.04.29-17.17.38:976][367]Cmd: EDIT COPY
+[2026.04.29-17.17.39:194][393]Cmd: EDIT PASTE
+[2026.04.29-17.17.44:841][ 42]Cmd: DELETE
+[2026.04.29-17.17.44:841][ 42]Cmd: ACTOR DELETE
+[2026.04.29-17.17.44:873][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.17.44:906][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.29-17.17.44:911][ 42]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2026.04.29-17.17.45:748][125]Cmd: EDIT COPY
+[2026.04.29-17.17.45:940][148]Cmd: EDIT PASTE
+[2026.04.29-17.18.33:420][562]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.18.39:038][132]Cmd: EDIT COPY
+[2026.04.29-17.18.39:303][162]Cmd: EDIT PASTE
+[2026.04.29-17.19.11:235][591]Cmd: MODE ROTGRID=0
+[2026.04.29-17.19.13:320][809]Cmd: MODE ROTGRID=1
+[2026.04.29-17.19.16:252][ 94]Cmd: EDIT COPY
+[2026.04.29-17.19.16:453][118]Cmd: EDIT PASTE
+[2026.04.29-17.19.33:429][ 16]Cmd: EDIT COPY
+[2026.04.29-17.19.33:680][ 46]Cmd: EDIT PASTE
+[2026.04.29-17.19.57:030][557]Cmd: DELETE
+[2026.04.29-17.19.57:030][557]Cmd: ACTOR DELETE
+[2026.04.29-17.19.57:063][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.19.57:100][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.04.29-17.19.57:107][557]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2026.04.29-17.19.59:073][701]Cmd: EDIT COPY
+[2026.04.29-17.19.59:313][719]Cmd: EDIT PASTE
+[2026.04.29-17.20.19:196][931]Cmd: EDIT COPY
+[2026.04.29-17.20.19:409][949]Cmd: EDIT PASTE
+[2026.04.29-17.20.20:756][ 95]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11088.718750
+[2026.04.29-17.20.20:996][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-17.20.20:997][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11088.942383, Update Interval: 349.559021
+[2026.04.29-17.20.36:508][856]Cmd: EDIT COPY
+[2026.04.29-17.20.36:708][880]Cmd: EDIT PASTE
+[2026.04.29-17.21.22:126][679]Cmd: DELETE
+[2026.04.29-17.21.22:126][679]Cmd: ACTOR DELETE
+[2026.04.29-17.21.22:157][679]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.21.22:190][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.29-17.21.22:196][679]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2026.04.29-17.21.29:615][459]Cmd: EDIT COPY
+[2026.04.29-17.21.29:832][485]Cmd: EDIT PASTE
+[2026.04.29-17.21.29:833][485]LogWindows: Warning: OpenClipboard failed with error code 5
+[2026.04.29-17.21.32:707][819]Cmd: TRANSACTION UNDO
+[2026.04.29-17.21.32:707][819]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.29-17.21.33:184][833]Cmd: TRANSACTION UNDO
+[2026.04.29-17.21.33:184][833]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.29-17.21.33:937][909]Cmd: EDIT COPY
+[2026.04.29-17.21.34:177][936]Cmd: EDIT PASTE
+[2026.04.29-17.21.46:007][201]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.21.54:560][ 31]Cmd: EDIT COPY
+[2026.04.29-17.21.54:799][ 58]Cmd: EDIT PASTE
+[2026.04.29-17.22.04:541][ 68]Cmd: EDIT COPY
+[2026.04.29-17.22.04:767][ 95]Cmd: EDIT PASTE
+[2026.04.29-17.22.15:274][293]Cmd: EDIT COPY
+[2026.04.29-17.22.15:495][316]Cmd: EDIT PASTE
+[2026.04.29-17.22.50:440][273]Cmd: DELETE
+[2026.04.29-17.22.50:440][273]Cmd: ACTOR DELETE
+[2026.04.29-17.22.50:471][273]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.22.50:514][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.29-17.22.50:521][273]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2026.04.29-17.22.50:778][293]Cmd: DELETE
+[2026.04.29-17.22.50:778][293]Cmd: ACTOR DELETE
+[2026.04.29-17.22.50:809][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.22.50:850][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.29-17.22.50:855][293]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2026.04.29-17.22.53:649][579]Cmd: DELETE
+[2026.04.29-17.22.53:649][579]Cmd: ACTOR DELETE
+[2026.04.29-17.22.53:680][579]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.22.53:713][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.04.29-17.22.53:717][579]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2026.04.29-17.22.53:887][588]Cmd: DELETE
+[2026.04.29-17.22.53:887][588]Cmd: ACTOR DELETE
+[2026.04.29-17.22.53:919][588]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.22.53:960][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.29-17.22.53:964][588]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2026.04.29-17.23.33:027][805]Cmd: EDIT COPY
+[2026.04.29-17.23.33:236][830]Cmd: EDIT PASTE
+[2026.04.29-17.23.41:177][682]Cmd: TRANSACTION UNDO
+[2026.04.29-17.23.41:177][682]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.29-17.23.53:769][994]Cmd: EDIT COPY
+[2026.04.29-17.23.54:036][ 12]Cmd: EDIT PASTE
+[2026.04.29-17.24.09:513][727]Cmd: EDIT COPY
+[2026.04.29-17.24.09:781][748]Cmd: EDIT PASTE
+[2026.04.29-17.24.32:638][373]Cmd: EDIT COPY
+[2026.04.29-17.24.32:854][397]Cmd: EDIT PASTE
+[2026.04.29-17.24.58:068][ 74]Cmd: EDIT COPY
+[2026.04.29-17.24.58:266][ 96]Cmd: EDIT PASTE
+[2026.04.29-17.25.31:172][692]Cmd: EDIT COPY
+[2026.04.29-17.25.31:371][716]Cmd: EDIT PASTE
+[2026.04.29-17.25.41:828][893]Cmd: EDIT COPY
+[2026.04.29-17.25.42:044][903]Cmd: EDIT PASTE
+[2026.04.29-17.26.21:648][139]Cmd: EDIT COPY
+[2026.04.29-17.26.21:910][157]Cmd: EDIT PASTE
+[2026.04.29-17.26.53:740][695]Cmd: EDIT COPY
+[2026.04.29-17.26.53:940][719]Cmd: EDIT PASTE
+[2026.04.29-17.27.05:518][ 21]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11493.540039
+[2026.04.29-17.27.05:756][ 48]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-17.27.05:756][ 48]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11493.768555, Update Interval: 358.634003
+[2026.04.29-17.27.15:201][109]Cmd: EDIT COPY
+[2026.04.29-17.27.15:418][135]Cmd: EDIT PASTE
+[2026.04.29-17.27.35:257][197]Cmd: EDIT COPY
+[2026.04.29-17.27.35:449][206]Cmd: EDIT PASTE
+[2026.04.29-17.27.46:400][381]Cmd: EDIT COPY
+[2026.04.29-17.27.47:605][518]Cmd: EDIT COPY
+[2026.04.29-17.27.47:824][542]Cmd: EDIT PASTE
+[2026.04.29-17.28.00:932][831]Cmd: EDIT COPY
+[2026.04.29-17.28.01:192][862]Cmd: EDIT PASTE
+[2026.04.29-17.28.13:649][267]Cmd: EDIT COPY
+[2026.04.29-17.28.13:843][290]Cmd: EDIT PASTE
+[2026.04.29-17.28.51:762][460]Cmd: EDIT COPY
+[2026.04.29-17.28.51:975][481]Cmd: EDIT PASTE
+[2026.04.29-17.29.04:638][763]Cmd: EDIT COPY
+[2026.04.29-17.29.04:829][786]Cmd: EDIT PASTE
+[2026.04.29-17.29.24:335][966]Cmd: EDIT COPY
+[2026.04.29-17.29.24:549][976]Cmd: EDIT PASTE
+[2026.04.29-17.29.30:167][615]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.29.37:633][421]Cmd: TRANSACTION UNDO
+[2026.04.29-17.29.37:633][421]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.29-17.30.07:105][630]Cmd: EDIT COPY
+[2026.04.29-17.30.07:307][640]Cmd: EDIT PASTE
+[2026.04.29-17.30.18:031][830]Cmd: EDIT COPY
+[2026.04.29-17.30.18:258][843]Cmd: EDIT PASTE
+[2026.04.29-17.30.28:232][878]Cmd: EDIT COPY
+[2026.04.29-17.30.28:431][900]Cmd: EDIT PASTE
+[2026.04.29-17.30.40:816][140]Cmd: EDIT COPY
+[2026.04.29-17.30.41:048][166]Cmd: EDIT PASTE
+[2026.04.29-17.30.41:970][260]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.31.07:050][868]Cmd: EDIT COPY
+[2026.04.29-17.31.07:259][893]Cmd: EDIT PASTE
+[2026.04.29-17.31.15:027][756]Cmd: EDIT COPY
+[2026.04.29-17.31.15:231][777]Cmd: EDIT PASTE
+[2026.04.29-17.31.26:031][961]Cmd: EDIT COPY
+[2026.04.29-17.31.26:262][972]Cmd: EDIT PASTE
+[2026.04.29-17.31.31:750][599]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.31.48:417][400]Cmd: EDIT COPY
+[2026.04.29-17.31.48:617][424]Cmd: EDIT PASTE
+[2026.04.29-17.31.55:558][226]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.32.16:413][303]Cmd: EDIT COPY
+[2026.04.29-17.32.16:649][314]Cmd: EDIT PASTE
+[2026.04.29-17.32.20:433][742]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.32.58:251][934]Cmd: EDIT COPY
+[2026.04.29-17.32.58:487][947]Cmd: EDIT PASTE
+[2026.04.29-17.33.07:702][973]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.33.20:830][376]Cmd: TRANSACTION UNDO
+[2026.04.29-17.33.20:831][376]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.29-17.33.21:492][410]Cmd: TRANSACTION UNDO
+[2026.04.29-17.33.21:492][410]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.29-17.33.56:212][150]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11904.248047
+[2026.04.29-17.33.56:452][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-17.33.56:453][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11904.483398, Update Interval: 342.906586
+[2026.04.29-17.34.02:506][821]Cmd: EDIT COPY
+[2026.04.29-17.34.02:714][846]Cmd: EDIT PASTE
+[2026.04.29-17.34.06:644][299]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-17.34.33:693][296]Cmd: EDIT COPY
+[2026.04.29-17.34.33:910][322]Cmd: EDIT PASTE
+[2026.04.29-17.36.34:246][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.04.29-17.36.34:893][504]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.04.29-17.36.34:913][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-17.36.34:948][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.29-17.36.35:009][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.04.29-17.36.35:458][504]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.29-17.36.35:458][504]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main2209E7DB4003227D9DC8C2B509E094D0.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.29-17.36.35:475][504]LogFileHelpers: Saving map 'Main' took 0.528
+[2026.04.29-17.36.35:475][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/window2] ([1] browsable assets)...
+[2026.04.29-17.36.35:475][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window2]
+[2026.04.29-17.36.35:475][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window2" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window2.uasset" SILENT=true
+[2026.04.29-17.36.35:480][504]LogSavePackage: Moving output files for package: /Game/FBX/window/window2
+[2026.04.29-17.36.35:480][504]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window2C36827C7412A7653044A26BCCD145B3F.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window2.uasset'
+[2026.04.29-17.36.35:481][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/window2_1001_BaseColor] ([1] browsable assets)...
+[2026.04.29-17.36.35:481][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window2_1001_BaseColor]
+[2026.04.29-17.36.35:481][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window2_1001_BaseColor" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window2_1001_BaseColor.uasset" SILENT=true
+[2026.04.29-17.36.35:503][504]LogSavePackage: Moving output files for package: /Game/FBX/window/window2_1001_BaseColor
+[2026.04.29-17.36.35:503][504]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window2_1001_BaseColorBC62D6734EF558DEBD7249A1030B1D86.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window2_1001_BaseColor.uasset'
+[2026.04.29-17.36.35:504][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/window2_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.04.29-17.36.35:504][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window2_1001_BaseColor_Mat]
+[2026.04.29-17.36.35:504][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window2_1001_BaseColor_Mat" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window2_1001_BaseColor_Mat.uasset" SILENT=true
+[2026.04.29-17.36.35:508][504]LogSavePackage: Moving output files for package: /Game/FBX/window/window2_1001_BaseColor_Mat
+[2026.04.29-17.36.35:508][504]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window2_1001_BaseColor_Mat453674CE409A71D2AD109EA0E88B7586.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window2_1001_BaseColor_Mat.uasset'
+[2026.04.29-17.36.35:509][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/window2_1001_Normal] ([1] browsable assets)...
+[2026.04.29-17.36.35:509][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window2_1001_Normal]
+[2026.04.29-17.36.35:509][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window2_1001_Normal" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window2_1001_Normal.uasset" SILENT=true
+[2026.04.29-17.36.35:535][504]LogSavePackage: Moving output files for package: /Game/FBX/window/window2_1001_Normal
+[2026.04.29-17.36.35:535][504]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window2_1001_NormalED7F9E424D766D8555D2299BB4FCACDC.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window2_1001_Normal.uasset'
+[2026.04.29-17.36.35:546][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 632.811 ms (total: 3.54 sec)
+[2026.04.29-17.36.35:594][504]LogContentValidation: Display: Starting to validate 5 assets
+[2026.04.29-17.36.35:594][504]LogContentValidation: Enabled validators:
+[2026.04.29-17.36.35:594][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-17.36.35:594][504]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-17.36.35:594][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-17.36.35:594][504]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-17.36.35:594][504]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-17.36.35:594][504]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-17.36.35:595][504]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.29-17.36.35:595][504]AssetCheck: /Game/FBX/window/window2 에셋 유효성 검사 중
+[2026.04.29-17.36.35:595][504]AssetCheck: /Game/FBX/window/window2_1001_BaseColor 에셋 유효성 검사 중
+[2026.04.29-17.36.35:595][504]AssetCheck: /Game/FBX/window/window2_1001_BaseColor_Mat 에셋 유효성 검사 중
+[2026.04.29-17.36.35:595][504]AssetCheck: /Game/FBX/window/window2_1001_Normal 에셋 유효성 검사 중
+[2026.04.29-17.36.35:611][504]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
