@@ -1491,3 +1491,1450 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.29-15.29.39:748][166]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4443.814941
 [2026.04.29-15.29.39:982][194]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.29-15.29.39:982][194]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4444.041016, Update Interval: 304.850616
+[2026.04.29-15.35.20:238][102]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4784.303223
+[2026.04.29-15.35.20:505][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-15.35.20:506][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4784.561523, Update Interval: 305.035553
+[2026.04.29-15.35.31:192][340]Cmd: EDIT COPY
+[2026.04.29-15.35.31:428][355]Cmd: EDIT PASTE
+[2026.04.29-15.35.32:886][516]Cmd: TRANSACTION UNDO
+[2026.04.29-15.35.32:886][516]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.29-15.38.36:444][189]Cmd: EDIT COPY
+[2026.04.29-15.38.36:695][219]Cmd: EDIT PASTE
+[2026.04.29-15.38.43:547][ 20]Cmd: EDIT COPY
+[2026.04.29-15.38.43:793][ 48]Cmd: EDIT PASTE
+[2026.04.29-15.38.45:407][226]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-15.39.18:128][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.29-15.39.18:139][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.04.29-15.39.18:833][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto6
+[2026.04.29-15.39.18:833][190]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto6E9A813AB471ABA54734580B1788DE76C.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto6.umap'
+[2026.04.29-15.39.18:839][190]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.735
+[2026.04.29-15.39.18:839][190]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.735
+[2026.04.29-15.41.10:299][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5134.353027
+[2026.04.29-15.41.11:299][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-15.41.11:299][930]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5135.020020, Update Interval: 314.007996
+[2026.04.29-15.44.37:045][850]LogFab: Display: Logging in using persist
+[2026.04.29-15.44.37:177][850]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2026.04.29-15.44.37:188][850]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.04.29-15.44.37:663][867]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 35d...4e6 Access[Expires: 2026.04.29-17.44.35 Remaining: 7200.09] Refresh[Expires: 2026-10-26T15:44:35.088Z Remaining: 15552000.09] State: Valid
+[2026.04.29-15.44.37:671][868]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.04.29-15.44.37:999][904]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.04.29-15.44.37:999][904]LogFab: Display: User logged in
+[2026.04.29-15.44.37:999][904]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.04.29-15.44.38:252][934]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-DvgiUQjS8UCC2aWeJ7GYUg-Hqhqg5t71kWdXaWJ8DZQGA]
+[2026.04.29-15.44.38:620][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-15.44.38:644][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.29-15.44.38:676][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.04.29-15.44.39:156][975]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.29-15.44.39:156][975]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main52927BD148BB701D8A806C94305C964B.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.29-15.44.39:177][975]LogFileHelpers: Saving map 'Main' took 0.534
+[2026.04.29-15.44.39:185][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 564.365 ms
+[2026.04.29-15.44.39:229][975]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-15.44.39:229][975]LogContentValidation: Enabled validators:
+[2026.04.29-15.44.39:230][975]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-15.44.39:230][975]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-15.44.39:230][975]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-15.44.39:230][975]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-15.44.39:230][975]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-15.44.39:230][975]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-15.44.39:231][975]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.29-15.45.01:119][590]LogFab: Display: Add listing to project - 6b90bbe2-3031-4b36-93ad-90f1cb2d01f5
+[2026.04.29-15.45.01:119][590]LogFab: Display: Listing type - glb
+[2026.04.29-15.45.03:994][889]LogSlate: Took 0.005263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.29-15.45.08:014][339]LogStreaming: Display: FlushAsyncLoading(424): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-15.45.08:369][339]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.04.29-15.45.08:370][339]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ckj86/AppData/Local/Temp/FabLibrary/6b90bbe2-3031-4b36-93ad-90f1cb2d01f5/tuna_fish.glb]
+[2026.04.29-15.45.08:409][343]LogInterchangeImport: Warning: Node [Object_9] with a skinned mesh is not root. Parent transforms will not affect a skinned mesh.
+[2026.04.29-15.45.08:410][343]LogInterchangeImport: Warning: Node [Object_11] with a skinned mesh is not root. Parent transforms will not affect a skinned mesh.
+[2026.04.29-15.45.08:410][343]LogInterchangeImport: Warning: Node [Object_110] with a skinned mesh is not root. Parent transforms will not affect a skinned mesh.
+[2026.04.29-15.45.08:432][344]LogStreaming: Display: FlushAsyncLoading(463): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-15.45.08:519][345]LogStreaming: Display: FlushAsyncLoading(465): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-15.45.08:689][365]LogStreaming: Display: FlushAsyncLoading(472): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-15.45.08:747][372]LogStreaming: Display: FlushAsyncLoading(473): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-15.45.08:772][375]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-15.45.08:928][380]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_2.tuna_fish_texture_2(TFO_BC5, 4096x4096 x1x1x1)(예상 필요 메모리: 1234.499988MB), 인코딩 속도: Fast
+[2026.04.29-15.45.08:928][380]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_4.tuna_fish_texture_4(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1120.999983MB), 인코딩 속도: Fast
+[2026.04.29-15.45.08:929][380]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_0.tuna_fish_texture_0(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1120.999983MB), 인코딩 속도: Fast
+[2026.04.29-15.45.08:934][380]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_1.tuna_fish_texture_1(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1120.999983MB), 인코딩 속도: Fast
+[2026.04.29-15.45.08:945][380]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_5.tuna_fish_texture_5(TFO_BC5, 4096x4096 x1x1x1)(예상 필요 메모리: 1234.499988MB), 인코딩 속도: Fast
+[2026.04.29-15.45.08:959][380]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_3.tuna_fish_texture_3(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1120.999983MB), 인코딩 속도: Fast
+[2026.04.29-15.45.09:125][381]LogSkeletalMesh: Building Skeletal Mesh tuna_fish...
+[2026.04.29-15.45.09:277][382]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish.tuna_fish
+[2026.04.29-15.45.09:953][423]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.04.29-15.45.09:962][423]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-15.45.09:963][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-15.45.09:967][423]LogInterchangeEngine: Display: Interchange import completed [C:/Users/ckj86/AppDa...36-93ad-90f1cb2d01f5/tuna_fish.glb]
+[2026.04.29-15.45.10:001][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.29-15.45.15:344][ 35]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.04.29-15.45.17:059][184]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.04.29-15.45.17:095][185]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.04.29-15.45.19:666][406]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish.tuna_fish
+[2026.04.29-15.45.19:666][406]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish.tuna_fish
+[2026.04.29-15.45.19:668][406]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish.tuna_fish as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_0
+[2026.04.29-15.45.19:670][406]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish.tuna_fish as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_0
+[2026.04.29-15.45.19:969][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.29-15.45.19:972][423]LogEditorActor: Deleted 0 Actors (0.051 secs)
+[2026.04.29-15.45.19:982][423]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish.tuna_fish
+[2026.04.29-15.45.19:982][423]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish.tuna_fish
+[2026.04.29-15.45.19:987][423]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish.tuna_fish as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_2
+[2026.04.29-15.45.19:989][423]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish.tuna_fish as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_2
+[2026.04.29-15.45.37:923][324]LogEOSSDK: Error: LogEOSAuth: Authentication session lost due to failing verification. Error: EOS_Auth_InvalidToken UserId: 35d...4e6
+[2026.04.29-15.45.37:924][324]LogEOSSDK: Warning: LogEOSPresence: Can't set presence to offline, No connection to EpicConnect. LocalUserId=[35d...4e6]
+[2026.04.29-15.45.41:457][678]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.04.29-15.45.42:791][823]Cmd: TRANSACTION UNDO
+[2026.04.29-15.45.42:791][823]LogEditorTransaction: Undo 오브젝트 배치
+[2026.04.29-15.45.43:642][879]LogShaderCompilers: Display: ================================================
+[2026.04.29-15.45.43:642][879]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.29-15.45.43:642][879]LogShaderCompilers: Display: Total job queries 616, among them cache hits 122 (19.81%), DDC hits 421 (68.34%), Duplicates 45 (7.31%)
+[2026.04.29-15.45.43:642][879]LogShaderCompilers: Display: Tracking 449 distinct input hashes that result in 329 distinct outputs (73.27%)
+[2026.04.29-15.45.43:642][879]LogShaderCompilers: Display: RAM used: 4.26 MiB of 3.10 GiB budget. Usage: 0.13%
+[2026.04.29-15.45.43:642][879]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.29-15.45.43:642][879]LogShaderCompilers: Display: Shaders Compiled: 28
+[2026.04.29-15.45.43:642][879]LogShaderCompilers: Display: Jobs assigned 28, completed 28 (100%)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Average time worker was idle: 1.82 s
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 0.86 s
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 1.56 s
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Job life time (pending + execution): average 0.96 s, max 1.68
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Shader code size: total 297.547 KiB, numShaders 32, average 9.298 KiB, min 2.691 KiB, max 27.992 KiB
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.25 s
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Average processing rate: 8.62 jobs/sec
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Total thread time: 13.133 s
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Total thread preprocess time: 8.034 s
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Percentage time preprocessing: 61.18%
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Effective parallelization: 4.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.252803
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.67 sec, max 0.67 sec, min 0.66 sec)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.66 sec, max 0.68 sec, min 0.65 sec)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.63 sec, max 0.78 sec, min 0.54 sec)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.33% of total time (compiled    3 times, average 0.63 sec, max 0.78 sec, min 0.54 sec)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.16% of total time (compiled    2 times, average 0.67 sec, max 0.67 sec, min 0.66 sec)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display:                                                  FVelocityPS - 10.11% of total time (compiled    2 times, average 0.66 sec, max 0.68 sec, min 0.65 sec)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.67% of total time (compiled    3 times, average 0.38 sec, max 0.41 sec, min 0.35 sec)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display:                                                FAnisotropyPS - 8.56% of total time (compiled    2 times, average 0.56 sec, max 0.57 sec, min 0.55 sec)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: === Material stats ===
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Materials Translated:    288
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Material Total Translate Time: 0.36 s
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Material Translation Only: 0.10 s (27%)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: Material Cache Hits: 50 (17%)
+[2026.04.29-15.45.43:646][879]LogShaderCompilers: Display: ================================================
+[2026.04.29-15.45.58:863][575]LogContentBrowser: Deferred new asset file creation: Material_Inst
+[2026.04.29-15.45.58:966][575]LogContentBrowser: Creating deferred item: Material_Inst
+[2026.04.29-15.45.58:982][576]LogContentBrowser: Renaming the item being created (Deferred Item: Material_Inst).
+[2026.04.29-15.45.59:621][633]LogContentBrowser: Attempting asset rename: Material_Inst -> Material_Inst
+[2026.04.29-15.45.59:623][633]LogContentBrowser: End creating deferred item Material_Inst
+[2026.04.29-15.45.59:987][665]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst.Material_Inst
+[2026.04.29-15.45.59:990][665]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.04.29-15.46.00:031][665]LogStreaming: Display: FlushAsyncLoading(475): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-15.46.13:949][892]LogSlate: Window '색 선택 툴' being destroyed
+[2026.04.29-15.46.30:676][539]LogSlate: Window 'Material_Inst' being destroyed
+[2026.04.29-15.46.30:727][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.29-15.46.32:589][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.29-15.46.32:616][539]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-15.46.32:616][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-15.46.32:651][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.29-15.46.34:383][691]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material.Material
+[2026.04.29-15.46.34:422][691]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.04.29-15.46.37:521][899]LogSlate: Window 'Material' being destroyed
+[2026.04.29-15.46.37:530][899]LogSlate: Window 'Material' being destroyed
+[2026.04.29-15.46.37:571][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.04.29-15.46.37:737][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.29-15.46.37:761][899]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-15.46.37:761][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-15.46.37:804][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.29-15.46.53:969][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-15.46.54:000][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.29-15.46.54:032][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.29-15.46.54:482][585]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.29-15.46.54:483][585]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main5C0D3D1C4AA52F479E6C4FB6488609FC.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.29-15.46.54:499][585]LogFileHelpers: Saving map 'Main' took 0.501
+[2026.04.29-15.46.54:508][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 539.180 ms (total: 1.10 sec)
+[2026.04.29-15.46.54:553][585]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-15.46.54:553][585]LogContentValidation: Enabled validators:
+[2026.04.29-15.46.54:553][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-15.46.54:553][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-15.46.54:553][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-15.46.54:553][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-15.46.54:553][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-15.46.54:553][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-15.46.54:554][585]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.29-15.47.17:473][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5501.520020
+[2026.04.29-15.47.18:474][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-15.47.18:475][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5502.187500, Update Interval: 326.602386
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: ================================================
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Total job queries 776, among them cache hits 204 (26.29%), DDC hits 445 (57.35%), Duplicates 63 (8.12%)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Tracking 509 distinct input hashes that result in 370 distinct outputs (72.69%)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: RAM used: 4.64 MiB of 3.10 GiB budget. Usage: 0.15%
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Shaders Compiled: 64
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Jobs assigned 64, completed 64 (100%)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Average time worker was idle: 24.70 s
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Time job spent in pending queue: average 0.32 s, longest 1.01 s
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Job execution time: average 0.69 s, max 1.56 s
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 1.68
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Shader code size: total 753.233 KiB, numShaders 70, average 10.76 KiB, min 2.691 KiB, max 27.992 KiB
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.90 s
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Jobs were issued in 64 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Average processing rate: 13.05 jobs/sec
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Total thread time: 29.07 s
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Total thread preprocess time: 10.03 s
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Percentage time preprocessing: 34.50%
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Effective parallelization: 5.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.370578
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.18 sec, max 1.19 sec, min 1.17 sec)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.67 sec, max 0.67 sec, min 0.66 sec)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 0.64 sec, max 0.68 sec, min 0.60 sec)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.14% of total time (compiled    2 times, average 1.18 sec, max 1.19 sec, min 1.17 sec)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.93% of total time (compiled    4 times, average 0.58 sec, max 0.78 sec, min 0.42 sec)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display:                                                  FVelocityPS - 6.63% of total time (compiled    3 times, average 0.64 sec, max 0.68 sec, min 0.60 sec)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display:                                                FAnisotropyPS - 5.85% of total time (compiled    3 times, average 0.57 sec, max 0.58 sec, min 0.55 sec)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.08% of total time (compiled    3 times, average 0.49 sec, max 0.57 sec, min 0.43 sec)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: === Material stats ===
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Materials Translated:    291
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Material Total Translate Time: 0.36 s
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Material Translation Only: 0.10 s (27%)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: Material Cache Hits: 50 (17%)
+[2026.04.29-15.48.43:814][977]LogShaderCompilers: Display: ================================================
+[2026.04.29-15.53.26:853][826]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5870.916992
+[2026.04.29-15.53.27:853][829]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-15.53.27:853][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5871.583984, Update Interval: 302.158875
+[2026.04.29-15.56.54:283][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.29-15.56.54:285][448]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.025
+[2026.04.29-15.56.54:286][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_PhysicsAsset] ([1] browsable assets)...
+[2026.04.29-15.56.54:410][448]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_PhysicsAsset.tuna_fish_PhysicsAsset]
+[2026.04.29-15.56.54:410][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_PhysicsAsset]
+[2026.04.29-15.56.54:423][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_PhysicsAsset_Auto7
+[2026.04.29-15.56.54:423][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_PhysicsAsset_Auto7A216611E4252DE706F917BADC81EFA19.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_PhysicsAsset_Auto7.uasset'
+[2026.04.29-15.56.54:423][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_Skeleton] ([1] browsable assets)...
+[2026.04.29-15.56.54:452][448]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_Skeleton.tuna_fish_Skeleton]
+[2026.04.29-15.56.54:452][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_Skeleton]
+[2026.04.29-15.56.54:457][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_Skeleton_Auto7
+[2026.04.29-15.56.54:457][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_Skeleton_Auto76F6E45D842C7951D5D93D9932B214F87.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_Skeleton_Auto7.uasset'
+[2026.04.29-15.56.54:458][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_004] ([1] browsable assets)...
+[2026.04.29-15.56.54:470][448]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_004.Material_004]
+[2026.04.29-15.56.54:470][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_004]
+[2026.04.29-15.56.54:481][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_004_Auto7
+[2026.04.29-15.56.54:481][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Material_004_Auto7BB445C8148EA90126274FD86A4D3FE42.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_004_Auto7.uasset'
+[2026.04.29-15.56.54:482][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_0] ([1] browsable assets)...
+[2026.04.29-15.56.54:486][448]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_0.tuna_fish_texture_0]
+[2026.04.29-15.56.54:486][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_0]
+[2026.04.29-15.56.54:527][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_0_Auto7
+[2026.04.29-15.56.54:527][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_texture_0_Auto7B6489B2941D88D3A4201F1A919631E4E.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_0_Auto7.uasset'
+[2026.04.29-15.56.54:527][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_1] ([1] browsable assets)...
+[2026.04.29-15.56.54:530][448]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_1.tuna_fish_texture_1]
+[2026.04.29-15.56.54:530][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_1]
+[2026.04.29-15.56.54:571][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_1_Auto7
+[2026.04.29-15.56.54:571][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_texture_1_Auto74DE317144A18E035767BDA8FE0BEEAED.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_1_Auto7.uasset'
+[2026.04.29-15.56.54:573][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_2] ([1] browsable assets)...
+[2026.04.29-15.56.54:576][448]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_2.tuna_fish_texture_2]
+[2026.04.29-15.56.54:576][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_2]
+[2026.04.29-15.56.54:615][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_2_Auto7
+[2026.04.29-15.56.54:615][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_texture_2_Auto7E5EF0BD048E098FBD78541B9643EE932.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_2_Auto7.uasset'
+[2026.04.29-15.56.54:615][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_3] ([1] browsable assets)...
+[2026.04.29-15.56.54:620][448]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_3.tuna_fish_texture_3]
+[2026.04.29-15.56.54:620][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_3]
+[2026.04.29-15.56.54:661][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_3_Auto7
+[2026.04.29-15.56.54:661][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_texture_3_Auto72E8E625B46B635A00E78DF80BB0857A7.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_3_Auto7.uasset'
+[2026.04.29-15.56.54:662][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_4] ([1] browsable assets)...
+[2026.04.29-15.56.54:664][448]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_4.tuna_fish_texture_4]
+[2026.04.29-15.56.54:664][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_4]
+[2026.04.29-15.56.54:706][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_4_Auto7
+[2026.04.29-15.56.54:706][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_texture_4_Auto75C80588F435CE7BFD4337783F5CEE504.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_4_Auto7.uasset'
+[2026.04.29-15.56.54:707][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_5] ([1] browsable assets)...
+[2026.04.29-15.56.54:710][448]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_5.tuna_fish_texture_5]
+[2026.04.29-15.56.54:710][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_5]
+[2026.04.29-15.56.54:749][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_5_Auto7
+[2026.04.29-15.56.54:749][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_texture_5_Auto73283AF0043FE16F9FB2402B9CF5E20F0.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_5_Auto7.uasset'
+[2026.04.29-15.56.54:750][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_003] ([1] browsable assets)...
+[2026.04.29-15.56.54:760][448]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_003.Material_003]
+[2026.04.29-15.56.54:760][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_003]
+[2026.04.29-15.56.54:767][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_003_Auto7
+[2026.04.29-15.56.54:767][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Material_003_Auto74D0E064F47B4BFFD77FDEBBF4ED479EE.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_003_Auto7.uasset'
+[2026.04.29-15.56.54:768][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material] ([1] browsable assets)...
+[2026.04.29-15.56.54:778][448]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material.Material]
+[2026.04.29-15.56.54:778][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material]
+[2026.04.29-15.56.54:783][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Auto7
+[2026.04.29-15.56.54:783][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Material_Auto7F301B7F343F01952A2466CABFB557134.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Auto7.uasset'
+[2026.04.29-15.56.54:784][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish] ([1] browsable assets)...
+[2026.04.29-15.56.54:797][448]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish.tuna_fish]
+[2026.04.29-15.56.54:797][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish]
+[2026.04.29-15.56.54:809][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_Auto7
+[2026.04.29-15.56.54:809][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_Auto7BD93589448EE8775F93B0B9013FAC4D7.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_Auto7.uasset'
+[2026.04.29-15.56.54:809][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst] ([1] browsable assets)...
+[2026.04.29-15.56.54:820][448]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst.Material_Inst]
+[2026.04.29-15.56.54:820][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst]
+[2026.04.29-15.56.54:825][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst_Auto7
+[2026.04.29-15.56.54:825][448]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Material_Inst_Auto7765F44E44AB6F589486154B2795A43F6.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst_Auto7.uasset'
+[2026.04.29-15.56.54:826][448]LogFileHelpers: Auto-saving content packages took 0.541
+[2026.04.29-15.59.29:204][912]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6233.279297
+[2026.04.29-15.59.30:204][915]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-15.59.30:204][915]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6233.945801, Update Interval: 302.034363
+[2026.04.29-16.05.08:918][931]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6573.017578
+[2026.04.29-16.05.09:918][934]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.05.09:918][934]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6573.684082, Update Interval: 358.840912
+[2026.04.29-16.11.53:337][144]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6977.450684
+[2026.04.29-16.11.54:336][147]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.11.54:336][147]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6978.116699, Update Interval: 305.238800
+[2026.04.29-16.12.50:947][571]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.29-16.12.51:011][571]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.29-16.12.51:011][571]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.29-16.12.51:042][571]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.29-16.12.51:062][572]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.29-16.12.51:161][572]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.29-16.12.51:161][572]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.29-16.12.51:275][573]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.29-16.12.51:359][573]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.29-16.12.51:359][573]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.29-16.12.52:574][574]LogSlate: Window '콘텐츠 임포트' being destroyed
+[2026.04.29-16.12.52:595][574]LogInterchangeEngine: [대기중] 임포트 중
+[2026.04.29-16.12.52:652][574]LogStaticMesh: Adjacency [0.00s], tris: 44, UVs 1
+[2026.04.29-16.12.52:652][574]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.04.29-16.12.52:653][574]LogStaticMesh: Leaves [0.00s]
+[2026.04.29-16.12.52:653][574]LogStaticMesh: Reduce [0.00s]
+[2026.04.29-16.12.52:653][574]LogStaticMesh: Fallback [0.00s], num tris: 44
+[2026.04.29-16.12.52:653][574]LogStaticMesh: Fallback [0.00s], num tris: 44
+[2026.04.29-16.12.52:653][574]LogStaticMesh: ConstrainClusters:
+[2026.04.29-16.12.52:653][574]LogStaticMesh:   Input: 1 Clusters, 44 Triangles and 72 Vertices
+[2026.04.29-16.12.52:653][574]LogStaticMesh:   Output without splits: 1 Clusters, 44 Triangles and 72 Vertices
+[2026.04.29-16.12.52:653][574]LogStaticMesh:   Output with splits: 1 Clusters, 44 Triangles and 72 Vertices
+[2026.04.29-16.12.52:653][574]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.04.29-16.12.52:653][574]LogStaticMesh: WritePages:
+[2026.04.29-16.12.52:653][574]LogStaticMesh:   Root: GPU size: 972 bytes. 1 Pages. 972.000 bytes per page (2.966% utilization).
+[2026.04.29-16.12.52:653][574]LogStaticMesh:   Streaming: 0 bytes.
+[2026.04.29-16.12.52:653][574]LogStaticMesh:   Page data disk size: 1176 bytes. Fixup data size: 24 bytes.
+[2026.04.29-16.12.52:653][574]LogStaticMesh:   Total GPU size: 972 bytes, Total disk size: 1200 bytes.
+[2026.04.29-16.12.52:653][574]LogStaticMesh: Encode [0.00s]
+[2026.04.29-16.12.52:653][574]LogStaticMesh: NaniteBuild [0.00s]
+[2026.04.29-16.12.52:656][574]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/moriya_fish/moriya_fish.moriya_fish
+[2026.04.29-16.12.52:692][574]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.04.29-16.12.52:692][574]LogInterchangeEngine: [성공] 임포트 완료
+[2026.04.29-16.12.57:617][ 71]LogMaterial: Display: Material /Game/FBX/moriya_fish/lambert1.lambert1 needed to have new flag set bUsedWithNanite !
+[2026.04.29-16.12.58:465][142]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/moriya_fish/moriya_fish.moriya_fish
+[2026.04.29-16.12.58:466][142]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/moriya_fish/moriya_fish.moriya_fish
+[2026.04.29-16.12.58:467][142]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/moriya_fish/moriya_fish.moriya_fish as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4224
+[2026.04.29-16.12.58:591][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.29-16.12.58:596][152]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.04.29-16.12.58:603][152]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/moriya_fish/moriya_fish.moriya_fish
+[2026.04.29-16.12.58:603][152]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/moriya_fish/moriya_fish.moriya_fish
+[2026.04.29-16.12.58:606][152]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/moriya_fish/moriya_fish.moriya_fish as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4225
+[2026.04.29-16.12.59:388][233]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-16.13.10:501][902]Cmd: PIVOT HERE
+[2026.04.29-16.13.13:152][151]Cmd: ACTOR BAKEPREPIVOT
+[2026.04.29-16.13.13:599][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.13.13:625][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.29-16.13.13:657][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.29-16.13.14:091][185]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.29-16.13.14:091][185]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main283D63694CB57D5E9B2CADB3AEEA8543.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.29-16.13.14:108][185]LogFileHelpers: Saving map 'Main' took 0.484
+[2026.04.29-16.13.14:115][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 516.823 ms (total: 1.62 sec)
+[2026.04.29-16.13.14:152][185]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.13.14:152][185]LogContentValidation: Enabled validators:
+[2026.04.29-16.13.14:152][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.13.14:152][185]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.13.14:152][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.13.14:152][185]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.13.14:152][185]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.13.14:152][185]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.13.14:153][185]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.29-16.13.15:127][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.29-16.13.15:923][292]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.04.29-16.13.15:931][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.13.15:963][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material] ([1] browsable assets)...
+[2026.04.29-16.13.15:963][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material]
+[2026.04.29-16.13.15:963][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Materials/Material.uasset" SILENT=true
+[2026.04.29-16.13.15:974][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material
+[2026.04.29-16.13.15:974][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Material1A4FF8EB4C9887D250BF338AA52229EC.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Materials/Material.uasset'
+[2026.04.29-16.13.15:980][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_003] ([1] browsable assets)...
+[2026.04.29-16.13.15:980][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_003]
+[2026.04.29-16.13.15:980][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_003" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Materials/Material_003.uasset" SILENT=true
+[2026.04.29-16.13.15:986][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_003
+[2026.04.29-16.13.15:986][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Material_0032244593C463B2E5E175E3780E45BA2EF.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Materials/Material_003.uasset'
+[2026.04.29-16.13.15:986][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_004] ([1] browsable assets)...
+[2026.04.29-16.13.15:986][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_004]
+[2026.04.29-16.13.15:986][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_004" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Materials/Material_004.uasset" SILENT=true
+[2026.04.29-16.13.15:991][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_004
+[2026.04.29-16.13.15:991][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Material_004178EE16B47C1E525E90C218F7EBD2AC8.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Materials/Material_004.uasset'
+[2026.04.29-16.13.15:992][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst] ([1] browsable assets)...
+[2026.04.29-16.13.15:992][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst]
+[2026.04.29-16.13.15:992][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst.uasset" SILENT=true
+[2026.04.29-16.13.15:996][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst
+[2026.04.29-16.13.15:996][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Material_Inst6B9C90394347C845B9E9C583DADC6C00.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst.uasset'
+[2026.04.29-16.13.15:996][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/moriya_fish/lambert1] ([1] browsable assets)...
+[2026.04.29-16.13.16:032][292]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FBX/moriya_fish/lambert1.lambert1]
+[2026.04.29-16.13.16:032][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/moriya_fish/lambert1]
+[2026.04.29-16.13.16:032][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/moriya_fish/lambert1" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/moriya_fish/lambert1.uasset" SILENT=true
+[2026.04.29-16.13.16:040][292]LogSavePackage: Moving output files for package: /Game/FBX/moriya_fish/lambert1
+[2026.04.29-16.13.16:040][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/lambert1533EFA39428CD4A2B643468745E8ABBC.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/moriya_fish/lambert1.uasset'
+[2026.04.29-16.13.16:040][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/moriya_fish/moriya_fish] ([1] browsable assets)...
+[2026.04.29-16.13.16:048][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/moriya_fish/moriya_fish.moriya_fish]
+[2026.04.29-16.13.16:048][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/moriya_fish/moriya_fish]
+[2026.04.29-16.13.16:048][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/moriya_fish/moriya_fish" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/moriya_fish/moriya_fish.uasset" SILENT=true
+[2026.04.29-16.13.16:054][292]LogSavePackage: Moving output files for package: /Game/FBX/moriya_fish/moriya_fish
+[2026.04.29-16.13.16:054][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/moriya_fish1D8F2A184AC21FB228C3FF8268D321E8.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/moriya_fish/moriya_fish.uasset'
+[2026.04.29-16.13.16:054][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/moriya_fish/moriya_fish_1001_BaseColor] ([1] browsable assets)...
+[2026.04.29-16.13.16:055][292]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/moriya_fish/moriya_fish_1001_BaseColor.moriya_fish_1001_BaseColor]
+[2026.04.29-16.13.16:055][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/moriya_fish/moriya_fish_1001_BaseColor]
+[2026.04.29-16.13.16:055][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/moriya_fish/moriya_fish_1001_BaseColor" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/moriya_fish/moriya_fish_1001_BaseColor.uasset" SILENT=true
+[2026.04.29-16.13.16:076][292]LogSavePackage: Moving output files for package: /Game/FBX/moriya_fish/moriya_fish_1001_BaseColor
+[2026.04.29-16.13.16:076][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/moriya_fish_1001_BaseColorB37F5A384337E924E94A999A4E76154D.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/moriya_fish/moriya_fish_1001_BaseColor.uasset'
+[2026.04.29-16.13.16:077][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/moriya_fish/moriya_fish_1001_Normal] ([1] browsable assets)...
+[2026.04.29-16.13.16:079][292]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/moriya_fish/moriya_fish_1001_Normal.moriya_fish_1001_Normal]
+[2026.04.29-16.13.16:079][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/moriya_fish/moriya_fish_1001_Normal]
+[2026.04.29-16.13.16:079][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/moriya_fish/moriya_fish_1001_Normal" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/moriya_fish/moriya_fish_1001_Normal.uasset" SILENT=true
+[2026.04.29-16.13.16:103][292]LogSavePackage: Moving output files for package: /Game/FBX/moriya_fish/moriya_fish_1001_Normal
+[2026.04.29-16.13.16:103][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/moriya_fish_1001_NormalEE01881745D1365BDDFB748B79A7D6E2.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/moriya_fish/moriya_fish_1001_Normal.uasset'
+[2026.04.29-16.13.16:104][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.29-16.13.16:106][292]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic.moriya_fish_1001_OcclusionRoughnessMetallic]
+[2026.04.29-16.13.16:106][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic]
+[2026.04.29-16.13.16:120][292]LogSavePackage: Moving output files for package: /Game/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic
+[2026.04.29-16.13.16:120][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/moriya_fish_1001_OcclusionRoughnCBC8DBF94FE27D7C5CF907A141B80CAC.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic.uasset'
+[2026.04.29-16.13.16:122][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish] ([1] browsable assets)...
+[2026.04.29-16.13.16:122][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish]
+[2026.04.29-16.13.16:122][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish.uasset" SILENT=true
+[2026.04.29-16.13.16:132][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish
+[2026.04.29-16.13.16:132][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish74BEE7CA450B6267C0BBBAA467001645.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish.uasset'
+[2026.04.29-16.13.16:133][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_PhysicsAsset] ([1] browsable assets)...
+[2026.04.29-16.13.16:133][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_PhysicsAsset]
+[2026.04.29-16.13.16:140][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_PhysicsAsset
+[2026.04.29-16.13.16:140][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_PhysicsAsset822E466A4EC2DF103B0B1C8E20E6ADB5.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_PhysicsAsset.uasset'
+[2026.04.29-16.13.16:140][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_Skeleton] ([1] browsable assets)...
+[2026.04.29-16.13.16:140][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_Skeleton]
+[2026.04.29-16.13.16:145][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_Skeleton
+[2026.04.29-16.13.16:145][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_SkeletonC1348927417429CC18A62DA4A377F433.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_Skeleton.uasset'
+[2026.04.29-16.13.16:146][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_0] ([1] browsable assets)...
+[2026.04.29-16.13.16:146][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_0]
+[2026.04.29-16.13.16:211][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_0
+[2026.04.29-16.13.16:211][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_texture_0A3EBF869470FB2C6842E09B872F88DFC.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_0.uasset'
+[2026.04.29-16.13.16:212][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_1] ([1] browsable assets)...
+[2026.04.29-16.13.16:212][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_1]
+[2026.04.29-16.13.16:279][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_1
+[2026.04.29-16.13.16:279][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_texture_106CEC85D4C1D84F542B05EA44539B1A8.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_1.uasset'
+[2026.04.29-16.13.16:280][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_2] ([1] browsable assets)...
+[2026.04.29-16.13.16:280][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_2]
+[2026.04.29-16.13.16:344][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_2
+[2026.04.29-16.13.16:344][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_texture_286E6575D4DD41A47C5CF328ACA28FF5F.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_2.uasset'
+[2026.04.29-16.13.16:345][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_3] ([1] browsable assets)...
+[2026.04.29-16.13.16:345][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_3]
+[2026.04.29-16.13.16:383][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_3
+[2026.04.29-16.13.16:383][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_texture_3B7127DAB49D695A3F72A549E7DE787ED.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_3.uasset'
+[2026.04.29-16.13.16:385][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_4] ([1] browsable assets)...
+[2026.04.29-16.13.16:385][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_4]
+[2026.04.29-16.13.16:422][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_4
+[2026.04.29-16.13.16:422][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_texture_44EAF0F88434A2C6F2AAA9B81DDCED76F.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_4.uasset'
+[2026.04.29-16.13.16:423][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_5] ([1] browsable assets)...
+[2026.04.29-16.13.16:423][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_5]
+[2026.04.29-16.13.16:461][292]LogSavePackage: Moving output files for package: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_5
+[2026.04.29-16.13.16:461][292]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/tuna_fish_texture_561F7440B43A496C7682561817FB9247C.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_5.uasset'
+[2026.04.29-16.13.16:478][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 546.477 ms (total: 2.16 sec)
+[2026.04.29-16.13.16:503][292]LogContentValidation: Display: Starting to validate 18 assets
+[2026.04.29-16.13.16:503][292]LogContentValidation: Enabled validators:
+[2026.04.29-16.13.16:503][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.13.16:503][292]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.13.16:503][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.13.16:503][292]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.13.16:503][292]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.13.16:503][292]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.13.16:503][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material 에셋 유효성 검사 중
+[2026.04.29-16.13.16:503][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_003 에셋 유효성 검사 중
+[2026.04.29-16.13.16:503][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_004 에셋 유효성 검사 중
+[2026.04.29-16.13.16:503][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/Materials/Material_Inst 에셋 유효성 검사 중
+[2026.04.29-16.13.16:503][292]AssetCheck: /Game/FBX/moriya_fish/lambert1 에셋 유효성 검사 중
+[2026.04.29-16.13.16:503][292]AssetCheck: /Game/FBX/moriya_fish/moriya_fish 에셋 유효성 검사 중
+[2026.04.29-16.13.16:503][292]AssetCheck: /Game/FBX/moriya_fish/moriya_fish_1001_BaseColor 에셋 유효성 검사 중
+[2026.04.29-16.13.16:503][292]AssetCheck: /Game/FBX/moriya_fish/moriya_fish_1001_Normal 에셋 유효성 검사 중
+[2026.04.29-16.13.16:503][292]AssetCheck: /Game/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic 에셋 유효성 검사 중
+[2026.04.29-16.13.16:503][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish 에셋 유효성 검사 중
+[2026.04.29-16.13.16:505][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_PhysicsAsset 에셋 유효성 검사 중
+[2026.04.29-16.13.16:505][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/SkeletalMeshes/tuna_fish_Skeleton 에셋 유효성 검사 중
+[2026.04.29-16.13.16:505][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_0 에셋 유효성 검사 중
+[2026.04.29-16.13.16:505][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_1 에셋 유효성 검사 중
+[2026.04.29-16.13.16:505][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_2 에셋 유효성 검사 중
+[2026.04.29-16.13.16:505][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_3 에셋 유효성 검사 중
+[2026.04.29-16.13.16:505][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_4 에셋 유효성 검사 중
+[2026.04.29-16.13.16:505][292]AssetCheck: /Game/Fab/Tuna_Fish/tuna_fish/Textures/tuna_fish_texture_5 에셋 유효성 검사 중
+[2026.04.29-16.13.16:521][292]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.29-16.13.22:880][985]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-16.13.30:552][793]LogMaterial: Display: Material /Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat.moriya_fish_1001_BaseColor_Mat needed to have new flag set bUsedWithNanite !
+[2026.04.29-16.13.36:090][370]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic.moriya_fish_1001_OcclusionRoughnessMetallic
+[2026.04.29-16.13.36:534][370]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2026.04.29-16.13.36:534][370]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2026.04.29-16.13.36:535][370]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2026.04.29-16.13.36:535][370]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2026.04.29-16.13.39:481][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.13.39:538][670]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.29-16.13.39:540][670]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic.moriya_fish_1001_OcclusionRoughnessMetallic]
+[2026.04.29-16.13.39:540][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic]
+[2026.04.29-16.13.39:552][670]LogSavePackage: Moving output files for package: /Game/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic
+[2026.04.29-16.13.39:552][670]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/moriya_fish_1001_OcclusionRoughnE91A8D8545D290C3B81258AFD37BA791.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic.uasset'
+[2026.04.29-16.13.39:563][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.239 ms (total: 2.24 sec)
+[2026.04.29-16.13.39:595][670]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-16.13.39:595][670]LogContentValidation: Enabled validators:
+[2026.04.29-16.13.39:595][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.13.39:595][670]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.13.39:595][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.13.39:595][670]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.13.39:595][670]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.13.39:595][670]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.13.39:595][670]AssetCheck: /Game/FBX/moriya_fish/moriya_fish_1001_OcclusionRoughnessMetallic 에셋 유효성 검사 중
+[2026.04.29-16.13.40:157][726]LogSlate: Window 'moriya_fish_1001_OcclusionRoughnessMetallic' being destroyed
+[2026.04.29-16.13.42:599][974]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat.moriya_fish_1001_BaseColor_Mat
+[2026.04.29-16.13.42:607][974]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.29-16.13.43:035][974]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.13.43:035][974]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.04.29-16.13.43:035][974]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.43:035][974]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.13.43:035][974]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.43:044][974]LogSlate: Took 0.004836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.04.29-16.13.43:125][976]MaterialEditorStats: Base pass shader: 209 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.04.29-16.13.43:125][976]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.13.43:125][976]MaterialEditorStats: Texture samplers: 3/16
+[2026.04.29-16.13.43:125][976]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.04.29-16.13.43:125][976]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.43:125][976]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.13.43:125][976]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.48:872][488]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.13.48:873][488]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.04.29-16.13.48:873][488]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.48:873][488]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.13.48:873][488]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.48:917][489]MaterialEditorStats: Base pass shader: 209 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.04.29-16.13.48:917][489]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.13.48:917][489]MaterialEditorStats: Texture samplers: 3/16
+[2026.04.29-16.13.48:917][489]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.04.29-16.13.48:917][489]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.48:917][489]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.13.48:917][489]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.53:014][894]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.13.53:014][894]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-16.13.53:014][894]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.53:014][894]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.13.53:014][894]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.53:084][897]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.13.53:084][897]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.13.53:084][897]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-16.13.53:084][897]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.53:084][897]MaterialEditorStats: Shader Count: 2
+[2026.04.29-16.13.53:084][897]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.53:434][924]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.13.53:434][924]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-16.13.53:434][924]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-16.13.53:434][924]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.53:434][924]MaterialEditorStats: Shader Count: 3
+[2026.04.29-16.13.53:434][924]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.53:544][932]MaterialEditorStats: Base pass shader: 209 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.04.29-16.13.53:544][932]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.13.53:544][932]MaterialEditorStats: Texture samplers: 3/16
+[2026.04.29-16.13.53:544][932]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-16.13.53:544][932]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.53:544][932]MaterialEditorStats: Shader Count: 4
+[2026.04.29-16.13.53:544][932]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.54:634][ 33]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.13.54:634][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-16.13.54:634][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.54:634][ 33]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.13.54:634][ 33]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.54:723][ 35]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.13.54:723][ 35]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.13.54:723][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-16.13.54:723][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.54:723][ 35]MaterialEditorStats: Shader Count: 2
+[2026.04.29-16.13.54:723][ 35]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.54:943][ 53]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.13.54:943][ 53]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-16.13.54:943][ 53]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-16.13.54:943][ 53]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.54:943][ 53]MaterialEditorStats: Shader Count: 3
+[2026.04.29-16.13.54:943][ 53]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.55:139][ 67]MaterialEditorStats: Base pass shader: 212 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.04.29-16.13.55:139][ 67]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.13.55:139][ 67]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.29-16.13.55:139][ 67]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-16.13.55:139][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.55:139][ 67]MaterialEditorStats: Shader Count: 4
+[2026.04.29-16.13.55:139][ 67]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.55:765][123]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.13.55:765][123]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-16.13.55:765][123]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.55:765][123]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.13.55:765][123]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.55:848][126]MaterialEditorStats: Base pass shader: 213 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.04.29-16.13.55:848][126]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.13.55:848][126]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.29-16.13.55:848][126]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.29-16.13.55:848][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.55:848][126]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.13.55:848][126]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.57:089][250]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.13.57:089][250]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.29-16.13.57:089][250]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.57:089][250]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.13.57:089][250]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.13.57:160][253]MaterialEditorStats: Base pass shader: 221 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.29-16.13.57:160][253]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.13.57:160][253]MaterialEditorStats: Texture samplers: 5/16
+[2026.04.29-16.13.57:160][253]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.29-16.13.57:160][253]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.13.57:160][253]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.13.57:160][253]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.14.03:630][905]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.14.03:630][905]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.29-16.14.03:630][905]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.14.03:630][905]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.14.03:630][905]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.14.03:664][907]MaterialEditorStats: Texture samplers: 3/16
+[2026.04.29-16.14.03:664][907]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.29-16.14.03:664][907]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.14.03:664][907]MaterialEditorStats: Shader Count: 2
+[2026.04.29-16.14.03:664][907]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.14.03:676][908]MaterialEditorStats: Base pass shader: 221 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.29-16.14.03:676][908]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.14.03:676][908]MaterialEditorStats: Texture samplers: 5/16
+[2026.04.29-16.14.03:676][908]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.29-16.14.03:676][908]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.14.03:676][908]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.14.03:676][908]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.14.04:444][982]LogMaterialEditor: Applying material moriya_fish_1001_BaseColor_Mat
+[2026.04.29-16.14.04:616][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.04.29-16.14.04:812][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.29-16.14.04:873][982]MaterialEditorStats: Base pass shader: 221 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.29-16.14.04:873][982]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.14.04:873][982]MaterialEditorStats: MaxSampler: 286 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.04.29-16.14.04:873][982]MaterialEditorStats: Nanite Compute Shader: 881 instructions
+Stats: Resources Used: 14
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.04.29-16.14.04:873][982]MaterialEditorStats: Texture samplers: 6/16
+[2026.04.29-16.14.04:873][982]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.29-16.14.04:873][982]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.29-16.14.04:873][982]MaterialEditorStats: Shader Count: 55
+[2026.04.29-16.14.04:873][982]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.15.24:331][149]Cmd: EDIT COPY
+[2026.04.29-16.15.24:720][189]Cmd: EDIT PASTE
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: ================================================
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Total job queries 1,052, among them cache hits 344 (32.70%), DDC hits 550 (52.28%), Duplicates 88 (8.37%)
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Tracking 620 distinct input hashes that result in 459 distinct outputs (74.03%)
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: RAM used: 5.67 MiB of 3.10 GiB budget. Usage: 0.18%
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Shaders Compiled: 70
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Jobs assigned 70, completed 70 (100%)
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Average time worker was idle: 113.17 s
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Time job spent in pending queue: average 0.29 s, longest 1.01 s
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 1.56 s
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Job life time (pending + execution): average 0.96 s, max 1.68
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Shader code size: total 805.347 KiB, numShaders 76, average 10.596 KiB, min 2.691 KiB, max 27.992 KiB
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.33 s
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Jobs were issued in 70 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Average processing rate: 11.06 jobs/sec
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Total thread time: 31.141 s
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Total thread preprocess time: 13.472 s
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Percentage time preprocessing: 43.26%
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Effective parallelization: 4.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.307615
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.18 sec, max 1.19 sec, min 1.17 sec)
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 0.64 sec, max 0.68 sec, min 0.60 sec)
+[2026.04.29-16.15.44:511][146]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.60 sec, max 0.67 sec, min 0.53 sec)
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.37% of total time (compiled    6 times, average 0.49 sec, max 0.78 sec, min 0.30 sec)
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.69% of total time (compiled    4 times, average 0.60 sec, max 0.67 sec, min 0.53 sec)
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.60% of total time (compiled    2 times, average 1.18 sec, max 1.19 sec, min 1.17 sec)
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display:                                                  FVelocityPS - 6.19% of total time (compiled    3 times, average 0.64 sec, max 0.68 sec, min 0.60 sec)
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display:                                                FAnisotropyPS - 5.46% of total time (compiled    3 times, average 0.57 sec, max 0.58 sec, min 0.55 sec)
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display: === Material stats ===
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display: Materials Translated:    319
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display: Material Total Translate Time: 0.37 s
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display: Material Translation Only: 0.10 s (28%)
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display: Material Cache Hits: 50 (16%)
+[2026.04.29-16.15.44:512][146]LogShaderCompilers: Display: ================================================
+[2026.04.29-16.15.46:446][342]Cmd: MODE SCALEGRID=1
+[2026.04.29-16.15.50:744][783]Cmd: MODE SCALEGRID=0
+[2026.04.29-16.16.13:306][ 66]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-16.17.15:527][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/building_wall/building_wall.building_wall
+[2026.04.29-16.17.15:527][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/building_wall/building_wall.building_wall
+[2026.04.29-16.17.15:529][723]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/building_wall/building_wall.building_wall as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4227
+[2026.04.29-16.17.16:019][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.29-16.17.16:025][756]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.04.29-16.17.16:032][756]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/building_wall/building_wall.building_wall
+[2026.04.29-16.17.16:032][756]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/building_wall/building_wall.building_wall
+[2026.04.29-16.17.16:035][756]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/building_wall/building_wall.building_wall as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4228
+[2026.04.29-16.17.18:058][949]Cmd: TRANSACTION UNDO
+[2026.04.29-16.17.18:058][949]LogEditorTransaction: Undo 오브젝트 배치
+[2026.04.29-16.17.23:942][406]LogDerivedDataCache: C:/Users/ckj86/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.29-16.17.30:569][  0]LogContentBrowser: Deferred new asset file creation: window_black_Inst
+[2026.04.29-16.17.30:651][  0]LogContentBrowser: Creating deferred item: window_black_Inst
+[2026.04.29-16.17.30:667][  1]LogContentBrowser: Renaming the item being created (Deferred Item: window_black_Inst).
+[2026.04.29-16.17.33:141][220]LogContentBrowser: Attempting asset rename: window_black_Inst -> glass
+[2026.04.29-16.17.33:141][220]LogContentBrowser: End creating deferred item window_black_Inst
+[2026.04.29-16.17.52:635][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.29-16.17.52:742][628]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.04.29-16.17.52:751][628]LogSlate: Took 0.008036 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.04.29-16.17.53:348][628]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.29-16.17.53:384][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.04.29-16.17.53:403][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.29-16.17.53:422][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.29-16.17.56:251][883]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.04.29-16.17.56:333][883]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.04.29-16.17.56:348][884]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.04.29-16.17.58:030][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7342.151367
+[2026.04.29-16.17.58:297][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.17.58:297][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7342.407715, Update Interval: 322.147278
+[2026.04.29-16.17.59:087][127]LogContentBrowser: Attempting asset rename: NewMaterial -> glass
+[2026.04.29-16.17.59:087][127]LogContentBrowser: End creating deferred item NewMaterial
+[2026.04.29-16.18.00:204][215]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FBX/building_wall/glass.glass
+[2026.04.29-16.18.00:208][215]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.29-16.18.00:550][215]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.18.00:550][215]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.18.00:550][215]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.18.00:550][215]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.18.00:605][217]MaterialEditorStats: Base pass shader: 202 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.18.00:605][217]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-16.18.00:605][217]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.18.00:605][217]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.18.00:605][217]MaterialEditorStats: Shader Count: 4
+[2026.04.29-16.18.00:605][217]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-16.18.11:935][272]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.18.11:935][272]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.18.11:935][272]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.18.11:935][272]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.18.12:013][276]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.18.12:013][276]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.18.12:013][276]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.18.12:013][276]MaterialEditorStats: Shader Count: 2
+[2026.04.29-16.18.12:013][276]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.18.41:398][547]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.18.41:398][547]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.18.41:398][547]MaterialEditorStats: Shader Count: 3
+[2026.04.29-16.18.41:398][547]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.18.41:415][548]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.18.41:415][548]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.18.41:415][548]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.18.41:415][548]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.18.41:415][548]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.18.44:514][873]LogShaderCompilers: Display: ================================================
+[2026.04.29-16.18.44:514][873]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.29-16.18.44:514][873]LogShaderCompilers: Display: Total job queries 1,098, among them cache hits 375 (34.15%), DDC hits 561 (51.09%), Duplicates 88 (8.01%)
+[2026.04.29-16.18.44:514][873]LogShaderCompilers: Display: Tracking 635 distinct input hashes that result in 471 distinct outputs (74.17%)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: RAM used: 5.75 MiB of 3.10 GiB budget. Usage: 0.18%
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Shaders Compiled: 74
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Jobs assigned 74, completed 74 (100%)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Average time worker was idle: 118.64 s
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Time job spent in pending queue: average 0.28 s, longest 1.01 s
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Job execution time: average 0.66 s, max 1.56 s
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Job life time (pending + execution): average 0.95 s, max 1.68
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Shader code size: total 842.694 KiB, numShaders 80, average 10.533 KiB, min 2.691 KiB, max 27.992 KiB
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.15 s
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Jobs were issued in 74 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Average processing rate: 9.08 jobs/sec
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Total thread time: 33.018 s
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Total thread preprocess time: 13.813 s
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Percentage time preprocessing: 41.84%
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Effective parallelization: 4.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.253074
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.18 sec, max 1.19 sec, min 1.17 sec)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.78 sec, max 0.79 sec, min 0.78 sec)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 0.64 sec, max 0.68 sec, min 0.60 sec)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.59 sec, max 0.67 sec, min 0.53 sec)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.91% of total time (compiled    5 times, average 0.59 sec, max 0.67 sec, min 0.53 sec)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.84% of total time (compiled    6 times, average 0.49 sec, max 0.78 sec, min 0.30 sec)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.17% of total time (compiled    2 times, average 1.18 sec, max 1.19 sec, min 1.17 sec)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display:                                                  FVelocityPS - 5.84% of total time (compiled    3 times, average 0.64 sec, max 0.68 sec, min 0.60 sec)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.53% of total time (compiled    4 times, average 0.46 sec, max 0.57 sec, min 0.35 sec)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: === Material stats ===
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Materials Translated:    327
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Material Total Translate Time: 0.37 s
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Material Translation Only: 0.10 s (28%)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: Material Cache Hits: 50 (15%)
+[2026.04.29-16.18.44:515][873]LogShaderCompilers: Display: ================================================
+[2026.04.29-16.19.00:152][718]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.19.00:152][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.19.00:152][718]MaterialEditorStats: Shader Count: 3
+[2026.04.29-16.19.00:152][718]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.19.00:180][719]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.19.00:180][719]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.19.00:180][719]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.19.00:180][719]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.19.00:180][719]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.19.04:931][227]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.19.04:932][227]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.19.04:932][227]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.19.04:932][227]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.19.05:003][229]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.19.05:004][229]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.19.05:004][229]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.19.05:004][229]MaterialEditorStats: Shader Count: 2
+[2026.04.29-16.19.05:004][229]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.19.14:458][223]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.19.14:458][223]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.19.14:458][223]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.19.14:458][223]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.19.14:514][227]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.19.14:514][227]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.19.14:514][227]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.19.14:514][227]MaterialEditorStats: Shader Count: 2
+[2026.04.29-16.19.14:514][227]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.19.18:279][604]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.19.18:279][604]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.19.18:279][604]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.19.18:279][604]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.19.18:360][608]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.19.18:360][608]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.19.18:360][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.19.18:360][608]MaterialEditorStats: Shader Count: 2
+[2026.04.29-16.19.18:360][608]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.19.29:668][756]LogMaterialEditor: Applying material glass
+[2026.04.29-16.19.29:813][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.29-16.19.31:180][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.29-16.19.31:234][756]MaterialEditorStats: Base pass shader: 244 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-16.19.31:234][756]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.19.31:234][756]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.19.31:234][756]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.19.31:234][756]MaterialEditorStats: Shader Count: 47
+[2026.04.29-16.19.31:234][756]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.04.29-16.19.36:784][316]LogContentBrowser: Deferred new asset file creation: glass_Inst
+[2026.04.29-16.19.36:823][316]LogContentBrowser: Creating deferred item: glass_Inst
+[2026.04.29-16.19.36:833][317]LogContentBrowser: Renaming the item being created (Deferred Item: glass_Inst).
+[2026.04.29-16.19.38:619][496]LogContentBrowser: Attempting asset rename: glass_Inst -> glass_Inst
+[2026.04.29-16.19.38:619][496]LogContentBrowser: End creating deferred item glass_Inst
+[2026.04.29-16.19.40:854][680]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.19.40:854][680]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.19.40:854][680]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.19.40:854][680]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.19.40:933][683]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.19.40:933][683]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.19.40:933][683]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.19.40:933][683]MaterialEditorStats: Shader Count: 2
+[2026.04.29-16.19.40:933][683]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.19.46:576][250]LogMaterialEditor: Applying material glass
+[2026.04.29-16.19.46:700][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.29-16.19.47:870][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.29-16.19.47:931][250]MaterialEditorStats: Base pass shader: 245 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-16.19.47:931][250]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.19.47:931][250]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.19.47:931][250]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.19.47:931][250]MaterialEditorStats: Shader Count: 47
+[2026.04.29-16.19.47:931][250]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.19.48:482][301]LogSlate: Window 'glass' being destroyed
+[2026.04.29-16.19.48:490][301]LogSlate: Window 'glass' being destroyed
+[2026.04.29-16.19.48:508][301]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-16.19.48:508][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.19.48:538][301]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-16.19.48:538][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.19.48:569][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.29-16.19.51:022][541]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/FBX/building_wall/glass_Inst.glass_Inst
+[2026.04.29-16.19.51:023][541]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.04.29-16.20.15:010][716]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FBX/building_wall/glass.glass
+[2026.04.29-16.20.15:012][716]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.04.29-16.20.15:324][716]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.20.15:324][716]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.15:324][716]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.20.15:324][716]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.20.15:392][718]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.20.15:392][718]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.20.15:392][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.15:392][718]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.20.15:392][718]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.20.25:579][831]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.20.25:579][831]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.25:579][831]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.20.25:579][831]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.20.25:659][833]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.20.25:659][833]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.20.25:659][833]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.25:659][833]MaterialEditorStats: Shader Count: 4
+[2026.04.29-16.20.25:659][833]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.20.26:556][912]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.20.26:557][912]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.29-16.20.26:557][912]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.26:557][912]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.20.26:557][912]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.20.28:605][100]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.20.28:605][100]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.20.28:605][100]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.28:605][100]MaterialEditorStats: Shader Count: 2
+[2026.04.29-16.20.28:605][100]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.20.30:363][229]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.20.30:363][229]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.29-16.20.30:363][229]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.30:363][229]MaterialEditorStats: Shader Count: 4
+[2026.04.29-16.20.30:363][229]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.20.35:013][672]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.20.35:013][672]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.35:013][672]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.20.35:013][672]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.20.35:063][674]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.20.35:063][674]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.20.35:063][674]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.35:063][674]MaterialEditorStats: Shader Count: 4
+[2026.04.29-16.20.35:063][674]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.20.35:076][675]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.20.35:076][675]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.29-16.20.35:076][675]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.35:076][675]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.20.35:076][675]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.20.36:611][833]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.20.36:611][833]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.36:611][833]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.20.36:611][833]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.20.36:667][836]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.20.36:667][836]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.29-16.20.36:667][836]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.36:667][836]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.20.36:667][836]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2026.04.29-16.20.58:295][  1]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.20.58:295][  1]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.58:296][  1]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.20.58:296][  1]MaterialEditorStats: Preshaders: 5  (5 param fetches, 7 ops)
+[2026.04.29-16.20.58:371][  3]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.20.58:371][  3]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.20.58:371][  3]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.58:371][  3]MaterialEditorStats: Shader Count: 2
+[2026.04.29-16.20.58:371][  3]MaterialEditorStats: Preshaders: 5  (5 param fetches, 7 ops)
+[2026.04.29-16.20.59:596][100]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.20.59:597][100]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.59:597][100]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.20.59:597][100]MaterialEditorStats: Preshaders: 6  (6 param fetches, 8 ops)
+[2026.04.29-16.20.59:677][103]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.20.59:677][103]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.20.59:677][103]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.20.59:677][103]MaterialEditorStats: Shader Count: 2
+[2026.04.29-16.20.59:677][103]MaterialEditorStats: Preshaders: 6  (6 param fetches, 8 ops)
+[2026.04.29-16.21.01:228][244]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.21.01:228][244]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.29-16.21.01:228][244]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.21.01:228][244]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.21.01:228][244]MaterialEditorStats: Preshaders: 6  (6 param fetches, 8 ops)
+[2026.04.29-16.21.06:978][785]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-16.21.06:978][785]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.21.06:978][785]MaterialEditorStats: Shader Count: 0
+[2026.04.29-16.21.06:978][785]MaterialEditorStats: Preshaders: 6  (6 param fetches, 8 ops)
+[2026.04.29-16.21.07:026][788]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.21.07:026][788]MaterialEditorStats: Texture samplers: 2/16
+[2026.04.29-16.21.07:026][788]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.21.07:026][788]MaterialEditorStats: Shader Count: 4
+[2026.04.29-16.21.07:026][788]MaterialEditorStats: Preshaders: 6  (6 param fetches, 8 ops)
+[2026.04.29-16.21.07:039][789]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.21.07:039][789]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.29-16.21.07:039][789]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.21.07:039][789]MaterialEditorStats: Shader Count: 5
+[2026.04.29-16.21.07:039][789]MaterialEditorStats: Preshaders: 6  (6 param fetches, 8 ops)
+[2026.04.29-16.21.08:154][892]LogMaterialEditor: Applying material glass
+[2026.04.29-16.21.08:404][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.29-16.21.09:973][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.29-16.21.10:018][892]MaterialEditorStats: Base pass shader: 1131 instructions
+Stats: Resources Used: 19
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.04.29-16.21.10:018][892]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.04.29-16.21.10:018][892]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.29-16.21.10:018][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-16.21.10:018][892]MaterialEditorStats: Shader Count: 49
+[2026.04.29-16.21.10:018][892]MaterialEditorStats: Preshaders: 6  (6 param fetches, 8 ops)
+[2026.04.29-16.21.10:611][941]LogSlate: Window 'glass' being destroyed
+[2026.04.29-16.21.10:617][941]LogSlate: Window 'glass' being destroyed
+[2026.04.29-16.21.10:637][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.29-16.21.10:686][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.29-16.21.10:711][941]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-16.21.10:711][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.21.10:734][941]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-16.21.10:734][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-16.21.10:769][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.29-16.21.13:198][185]LogMaterial: Display: Material /Game/FBX/building_wall/glass.glass needed to have new flag set bUsedWithNanite !
+[2026.04.29-16.21.13:211][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:212][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:212][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:212][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:212][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:212][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:212][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:212][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:212][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:212][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:212][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:212][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:228][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:229][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:241][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:243][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:243][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:243][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:243][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:243][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:243][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:243][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:243][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:243][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:244][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:248][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:248][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:248][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:248][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:248][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:248][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:248][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:248][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:248][185]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:304][186]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:304][186]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:315][186]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.13:380][187]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:567][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:567][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:567][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:567][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:567][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:567][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:567][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:567][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:567][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:567][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:567][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:567][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:574][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:574][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:585][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:587][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:587][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:587][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:587][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:587][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:587][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:587][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:587][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:587][ 40]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.21:616][ 41]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.29-16.21.29:367][846]Cmd: EDIT COPY
+[2026.04.29-16.21.29:627][877]Cmd: EDIT PASTE
+[2026.04.29-16.21.36:154][639]Cmd: EDIT COPY
+[2026.04.29-16.21.36:360][662]Cmd: EDIT PASTE
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: ================================================
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Total job queries 1,423, among them cache hits 573 (40.27%), DDC hits 569 (39.99%), Duplicates 121 (8.50%)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Tracking 729 distinct input hashes that result in 550 distinct outputs (75.45%)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: RAM used: 6.58 MiB of 3.10 GiB budget. Usage: 0.21%
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Shaders Compiled: 160
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Jobs assigned 160, completed 160 (100%)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Average time worker was idle: 238.63 s
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 1.01 s
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 1.56 s
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Job life time (pending + execution): average 0.84 s, max 1.68
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Shader code size: total 1.893 MiB, numShaders 166, average 11.677 KiB, min 2.691 KiB, max 31.648 KiB
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.18 s
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Jobs were issued in 160 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Average processing rate: 7.93 jobs/sec
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Total thread time: 75.785 s
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Total thread preprocess time: 17.436 s
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Percentage time preprocessing: 23.01%
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Effective parallelization: 3.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.234706
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 0.92 sec, max 1.19 sec, min 0.69 sec)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    3 times, average 0.83 sec, max 0.92 sec, min 0.78 sec)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   11 times, average 0.78 sec, max 0.87 sec, min 0.69 sec)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader (compiled    3 times, average 0.70 sec, max 0.74 sec, min 0.64 sec)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 11.27% of total time (compiled   11 times, average 0.78 sec, max 0.87 sec, min 0.69 sec)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.55% of total time (compiled   14 times, average 0.52 sec, max 0.75 sec, min 0.34 sec)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.70% of total time (compiled   11 times, average 0.46 sec, max 0.79 sec, min 0.28 sec)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.07% of total time (compiled    5 times, average 0.92 sec, max 1.19 sec, min 0.69 sec)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display:                                                 FLumenCardPS - 4.66% of total time (compiled   15 times, average 0.24 sec, max 0.41 sec, min 0.18 sec)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: === Material stats ===
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Materials Translated:    360
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Material Total Translate Time: 0.38 s
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Material Translation Only: 0.11 s (28%)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: Material Cache Hits: 50 (14%)
+[2026.04.29-16.21.44:523][567]LogShaderCompilers: Display: ================================================
+[2026.04.29-16.23.14:090][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.29-16.23.14:098][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.04.29-16.23.14:537][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto8
+[2026.04.29-16.23.14:538][933]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto8629A998941280BF07F4B9699D3779B72.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto8.umap'
+[2026.04.29-16.23.14:542][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.475
+[2026.04.29-16.23.14:542][933]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.475
+[2026.04.29-16.23.14:543][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.04.29-16.23.14:605][933]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat.moriya_fish_1001_BaseColor_Mat]
+[2026.04.29-16.23.14:606][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat]
+[2026.04.29-16.23.14:611][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat_Auto8
+[2026.04.29-16.23.14:611][933]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/moriya_fish_1001_BaseColor_Mat_AA9ED57A0480755D89D53FFB368C2C9A7.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat_Auto8.uasset'
+[2026.04.29-16.23.14:612][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/building_wall/glass] ([1] browsable assets)...
+[2026.04.29-16.23.14:638][933]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FBX/building_wall/glass.glass]
+[2026.04.29-16.23.14:638][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/building_wall/glass]
+[2026.04.29-16.23.14:638][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/building_wall/glass" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/building_wall/glass_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.04.29-16.23.14:645][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/building_wall/glass_Auto8
+[2026.04.29-16.23.14:645][933]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/glass_Auto8BFC6AED641304EF58B97539EE264C4FF.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/building_wall/glass_Auto8.uasset'
+[2026.04.29-16.23.14:645][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/building_wall/glass_Inst] ([1] browsable assets)...
+[2026.04.29-16.23.14:655][933]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FBX/building_wall/glass_Inst.glass_Inst]
+[2026.04.29-16.23.14:655][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/building_wall/glass_Inst]
+[2026.04.29-16.23.14:655][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/building_wall/glass_Inst" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/building_wall/glass_Inst_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.04.29-16.23.14:661][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/building_wall/glass_Inst_Auto8
+[2026.04.29-16.23.14:661][933]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/glass_Inst_Auto8FAFB5A2F4132298E39853482BE8B4E5A.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/building_wall/glass_Inst_Auto8.uasset'
+[2026.04.29-16.23.14:661][933]LogFileHelpers: Auto-saving content packages took 0.119
+[2026.04.29-16.24.09:691][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7713.816895
+[2026.04.29-16.24.10:691][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.24.10:691][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7714.483398, Update Interval: 315.648682
+[2026.04.29-16.25.49:802][590]Cmd: EDIT COPY
+[2026.04.29-16.25.50:028][617]Cmd: EDIT PASTE
+[2026.04.29-16.25.52:906][915]Cmd: DELETE
+[2026.04.29-16.25.52:907][915]Cmd: ACTOR DELETE
+[2026.04.29-16.25.52:942][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.25.52:963][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.29-16.25.52:968][915]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2026.04.29-16.25.53:749][998]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-16.25.55:398][168]Cmd: EDIT COPY
+[2026.04.29-16.25.55:647][183]Cmd: EDIT PASTE
+[2026.04.29-16.27.12:347][961]Cmd: EDIT COPY
+[2026.04.29-16.27.12:554][971]Cmd: EDIT PASTE
+[2026.04.29-16.27.22:495][ 16]Cmd: EDIT COPY
+[2026.04.29-16.27.22:695][ 31]Cmd: EDIT PASTE
+[2026.04.29-16.28.07:276][799]Cmd: TRANSACTION UNDO
+[2026.04.29-16.28.07:276][799]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.29-16.28.38:985][645]Cmd: EDIT COPY
+[2026.04.29-16.28.39:198][657]Cmd: EDIT PASTE
+[2026.04.29-16.28.54:149][242]Cmd: EDIT COPY
+[2026.04.29-16.28.54:357][252]Cmd: EDIT PASTE
+[2026.04.29-16.29.59:585][538]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8063.690918
+[2026.04.29-16.29.59:835][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-16.29.59:835][568]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8063.932129, Update Interval: 335.864136
+[2026.04.29-16.30.35:839][500]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-16.30.38:810][748]Cmd: EDIT COPY
+[2026.04.29-16.30.39:030][760]Cmd: EDIT PASTE
+[2026.04.29-16.30.39:824][844]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-16.30.45:085][402]Cmd: EDIT COPY
+[2026.04.29-16.30.45:324][420]Cmd: EDIT PASTE
+[2026.04.29-16.30.46:325][529]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.29-16.31.04:238][438]Cmd: EDIT COPY
+[2026.04.29-16.31.04:479][449]Cmd: EDIT PASTE
+[2026.04.29-16.31.07:770][807]Cmd: DELETE
+[2026.04.29-16.31.07:770][807]Cmd: ACTOR DELETE
+[2026.04.29-16.31.07:801][807]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.31.07:825][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.04.29-16.31.07:833][807]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2026.04.29-16.31.24:511][676]Cmd: DELETE
+[2026.04.29-16.31.24:511][676]Cmd: ACTOR DELETE
+[2026.04.29-16.31.24:541][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.31.24:561][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.29-16.31.24:566][676]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2026.04.29-16.31.25:525][763]Cmd: DELETE
+[2026.04.29-16.31.25:525][763]Cmd: ACTOR DELETE
+[2026.04.29-16.31.25:556][763]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.31.25:576][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.29-16.31.25:580][763]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2026.04.29-16.31.26:298][835]Cmd: DELETE
+[2026.04.29-16.31.26:298][835]Cmd: ACTOR DELETE
+[2026.04.29-16.31.26:329][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-16.31.26:349][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.29-16.31.26:352][835]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.04.29-16.31.59:327][727]Cmd: EDIT COPY
+[2026.04.29-16.31.59:542][751]Cmd: EDIT PASTE
+[2026.04.29-16.33.00:797][291]Cmd: EDIT COPY
+[2026.04.29-16.33.01:000][303]Cmd: EDIT PASTE
+[2026.04.29-16.33.06:490][885]Cmd: EDIT COPY
+[2026.04.29-16.33.06:726][898]Cmd: EDIT PASTE
+[2026.04.29-16.33.17:369][ 39]Cmd: EDIT COPY
+[2026.04.29-16.33.17:609][ 66]Cmd: EDIT PASTE
+[2026.04.29-16.33.38:224][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.04.29-16.33.39:110][412]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.04.29-16.33.39:131][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-16.33.39:160][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.29-16.33.39:194][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.04.29-16.33.39:640][412]LogSavePackage: Moving output files for package: /Game/Main
+[2026.04.29-16.33.39:640][412]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main7CEAA2C8452330F0A5171C93DE1E68AA.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.04.29-16.33.39:659][412]LogFileHelpers: Saving map 'Main' took 0.499
+[2026.04.29-16.33.39:659][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/building_wall/glass] ([1] browsable assets)...
+[2026.04.29-16.33.39:659][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/building_wall/glass]
+[2026.04.29-16.33.39:659][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/building_wall/glass" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/building_wall/glass.uasset" SILENT=true
+[2026.04.29-16.33.39:663][412]LogSavePackage: Moving output files for package: /Game/FBX/building_wall/glass
+[2026.04.29-16.33.39:663][412]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/glass9B7EA1F34EDA80767FE128AF477E498D.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/building_wall/glass.uasset'
+[2026.04.29-16.33.39:664][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/building_wall/glass_Inst] ([1] browsable assets)...
+[2026.04.29-16.33.39:664][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/building_wall/glass_Inst]
+[2026.04.29-16.33.39:664][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/building_wall/glass_Inst" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/building_wall/glass_Inst.uasset" SILENT=true
+[2026.04.29-16.33.39:667][412]LogSavePackage: Moving output files for package: /Game/FBX/building_wall/glass_Inst
+[2026.04.29-16.33.39:667][412]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/glass_Inst6638A9A948A83E8E9D08BB9D8C8E055D.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/building_wall/glass_Inst.uasset'
+[2026.04.29-16.33.39:668][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.04.29-16.33.39:668][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat]
+[2026.04.29-16.33.39:668][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat.uasset" SILENT=true
+[2026.04.29-16.33.39:690][412]LogSavePackage: Moving output files for package: /Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat
+[2026.04.29-16.33.39:690][412]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/moriya_fish_1001_BaseColor_MatE7151625457A2AD0BBBA66A67DA241A3.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat.uasset'
+[2026.04.29-16.33.39:700][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 569.676 ms (total: 2.81 sec)
+[2026.04.29-16.33.39:739][412]LogContentValidation: Display: Starting to validate 4 assets
+[2026.04.29-16.33.39:739][412]LogContentValidation: Enabled validators:
+[2026.04.29-16.33.39:739][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-16.33.39:739][412]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-16.33.39:739][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-16.33.39:739][412]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-16.33.39:739][412]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-16.33.39:739][412]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-16.33.39:740][412]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.04.29-16.33.39:740][412]AssetCheck: /Game/FBX/building_wall/glass 에셋 유효성 검사 중
+[2026.04.29-16.33.39:740][412]AssetCheck: /Game/FBX/building_wall/glass_Inst 에셋 유효성 검사 중
+[2026.04.29-16.33.39:740][412]AssetCheck: /Game/FBX/moriya_fish/moriya_fish_1001_BaseColor_Mat 에셋 유효성 검사 중
+[2026.04.29-16.33.39:754][412]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
