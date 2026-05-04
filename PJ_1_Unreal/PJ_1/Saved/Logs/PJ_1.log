@@ -2070,3 +2070,125 @@ Sampler Limit: 32
 [2026.05.04-06.48.39:948][424]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.04-06.48.39:948][424]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.04-06.48.39:949][424]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.05.04-06.49.27:865][ 88]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5016.252930
+[2026.05.04-06.49.28:109][107]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.04-06.49.28:109][107]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5016.483398, Update Interval: 332.016968
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: ================================================
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Total job queries 726, among them cache hits 172 (23.69%), DDC hits 467 (64.33%), Duplicates 35 (4.82%)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Tracking 519 distinct input hashes that result in 387 distinct outputs (74.57%)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: RAM used: 4.80 MiB of 1.60 GiB budget. Usage: 0.29%
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Shaders Compiled: 52
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Jobs assigned 52, completed 52 (100%)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Average time worker was idle: 225.75 s
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Time job spent in pending queue: average 0.64 s, longest 2.16 s
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Job execution time: average 0.90 s, max 2.15 s
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Job life time (pending + execution): average 1.54 s, max 3.94
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Shader code size: total 507.793 KiB, numShaders 56, average 9.067 KiB, min 2.691 KiB, max 27.992 KiB
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.01 s
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Jobs were issued in 52 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Average processing rate: 4.33 jobs/sec
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Total thread time: 38.484 s
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Total thread preprocess time: 10.884 s
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Percentage time preprocessing: 28.28%
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Effective parallelization: 3.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.400521
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.10 sec, max 2.10 sec, min 2.10 sec)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.83 sec, max 1.83 sec, min 1.83 sec)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.56 sec, max 1.73 sec, min 1.38 sec)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.50 sec, max 1.59 sec, min 1.41 sec)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.28 sec, max 1.37 sec, min 1.20 sec)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.26% of total time (compiled   10 times, average 0.55 sec, max 0.82 sec, min 0.42 sec)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.48% of total time (compiled   12 times, average 0.40 sec, max 0.61 sec, min 0.26 sec)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.96% of total time (compiled    3 times, average 1.28 sec, max 1.37 sec, min 1.20 sec)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.09% of total time (compiled    2 times, average 1.56 sec, max 1.73 sec, min 1.38 sec)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.78% of total time (compiled    2 times, average 1.50 sec, max 1.59 sec, min 1.41 sec)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: === Material stats ===
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Materials Translated:    275
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Material Total Translate Time: 0.39 s
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Material Translation Only: 0.10 s (27%)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: Material Cache Hits: 37 (13%)
+[2026.05.04-06.50.02:005][782]LogShaderCompilers: Display: ================================================
+[2026.05.04-06.55.52:049][988]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5400.448242
+[2026.05.04-06.55.52:303][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.04-06.55.52:303][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5400.690430, Update Interval: 341.185333
+[2026.05.04-07.00.36:596][857]Cmd: EDIT COPY
+[2026.05.04-07.00.36:879][875]Cmd: EDIT PASTE
+[2026.05.04-07.01.11:648][230]Cmd: EDIT COPY
+[2026.05.04-07.01.11:887][247]Cmd: EDIT PASTE
+[2026.05.04-07.01.35:703][995]Cmd: TRANSACTION UNDO
+[2026.05.04-07.01.35:703][995]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.04-07.01.52:646][164]Cmd: EDIT COPY
+[2026.05.04-07.01.52:844][175]Cmd: EDIT PASTE
+[2026.05.04-07.01.58:032][504]Cmd: EDIT COPY
+[2026.05.04-07.01.58:238][520]Cmd: EDIT PASTE
+[2026.05.04-07.02.33:411][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5801.806152
+[2026.05.04-07.02.33:670][ 81]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.04-07.02.33:670][ 81]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5802.054199, Update Interval: 314.767914
+[2026.05.04-07.02.54:940][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.05.04-07.02.54:948][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.04-07.02.55:749][757]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto3
+[2026.05.04-07.02.55:750][757]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto3799A7AC94AA472802EEFA4AC61D1601D.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto3.umap'
+[2026.05.04-07.02.55:754][757]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.858
+[2026.05.04-07.02.55:754][757]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.858
+[2026.05.04-07.06.18:896][155]Cmd: TRANSACTION UNDO
+[2026.05.04-07.06.18:896][155]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.04-07.06.24:928][494]Cmd: EDIT COPY
+[2026.05.04-07.06.25:141][501]Cmd: EDIT PASTE
+[2026.05.04-07.06.56:647][697]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.04-07.07.16:076][ 59]Cmd: EDIT COPY
+[2026.05.04-07.07.16:299][ 75]Cmd: EDIT PASTE
+[2026.05.04-07.07.28:346][927]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.04-07.07.33:256][263]Cmd: EDIT COPY
+[2026.05.04-07.07.33:481][280]Cmd: EDIT PASTE
+[2026.05.04-07.07.41:790][860]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.04-07.07.48:928][339]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.04-07.08.01:982][363]Cmd: TRANSACTION UNDO
+[2026.05.04-07.08.01:982][363]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.04-07.08.10:174][934]Cmd: EDIT COPY
+[2026.05.04-07.08.10:393][948]Cmd: EDIT PASTE
+[2026.05.04-07.08.13:124][144]Cmd: EDIT COPY
+[2026.05.04-07.08.14:287][227]Cmd: EDIT COPY
+[2026.05.04-07.08.14:511][243]Cmd: EDIT PASTE
+[2026.05.04-07.08.28:514][268]Cmd: EDIT COPY
+[2026.05.04-07.08.28:721][283]Cmd: EDIT PASTE
+[2026.05.04-07.08.42:093][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6170.488281
+[2026.05.04-07.08.42:375][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.04-07.08.42:375][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6170.756836, Update Interval: 326.862396
+[2026.05.04-07.09.48:929][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.04-07.09.49:007][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.04-07.09.49:084][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.05.04-07.09.49:836][229]LogSavePackage: Moving output files for package: /Game/Main
+[2026.05.04-07.09.49:837][229]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main72913C40477463792628088366DB3295.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.05.04-07.09.49:859][229]LogFileHelpers: Saving map 'Main' took 0.854
+[2026.05.04-07.09.49:868][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 938.686 ms (total: 2.45 sec)
+[2026.05.04-07.09.49:938][229]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.04-07.09.49:938][229]LogContentValidation: Enabled validators:
+[2026.05.04-07.09.49:938][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.04-07.09.49:938][229]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.04-07.09.49:938][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.04-07.09.49:938][229]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.04-07.09.49:938][229]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.04-07.09.49:938][229]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.04-07.09.49:939][229]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.05.04-07.10.21:485][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.04-07.10.21:556][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.04-07.10.21:629][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.05.04-07.10.22:440][570]LogSavePackage: Moving output files for package: /Game/Main
+[2026.05.04-07.10.22:440][570]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main034A14F94884C8E473F5EBA09C3A5479.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.05.04-07.10.22:465][570]LogFileHelpers: Saving map 'Main' took 0.912
+[2026.05.04-07.10.22:475][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 990.071 ms (total: 3.44 sec)
+[2026.05.04-07.10.22:554][570]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.04-07.10.22:554][570]LogContentValidation: Enabled validators:
+[2026.05.04-07.10.22:554][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.04-07.10.22:554][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.04-07.10.22:554][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.04-07.10.22:554][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.04-07.10.22:554][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.04-07.10.22:554][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.04-07.10.22:556][570]AssetCheck: /Game/Main 에셋 유효성 검사 중
