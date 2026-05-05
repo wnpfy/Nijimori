@@ -3600,3 +3600,458 @@ External referencers of MaterialInstanceConstant /Game/FBX/roof_gapan/roof_gapan
 [2026.05.05-15.08.29:300][ 78]AssetCheck: /Game/FBX/roof_gapan/roof_gapan_1001_Normal 에셋 유효성 검사 중
 [2026.05.05-15.08.29:300][ 78]AssetCheck: /Game/FBX/roof_gapan/roof_gapan_black 에셋 유효성 검사 중
 [2026.05.05-15.08.29:315][ 78]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.05-15.10.02:662][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44531.152344
+[2026.05.05-15.10.03:662][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.10.03:662][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44531.816406, Update Interval: 326.466858
+[2026.05.05-15.10.34:585][852]Cmd: EDIT COPY
+[2026.05.05-15.10.34:792][875]Cmd: EDIT PASTE
+[2026.05.05-15.11.14:757][177]Cmd: TRANSACTION UNDO
+[2026.05.05-15.11.14:757][177]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.05-15.11.27:158][486]Cmd: EDIT COPY
+[2026.05.05-15.11.27:391][506]Cmd: EDIT PASTE
+[2026.05.05-15.11.45:978][612]Cmd: DELETE
+[2026.05.05-15.11.45:978][612]Cmd: ACTOR DELETE
+[2026.05.05-15.11.46:012][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.05-15.11.46:067][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.05.05-15.11.46:072][612]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2026.05.05-15.12.13:008][399]Cmd: EDIT COPY
+[2026.05.05-15.12.13:224][422]Cmd: EDIT PASTE
+[2026.05.05-15.12.21:727][316]Cmd: EDIT COPY
+[2026.05.05-15.12.21:977][328]Cmd: EDIT PASTE
+[2026.05.05-15.12.52:452][870]LogEOSSDK: Warning: LogHttp: 000001D42C78D200: request has been successfully processed. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC7FD717C-4013-0F05-5D7C-DCB50044A5C2%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 503, content length: 81, actual payload size: 81, elapsed: 0.20s
+[2026.05.05-15.12.52:452][870]LogEOSSDK: Warning: LogHttp: 000001D42C78D200 Response Header Date: Tue, 05 May 2026 15:12:52 GMT
+[2026.05.05-15.12.52:452][870]LogEOSSDK: Warning: LogHttp: 000001D42C78D200 Response Header Content-Type: text/plain
+[2026.05.05-15.12.52:452][870]LogEOSSDK: Warning: LogHttp: 000001D42C78D200 Response Header Content-Length: 81
+[2026.05.05-15.12.52:452][870]LogEOSSDK: Warning: LogHttp: 000001D42C78D200 Response Header Connection: keep-alive
+[2026.05.05-15.12.52:452][870]LogEOSSDK: Warning: LogHttp: 000001D42C78D200 Response Header x-epic-correlation-id: 2222a711-71a9-400d-9e30-a019416c8acb
+[2026.05.05-15.12.52:452][871]LogEOSSDK: Warning: LogHttp: 000001D42C78D200 Response Header Server: cloudflare
+[2026.05.05-15.12.52:452][871]LogEOSSDK: Warning: LogHttp: 000001D42C78D200 Response Header cf-cache-status: DYNAMIC
+[2026.05.05-15.12.52:452][871]LogEOSSDK: Warning: LogHttp: 000001D42C78D200 Response Header CF-RAY: 9f70af963b2fd1e3-ICN
+[2026.05.05-15.12.52:452][871]LogEOSSDK: Warning: LogHttp: 000001D42C78D200 Response Header alt-svc: h3=":443"; ma=86400
+[2026.05.05-15.13.00:616][808]Cmd: EDIT COPY
+[2026.05.05-15.13.00:807][831]Cmd: EDIT PASTE
+[2026.05.05-15.13.16:588][520]Cmd: EDIT COPY
+[2026.05.05-15.13.16:786][542]Cmd: EDIT PASTE
+[2026.05.05-15.13.31:575][125]LogEOSSDK: Warning: LogHttp: 000001D4B727C600: request has been successfully processed. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=61DD3E8942306346EA54A2A22260501B, HTTP code: 503, content length: 81, actual payload size: 81, elapsed: 0.21s
+[2026.05.05-15.13.31:575][125]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Date: Tue, 05 May 2026 15:13:31 GMT
+[2026.05.05-15.13.31:575][126]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Content-Type: text/plain
+[2026.05.05-15.13.31:575][126]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Content-Length: 81
+[2026.05.05-15.13.31:575][126]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Connection: keep-alive
+[2026.05.05-15.13.31:575][126]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header x-epic-correlation-id: EOS-88LSGvx-MU6b0dmdAcjw4A-yFdd7UH7IU6fgJg1Dqx3YQ
+[2026.05.05-15.13.31:575][126]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Server: cloudflare
+[2026.05.05-15.13.31:575][126]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header cf-cache-status: DYNAMIC
+[2026.05.05-15.13.31:575][126]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header CF-RAY: 9f70b08aba47d1e3-ICN
+[2026.05.05-15.13.31:575][126]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header alt-svc: h3=":443"; ma=86400
+[2026.05.05-15.13.31:575][126]LogEOSSDK: Warning: LogHttp: Lockout of 3.513291s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=61DD3E8942306346EA54A2A22260501B
+[2026.05.05-15.13.35:090][462]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=61DD3E8942306346EA54A2A22260501B
+[2026.05.05-15.13.35:320][490]LogEOSSDK: Warning: LogHttp: 000001D4B727C600: request has been successfully processed. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=61DD3E8942306346EA54A2A22260501B, HTTP code: 503, content length: 81, actual payload size: 81, elapsed: 0.20s
+[2026.05.05-15.13.35:320][490]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Date: Tue, 05 May 2026 15:13:35 GMT
+[2026.05.05-15.13.35:320][490]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Content-Type: text/plain
+[2026.05.05-15.13.35:320][490]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Content-Length: 81
+[2026.05.05-15.13.35:320][490]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Connection: keep-alive
+[2026.05.05-15.13.35:320][490]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header x-epic-correlation-id: EOS-88LSGvx-MU6b0dmdAcjw4A-yFdd7UH7IU6fgJg1Dqx3YQ
+[2026.05.05-15.13.35:320][490]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Server: cloudflare
+[2026.05.05-15.13.35:320][491]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header cf-cache-status: DYNAMIC
+[2026.05.05-15.13.35:320][491]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header CF-RAY: 9f70b0a22a68d1e3-ICN
+[2026.05.05-15.13.35:320][491]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header alt-svc: h3=":443"; ma=86400
+[2026.05.05-15.13.35:320][491]LogEOSSDK: Warning: LogHttp: Lockout of 4.456801s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=61DD3E8942306346EA54A2A22260501B
+[2026.05.05-15.13.39:778][942]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=61DD3E8942306346EA54A2A22260501B
+[2026.05.05-15.13.39:975][952]Cmd: EDIT COPY
+[2026.05.05-15.13.40:020][953]LogEOSSDK: Warning: LogHttp: 000001D4B727C600: request has been successfully processed. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=61DD3E8942306346EA54A2A22260501B, HTTP code: 503, content length: 81, actual payload size: 81, elapsed: 0.22s
+[2026.05.05-15.13.40:020][953]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Date: Tue, 05 May 2026 15:13:39 GMT
+[2026.05.05-15.13.40:020][953]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Content-Type: text/plain
+[2026.05.05-15.13.40:020][953]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Content-Length: 81
+[2026.05.05-15.13.40:020][953]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Connection: keep-alive
+[2026.05.05-15.13.40:020][953]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header x-epic-correlation-id: EOS-88LSGvx-MU6b0dmdAcjw4A-yFdd7UH7IU6fgJg1Dqx3YQ
+[2026.05.05-15.13.40:020][953]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header Server: cloudflare
+[2026.05.05-15.13.40:020][953]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header cf-cache-status: DYNAMIC
+[2026.05.05-15.13.40:020][953]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header CF-RAY: 9f70b0bf6c6ad1e3-ICN
+[2026.05.05-15.13.40:020][954]LogEOSSDK: Warning: LogHttp: 000001D4B727C600 Response Header alt-svc: h3=":443"; ma=86400
+[2026.05.05-15.13.40:020][954]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=61DD3E8942306346EA54A2A22260501B
+[2026.05.05-15.13.40:020][954]LogEOSSDK: Warning: LogEOS: Error response received from backend. Response is not JSON. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>], HttpStatus=[503], CorrId=[EOS-88LSGvx-MU6b0dmdAcjw4A-yFdd7UH7IU6fgJg1Dqx3YQ]
+[2026.05.05-15.13.40:181][962]Cmd: EDIT PASTE
+[2026.05.05-15.13.41:393][ 95]Cmd: TRANSACTION UNDO
+[2026.05.05-15.13.41:393][ 95]LogEditorTransaction: Undo 붙여넣기
+[2026.05.05-15.13.41:490][ 95]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.05-15.13.41:490][ 95]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.05-15.13.41:490][ 95]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.05-15.13.41:490][ 95]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.05-15.13.41:490][ 95]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.05-15.13.41:490][ 95]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.05-15.13.41:490][ 95]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.05-15.13.41:490][ 95]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.05-15.13.41:490][ 95]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.05-15.13.41:493][ 95]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.05-15.13.43:518][284]Cmd: EDIT COPY
+[2026.05.05-15.13.43:732][308]Cmd: EDIT PASTE
+[2026.05.05-15.13.52:466][241]LogEOSSDK: Warning: LogHttp: 000001D4B7449600: request has been successfully processed. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC7FD717C-4013-0F05-5D7C-DCB50044A5C2%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 503, content length: 81, actual payload size: 81, elapsed: 0.22s
+[2026.05.05-15.13.52:466][241]LogEOSSDK: Warning: LogHttp: 000001D4B7449600 Response Header Date: Tue, 05 May 2026 15:13:52 GMT
+[2026.05.05-15.13.52:466][241]LogEOSSDK: Warning: LogHttp: 000001D4B7449600 Response Header Content-Type: text/plain
+[2026.05.05-15.13.52:466][241]LogEOSSDK: Warning: LogHttp: 000001D4B7449600 Response Header Content-Length: 81
+[2026.05.05-15.13.52:466][241]LogEOSSDK: Warning: LogHttp: 000001D4B7449600 Response Header Connection: keep-alive
+[2026.05.05-15.13.52:466][241]LogEOSSDK: Warning: LogHttp: 000001D4B7449600 Response Header x-epic-correlation-id: cd54cce8-1ee9-436e-bc5b-0991da5aab06
+[2026.05.05-15.13.52:466][241]LogEOSSDK: Warning: LogHttp: 000001D4B7449600 Response Header Server: cloudflare
+[2026.05.05-15.13.52:466][241]LogEOSSDK: Warning: LogHttp: 000001D4B7449600 Response Header cf-cache-status: DYNAMIC
+[2026.05.05-15.13.52:466][242]LogEOSSDK: Warning: LogHttp: 000001D4B7449600 Response Header CF-RAY: 9f70b10d2ee5d1e3-ICN
+[2026.05.05-15.13.52:466][242]LogEOSSDK: Warning: LogHttp: 000001D4B7449600 Response Header alt-svc: h3=":443"; ma=86400
+[2026.05.05-15.15.05:985][360]Cmd: EDIT COPY
+[2026.05.05-15.15.06:208][385]Cmd: EDIT PASTE
+[2026.05.05-15.15.50:281][474]Cmd: EDIT COPY
+[2026.05.05-15.15.50:555][494]Cmd: EDIT PASTE
+[2026.05.05-15.15.55:692][ 26]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-15.16.16:430][364]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44889.523438
+[2026.05.05-15.16.16:705][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.16.16:705][392]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44889.781250, Update Interval: 353.266998
+[2026.05.05-15.16.38:453][976]Cmd: DELETE
+[2026.05.05-15.16.38:453][976]Cmd: ACTOR DELETE
+[2026.05.05-15.17.37:640][609]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-15.18.31:049][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.05.05-15.18.31:062][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.05-15.18.31:528][188]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto1
+[2026.05.05-15.18.31:528][188]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto18181CAA5457F138A78C41C94915FF3EE.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto1.umap'
+[2026.05.05-15.18.31:532][188]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.550
+[2026.05.05-15.18.31:532][188]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.550
+[2026.05.05-15.20.35:121][506]Cmd: EDIT COPY
+[2026.05.05-15.20.35:335][530]Cmd: EDIT PASTE
+[2026.05.05-15.20.40:191][974]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-15.22.53:128][936]Cmd: TRANSACTION UNDO
+[2026.05.05-15.22.53:128][936]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.05-15.22.55:873][212]Cmd: TRANSACTION UNDO
+[2026.05.05-15.22.55:874][212]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.05-15.23.02:556][953]Cmd: PIVOT HERE
+[2026.05.05-15.23.05:739][288]Cmd: PIVOT SNAPPED
+[2026.05.05-15.23.07:977][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45286.136719
+[2026.05.05-15.23.08:238][548]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.23.08:238][549]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45286.382812, Update Interval: 323.317352
+[2026.05.05-15.23.08:380][563]Cmd: PIVOT CENTERSELECTION
+[2026.05.05-15.23.11:119][849]Cmd: PIVOT HERE
+[2026.05.05-15.23.15:142][280]Cmd: ACTOR BAKEPREPIVOT
+[2026.05.05-15.23.15:142][280]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.05.05-15.23.30:073][972]Cmd: DELETE
+[2026.05.05-15.23.30:073][972]Cmd: ACTOR DELETE
+[2026.05.05-15.23.30:106][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.05-15.23.30:176][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.05.05-15.23.30:183][972]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2026.05.05-15.23.32:256][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof_gapan/roof_gapan.roof_gapan
+[2026.05.05-15.23.32:256][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof_gapan/roof_gapan.roof_gapan
+[2026.05.05-15.23.32:258][183]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/roof_gapan/roof_gapan.roof_gapan as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4742
+[2026.05.05-15.23.33:138][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.05.05-15.23.33:141][264]LogEditorActor: Deleted 0 Actors (0.049 secs)
+[2026.05.05-15.23.33:148][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof_gapan/roof_gapan.roof_gapan
+[2026.05.05-15.23.33:148][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/roof_gapan/roof_gapan.roof_gapan
+[2026.05.05-15.23.33:152][264]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/roof_gapan/roof_gapan.roof_gapan as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4743
+[2026.05.05-15.23.37:907][815]Cmd: TRANSACTION UNDO
+[2026.05.05-15.23.37:907][815]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.05-15.23.40:532][ 83]Cmd: TRANSACTION UNDO
+[2026.05.05-15.23.40:532][ 83]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.05-15.23.42:432][292]Cmd: TRANSACTION UNDO
+[2026.05.05-15.23.42:432][292]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.05-15.23.46:559][652]Cmd: PIVOT HERE
+[2026.05.05-15.23.49:850][966]Cmd: ACTOR BAKEPREPIVOT
+[2026.05.05-15.24.00:641][234]Cmd: TRANSACTION UNDO
+[2026.05.05-15.24.00:641][234]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.05-15.25.05:425][364]Cmd: EDIT COPY
+[2026.05.05-15.25.05:652][388]Cmd: EDIT PASTE
+[2026.05.05-15.25.46:411][955]Cmd: SELECT NONE
+[2026.05.05-15.25.57:917][190]Cmd: DELETE
+[2026.05.05-15.25.57:917][190]Cmd: ACTOR DELETE
+[2026.05.05-15.26.01:513][529]Cmd: EDIT COPY
+[2026.05.05-15.26.01:751][556]Cmd: EDIT PASTE
+[2026.05.05-15.28.31:464][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.05.05-15.28.31:470][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.05-15.28.31:941][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto2
+[2026.05.05-15.28.31:941][399]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto26ADFD22549BE732BB160489132586DA7.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto2.umap'
+[2026.05.05-15.28.31:945][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.556
+[2026.05.05-15.28.31:945][399]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.556
+[2026.05.05-15.29.02:773][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45624.949219
+[2026.05.05-15.29.03:006][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.29.03:006][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45625.160156, Update Interval: 337.512146
+[2026.05.05-15.35.13:707][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45975.968750
+[2026.05.05-15.35.13:949][562]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.35.13:949][562]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45976.187500, Update Interval: 313.486145
+[2026.05.05-15.35.22:995][563]Cmd: EDIT COPY
+[2026.05.05-15.35.23:246][593]Cmd: EDIT PASTE
+[2026.05.05-15.35.39:686][324]Cmd: EDIT COPY
+[2026.05.05-15.35.39:912][351]Cmd: EDIT PASTE
+[2026.05.05-15.38.31:886][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.05.05-15.38.31:892][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.05-15.38.32:365][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto3
+[2026.05.05-15.38.32:365][903]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto372851AF140F32BB7DD3996817EAF283A.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto3.umap'
+[2026.05.05-15.38.32:369][903]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.546
+[2026.05.05-15.38.32:369][903]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.546
+[2026.05.05-15.41.06:863][425]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46313.667969
+[2026.05.05-15.41.07:129][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.41.07:129][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 46313.910156, Update Interval: 302.713715
+[2026.05.05-15.41.44:558][944]LogDerivedDataCache: C:/Users/ckj86/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.05-15.47.07:364][951]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46669.605469
+[2026.05.05-15.47.08:696][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.47.08:696][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 46670.605469, Update Interval: 358.216492
+[2026.05.05-15.51.13:706][412]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-15.51.17:317][785]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-15.51.19:803][ 32]Cmd: EDIT COPY
+[2026.05.05-15.51.20:007][ 50]Cmd: EDIT PASTE
+[2026.05.05-15.51.30:437][190]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-15.51.41:672][444]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-15.52.30:661][576]Cmd: EDIT COPY
+[2026.05.05-15.52.30:851][588]Cmd: EDIT PASTE
+[2026.05.05-15.53.15:143][369]Cmd: EDIT COPY
+[2026.05.05-15.53.15:374][395]Cmd: EDIT PASTE
+[2026.05.05-15.53.20:434][958]Cmd: EDIT COPY
+[2026.05.05-15.53.20:627][973]Cmd: EDIT PASTE
+[2026.05.05-15.53.37:697][738]Cmd: EDIT COPY
+[2026.05.05-15.53.37:913][762]Cmd: EDIT PASTE
+[2026.05.05-15.53.43:289][353]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47058.949219
+[2026.05.05-15.53.43:554][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.53.43:554][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47059.207031, Update Interval: 340.042725
+[2026.05.05-15.53.45:019][521]Cmd: EDIT COPY
+[2026.05.05-15.53.45:219][545]Cmd: EDIT PASTE
+[2026.05.05-15.53.56:417][737]Cmd: EDIT COPY
+[2026.05.05-15.53.56:620][748]Cmd: EDIT PASTE
+[2026.05.05-15.54.04:124][562]Cmd: EDIT COPY
+[2026.05.05-15.54.04:346][587]Cmd: EDIT PASTE
+[2026.05.05-15.54.11:524][327]Cmd: EDIT COPY
+[2026.05.05-15.54.11:747][352]Cmd: EDIT PASTE
+[2026.05.05-15.54.17:820][986]Cmd: EDIT COPY
+[2026.05.05-15.54.18:023][  0]Cmd: EDIT PASTE
+[2026.05.05-15.54.29:614][271]Cmd: EDIT COPY
+[2026.05.05-15.54.29:818][294]Cmd: EDIT PASTE
+[2026.05.05-15.54.36:658][ 36]Cmd: EDIT COPY
+[2026.05.05-15.54.36:867][ 61]Cmd: EDIT PASTE
+[2026.05.05-15.54.54:192][897]Cmd: EDIT COPY
+[2026.05.05-15.54.54:402][922]Cmd: EDIT PASTE
+[2026.05.05-15.55.01:895][734]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-15.55.05:846][135]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-15.55.09:582][476]Cmd: EDIT COPY
+[2026.05.05-15.55.09:813][496]Cmd: EDIT PASTE
+[2026.05.05-15.55.47:155][577]Cmd: EDIT COPY
+[2026.05.05-15.55.47:359][600]Cmd: EDIT PASTE
+[2026.05.05-15.56.09:056][ 16]Cmd: EDIT COPY
+[2026.05.05-15.56.09:283][ 29]Cmd: EDIT PASTE
+[2026.05.05-15.56.40:072][268]Cmd: EDIT COPY
+[2026.05.05-15.56.40:281][281]Cmd: EDIT PASTE
+[2026.05.05-15.56.52:866][664]Cmd: EDIT COPY
+[2026.05.05-15.56.53:074][689]Cmd: EDIT PASTE
+[2026.05.05-15.57.30:157][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.05.05-15.57.30:165][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.05-15.57.30:651][257]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto4
+[2026.05.05-15.57.30:651][257]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto48E47B12B45D00F49B3B09AA98B5EA43E.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto4.umap'
+[2026.05.05-15.57.30:656][257]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.582
+[2026.05.05-15.57.30:656][257]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.582
+[2026.05.05-16.00.03:902][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47429.128906
+[2026.05.05-16.00.04:902][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.00.04:902][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47429.792969, Update Interval: 349.496765
+[2026.05.05-16.06.35:017][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47818.750000
+[2026.05.05-16.06.35:267][ 82]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.06.35:267][ 82]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47818.976562, Update Interval: 300.628082
+[2026.05.05-16.07.50:245][865]Cmd: EDIT COPY
+[2026.05.05-16.07.50:445][889]Cmd: EDIT PASTE
+[2026.05.05-16.08.33:107][577]Cmd: TRANSACTION UNDO
+[2026.05.05-16.08.33:107][577]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.05-16.08.36:935][899]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-16.08.52:086][634]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-16.08.56:170][ 78]Cmd: EDIT COPY
+[2026.05.05-16.08.56:464][102]Cmd: EDIT PASTE
+[2026.05.05-16.09.01:384][639]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-16.09.37:390][547]Cmd: EDIT COPY
+[2026.05.05-16.09.37:603][570]Cmd: EDIT PASTE
+[2026.05.05-16.09.46:617][507]Cmd: EDIT COPY
+[2026.05.05-16.09.46:851][535]Cmd: EDIT PASTE
+[2026.05.05-16.09.52:828][151]Cmd: EDIT COPY
+[2026.05.05-16.09.53:029][175]Cmd: EDIT PASTE
+[2026.05.05-16.09.55:081][410]Cmd: DELETE
+[2026.05.05-16.09.55:081][410]Cmd: ACTOR DELETE
+[2026.05.05-16.09.55:113][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.05-16.09.55:115][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.05-16.09.55:189][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.05.05-16.09.55:195][410]LogEditorActor: Deleted 2 Actors (0.114 secs)
+[2026.05.05-16.10.00:774][ 45]Cmd: EDIT COPY
+[2026.05.05-16.10.00:966][ 68]Cmd: EDIT PASTE
+[2026.05.05-16.10.12:961][388]Cmd: EDIT COPY
+[2026.05.05-16.10.13:196][416]Cmd: EDIT PASTE
+[2026.05.05-16.10.35:560][936]Cmd: EDIT COPY
+[2026.05.05-16.10.35:899][975]Cmd: EDIT PASTE
+[2026.05.05-16.11.15:341][356]Cmd: DELETE
+[2026.05.05-16.11.15:341][356]Cmd: ACTOR DELETE
+[2026.05.05-16.11.15:374][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.05-16.11.15:431][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.05.05-16.11.15:436][356]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2026.05.05-16.11.15:804][386]Cmd: DELETE
+[2026.05.05-16.11.15:804][386]Cmd: ACTOR DELETE
+[2026.05.05-16.11.15:838][386]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.05-16.11.15:895][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.05-16.11.15:899][386]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2026.05.05-16.11.16:891][491]Cmd: DELETE
+[2026.05.05-16.11.16:891][491]Cmd: ACTOR DELETE
+[2026.05.05-16.11.16:924][491]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.05-16.11.16:979][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.05.05-16.11.16:983][491]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2026.05.05-16.11.29:096][839]Cmd: EDIT COPY
+[2026.05.05-16.11.29:335][866]Cmd: EDIT PASTE
+[2026.05.05-16.11.35:664][600]Cmd: EDIT COPY
+[2026.05.05-16.11.35:860][622]Cmd: EDIT PASTE
+[2026.05.05-16.11.46:835][790]Cmd: EDIT COPY
+[2026.05.05-16.11.47:058][815]Cmd: EDIT PASTE
+[2026.05.05-16.12.06:713][ 29]Cmd: EDIT COPY
+[2026.05.05-16.12.06:939][ 56]Cmd: EDIT PASTE
+[2026.05.05-16.12.12:172][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48143.683594
+[2026.05.05-16.12.12:429][703]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.12.12:429][703]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48143.917969, Update Interval: 356.185791
+[2026.05.05-16.12.56:708][591]Cmd: EDIT COPY
+[2026.05.05-16.12.56:924][617]LogWindows: Warning: OpenClipboard failed with error code 5
+[2026.05.05-16.13.01:292][133]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-16.13.31:378][456]Cmd: EDIT COPY
+[2026.05.05-16.13.31:593][482]Cmd: EDIT PASTE
+[2026.05.05-16.13.35:552][946]Cmd: EDIT COPY
+[2026.05.05-16.13.35:779][973]Cmd: EDIT PASTE
+[2026.05.05-16.13.50:960][625]Cmd: EDIT COPY
+[2026.05.05-16.13.51:178][637]Cmd: EDIT PASTE
+[2026.05.05-16.14.05:188][136]Cmd: EDIT COPY
+[2026.05.05-16.14.05:422][162]Cmd: EDIT PASTE
+[2026.05.05-16.14.24:785][412]Cmd: EDIT COPY
+[2026.05.05-16.14.25:010][439]Cmd: EDIT PASTE
+[2026.05.05-16.14.47:387][943]Cmd: EDIT COPY
+[2026.05.05-16.14.47:604][969]Cmd: EDIT PASTE
+[2026.05.05-16.14.58:652][ 83]Cmd: EDIT COPY
+[2026.05.05-16.14.58:887][105]Cmd: EDIT PASTE
+[2026.05.05-16.15.11:381][444]Cmd: EDIT COPY
+[2026.05.05-16.15.11:598][470]Cmd: EDIT PASTE
+[2026.05.05-16.15.17:631][ 71]Cmd: EDIT COPY
+[2026.05.05-16.15.17:846][ 83]Cmd: EDIT PASTE
+[2026.05.05-16.15.40:597][513]Cmd: EDIT COPY
+[2026.05.05-16.15.40:809][525]Cmd: EDIT PASTE
+[2026.05.05-16.15.48:779][398]Cmd: EDIT COPY
+[2026.05.05-16.15.49:004][425]Cmd: EDIT PASTE
+[2026.05.05-16.16.09:627][672]Cmd: EDIT COPY
+[2026.05.05-16.16.09:868][688]Cmd: EDIT PASTE
+[2026.05.05-16.16.16:374][345]Cmd: EDIT COPY
+[2026.05.05-16.16.16:582][359]Cmd: EDIT PASTE
+[2026.05.05-16.16.20:683][799]Cmd: EDIT COPY
+[2026.05.05-16.16.20:916][816]Cmd: EDIT PASTE
+[2026.05.05-16.16.36:227][473]Cmd: EDIT COPY
+[2026.05.05-16.16.36:443][499]Cmd: EDIT PASTE
+[2026.05.05-16.16.54:420][564]Cmd: EDIT COPY
+[2026.05.05-16.16.54:645][591]Cmd: EDIT PASTE
+[2026.05.05-16.17.07:191][ 27]Cmd: EDIT COPY
+[2026.05.05-16.17.07:386][ 49]Cmd: EDIT PASTE
+[2026.05.05-16.17.09:533][286]Cmd: EDIT COPY
+[2026.05.05-16.17.09:734][310]Cmd: EDIT PASTE
+[2026.05.05-16.17.31:541][671]Cmd: DELETE
+[2026.05.05-16.17.31:541][671]Cmd: ACTOR DELETE
+[2026.05.05-16.17.31:576][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.05-16.17.31:662][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.05.05-16.17.31:669][671]LogEditorActor: Deleted 1 Actors (0.128 secs)
+[2026.05.05-16.17.32:067][695]Cmd: DELETE
+[2026.05.05-16.17.32:067][695]Cmd: ACTOR DELETE
+[2026.05.05-16.17.32:102][695]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.05-16.17.32:158][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.05.05-16.17.32:162][695]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2026.05.05-16.17.38:206][353]Cmd: EDIT COPY
+[2026.05.05-16.17.38:419][368]Cmd: EDIT PASTE
+[2026.05.05-16.18.11:048][163]Cmd: EDIT COPY
+[2026.05.05-16.18.11:258][188]Cmd: EDIT PASTE
+[2026.05.05-16.18.48:555][342]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48524.511719
+[2026.05.05-16.18.49:230][410]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.18.49:230][410]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48525.152344, Update Interval: 342.056946
+[2026.05.05-16.19.05:744][278]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-16.19.09:589][653]Cmd: EDIT COPY
+[2026.05.05-16.19.09:806][679]Cmd: EDIT PASTE
+[2026.05.05-16.19.40:882][ 41]Cmd: TRANSACTION UNDO
+[2026.05.05-16.19.40:882][ 41]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.05-16.19.59:311][ 65]Cmd: TRANSACTION UNDO
+[2026.05.05-16.19.59:311][ 65]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.05-16.20.10:821][317]Cmd: TRANSACTION UNDO
+[2026.05.05-16.20.10:821][317]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.05-16.20.40:990][576]Cmd: EDIT COPY
+[2026.05.05-16.20.41:470][632]Cmd: EDIT PASTE
+[2026.05.05-16.21.01:315][786]Cmd: EDIT COPY
+[2026.05.05-16.21.01:534][812]Cmd: EDIT PASTE
+[2026.05.05-16.21.02:520][920]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-16.21.22:487][  2]Cmd: EDIT COPY
+[2026.05.05-16.21.22:707][ 24]Cmd: EDIT PASTE
+[2026.05.05-16.22.08:480][128]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-16.22.28:474][347]Cmd: EDIT COPY
+[2026.05.05-16.22.28:674][362]Cmd: EDIT PASTE
+[2026.05.05-16.22.46:878][216]Cmd: EDIT COPY
+[2026.05.05-16.22.47:125][244]Cmd: EDIT PASTE
+[2026.05.05-16.22.47:825][315]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-16.22.58:625][506]Cmd: EDIT COPY
+[2026.05.05-16.22.58:838][520]Cmd: EDIT PASTE
+[2026.05.05-16.23.03:554][ 59]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-16.23.42:808][442]Cmd: EDIT COPY
+[2026.05.05-16.23.43:048][469]Cmd: EDIT PASTE
+[2026.05.05-16.23.56:598][968]Cmd: EDIT COPY
+[2026.05.05-16.23.56:791][991]Cmd: EDIT PASTE
+[2026.05.05-16.24.35:351][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.05.05-16.24.35:359][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.05-16.24.35:844][241]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto5
+[2026.05.05-16.24.35:844][241]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto5AC4953F54ABEDA1E3D09DEA9ED094587.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto5.umap'
+[2026.05.05-16.24.35:849][241]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.608
+[2026.05.05-16.24.35:849][241]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.608
+[2026.05.05-16.24.56:486][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.05.05-16.24.57:323][310]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.05.05-16.24.57:339][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.05-16.24.57:366][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.05-16.24.57:441][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.05-16.24.57:926][310]LogSavePackage: Moving output files for package: /Game/Main
+[2026.05.05-16.24.57:926][310]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/MainA127EA9E47E1B1D93C06A793122AA49E.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.05.05-16.24.57:944][310]LogFileHelpers: Saving map 'Main' took 0.580
+[2026.05.05-16.24.57:948][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 608.943 ms (total: 1.79 sec)
+[2026.05.05-16.24.57:981][310]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.05-16.24.57:981][310]LogContentValidation: Enabled validators:
+[2026.05.05-16.24.57:981][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.05-16.24.57:981][310]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.05-16.24.57:981][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.05-16.24.57:981][310]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.05-16.24.57:981][310]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.05-16.24.57:981][310]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.05-16.24.57:981][310]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.05.05-16.25.21:145][ 84]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48903.187500
+[2026.05.05-16.25.21:412][116]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.25.21:412][116]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48903.429688, Update Interval: 337.339996
+[2026.05.05-16.25.43:989][587]Cmd: EDIT COPY
+[2026.05.05-16.25.44:198][612]Cmd: EDIT PASTE
+[2026.05.05-16.26.14:517][ 69]Cmd: EDIT COPY
+[2026.05.05-16.26.14:732][ 80]Cmd: EDIT PASTE
+[2026.05.05-16.26.23:381][ 42]Cmd: EDIT COPY
+[2026.05.05-16.26.23:571][ 63]Cmd: EDIT PASTE
+[2026.05.05-16.26.30:517][847]Cmd: DELETE
+[2026.05.05-16.26.30:517][847]Cmd: ACTOR DELETE
+[2026.05.05-16.26.30:551][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.05-16.26.30:637][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.05.05-16.26.30:641][847]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2026.05.05-16.26.32:743][ 37]Cmd: EDIT COPY
+[2026.05.05-16.26.32:952][ 62]Cmd: EDIT PASTE
+[2026.05.05-16.26.41:221][925]Cmd: EDIT COPY
+[2026.05.05-16.26.41:440][951]Cmd: EDIT PASTE
+[2026.05.05-16.26.48:071][689]Cmd: EDIT COPY
+[2026.05.05-16.26.48:292][714]Cmd: EDIT PASTE
+[2026.05.05-16.26.56:396][620]Cmd: EDIT COPY
+[2026.05.05-16.26.56:641][648]Cmd: EDIT PASTE
+[2026.05.05-16.27.03:559][419]Cmd: EDIT COPY
+[2026.05.05-16.27.03:791][445]Cmd: EDIT PASTE
+[2026.05.05-16.27.07:420][870]Cmd: EDIT COPY
+[2026.05.05-16.27.08:164][959]Cmd: EDIT PASTE
+[2026.05.05-16.27.13:899][636]Cmd: EDIT COPY
+[2026.05.05-16.27.14:128][662]Cmd: EDIT PASTE
+[2026.05.05-16.27.19:553][241]Cmd: EDIT COPY
+[2026.05.05-16.27.19:769][267]Cmd: EDIT PASTE
+[2026.05.05-16.27.28:329][192]Cmd: EDIT COPY
+[2026.05.05-16.27.28:529][216]Cmd: EDIT PASTE
+[2026.05.05-16.27.52:462][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.05.05-16.27.53:280][845]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.05.05-16.27.53:298][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.05-16.27.53:327][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.05-16.27.53:413][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.05.05-16.27.53:899][845]LogSavePackage: Moving output files for package: /Game/Main
+[2026.05.05-16.27.53:899][845]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/MainBB946D1B4B9E8A9D54B4F3B6260371E2.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.05.05-16.27.53:918][845]LogFileHelpers: Saving map 'Main' took 0.592
+[2026.05.05-16.27.53:926][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 627.339 ms (total: 2.41 sec)
+[2026.05.05-16.27.53:965][845]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.05-16.27.53:965][845]LogContentValidation: Enabled validators:
+[2026.05.05-16.27.53:965][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.05-16.27.53:965][845]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.05-16.27.53:965][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.05-16.27.53:965][845]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.05-16.27.53:965][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.05-16.27.53:965][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.05-16.27.53:965][845]AssetCheck: /Game/Main 에셋 유효성 검사 중
