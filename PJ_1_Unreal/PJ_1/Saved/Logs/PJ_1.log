@@ -4055,3 +4055,27 @@ External referencers of MaterialInstanceConstant /Game/FBX/roof_gapan/roof_gapan
 [2026.05.05-16.27.53:965][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.05-16.27.53:965][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.05-16.27.53:965][845]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.05.05-16.29.24:379][740]Cmd: EDIT COPY
+[2026.05.05-16.29.24:569][763]Cmd: EDIT PASTE
+[2026.05.05-16.29.28:908][262]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-16.29.34:810][850]Cmd: EDIT COPY
+[2026.05.05-16.29.35:056][864]Cmd: EDIT PASTE
+[2026.05.05-16.29.38:857][251]Cmd: EDIT COPY
+[2026.05.05-16.29.39:063][274]Cmd: EDIT PASTE
+[2026.05.05-16.29.40:675][452]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.05-16.29.50:478][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.05-16.29.50:508][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.05-16.29.50:617][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.05.05-16.29.51:103][510]LogSavePackage: Moving output files for package: /Game/Main
+[2026.05.05-16.29.51:103][510]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/MainE0E8A05543FD9A0B822480A8D6FE9928.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.05.05-16.29.51:119][510]LogFileHelpers: Saving map 'Main' took 0.613
+[2026.05.05-16.29.51:127][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 649.272 ms (total: 3.06 sec)
+[2026.05.05-16.29.51:167][510]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.05-16.29.51:167][510]LogContentValidation: Enabled validators:
+[2026.05.05-16.29.51:167][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.05-16.29.51:167][510]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.05-16.29.51:167][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.05-16.29.51:167][510]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.05-16.29.51:167][510]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.05-16.29.51:167][510]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.05-16.29.51:168][510]AssetCheck: /Game/Main 에셋 유효성 검사 중
