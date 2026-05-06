@@ -2438,3 +2438,660 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2026.05.06-07.47.59:729][455]AssetCheck: /Game/FBX/building_wall/building_wall_1001_BaseColor_Mat 에셋 유효성 검사 중
 [2026.05.06-07.47.59:729][455]AssetCheck: /Game/FBX/building_wall/building_wall_ume 에셋 유효성 검사 중
 [2026.05.06-07.47.59:744][455]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.06-07.49.09:028][308]Cmd: EDIT COPY
+[2026.05.06-07.49.09:220][324]Cmd: EDIT PASTE
+[2026.05.06-07.50.19:567][553]Cmd: TRANSACTION UNDO
+[2026.05.06-07.50.19:567][553]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.06-07.51.01:221][493]Cmd: EDIT COPY
+[2026.05.06-07.51.01:419][504]Cmd: EDIT PASTE
+[2026.05.06-07.51.07:667][922]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.06-07.53.09:988][820]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5013.998535
+[2026.05.06-07.53.10:989][823]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-07.53.10:989][823]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5014.666504, Update Interval: 312.636505
+[2026.05.06-07.53.42:983][256]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-07.53.42:983][256]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-07.53.42:983][256]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-07.53.42:983][256]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-07.53.42:983][256]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-07.53.42:983][256]LogEditorClassViewer: Warning: Class /Script/LightGizmos.DirectionalLightGizmoActor has parent /Script/InteractiveToolsFramework.GizmoActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-07.53.42:983][256]LogEditorClassViewer: Warning: Class /Script/LightGizmos.SpotLightGizmoActor has parent /Script/InteractiveToolsFramework.GizmoActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-07.53.42:983][256]LogEditorClassViewer: Warning: Class /Script/XRCreative.XRCreativeCombinedTransformGizmoActor has parent /Script/InteractiveToolsFramework.CombinedTransformGizmoActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-07.54.29:264][612]Running C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/PJ_1.uproject" -game -rocket -progress
+[2026.05.06-07.54.29:374][612]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.05.06-07.54.29:374][612]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/PJ_1.uproject" -game -rocket -progress
+[2026.05.06-07.54.29:878][612]Log file: C:\Users\user\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2026.05.06-07.54.30:080][612]
+[2026.05.06-07.54.30:080][612]Some Platforms were skipped due to invalid SDK setup: Win64.
+[2026.05.06-07.54.30:080][612]See the log file for detailed information
+[2026.05.06-07.54.30:080][612]
+[2026.05.06-07.54.30:181][612]
+[2026.05.06-07.54.30:181][612]Generating VisualStudio project files:
+[2026.05.06-07.54.30:181][612]Discovering modules, targets and source code for project...
+[2026.05.06-07.54.30:885][612]Adding projects for all targets...
+[2026.05.06-07.54.31:187][612]Adding projects for all targets took 0.36s
+[2026.05.06-07.54.31:187][612]Visual Studio 2022 x64 must be installed in order to build this target.
+[2026.05.06-07.54.31:187][612]
+[2026.05.06-07.54.31:187][612]Result: Failed (OtherCompilationError)
+[2026.05.06-07.54.31:187][612]Total execution time: 1.75 seconds
+[2026.05.06-07.54.35:396][612]LogSlate: Window '메시지' being destroyed
+[2026.05.06-07.54.35:401][612]Message dialog closed, result: Yes, title: 메시지, text: 'Master' 클래스 추가에 성공했지만, 'PJ_1' 모듈을 다시 컴파일해야 콘텐츠 브라우저에 나타날 것입니다. 프로젝트 파일 생성에 실패했습니다.
+
+출력 로그를 열어 자세한 내용을 확인하시겠습니까?
+[2026.05.06-07.54.35:532][612]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2026.05.06-07.57.05:488][353]LogSlate: Window '출력 로그' being destroyed
+[2026.05.06-07.57.05:496][353]LogSlate: Window '출력 로그' being destroyed
+[2026.05.06-07.57.13:694][929]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.06-07.57.15:420][ 50]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.06-07.57.15:580][ 59]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.06-07.57.21:203][424]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.06-07.57.22:662][543]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.06-07.57.22:734][545]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.06-07.57.25:213][704]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.06-07.57.26:400][790]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.06-07.57.29:693][993]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.06-07.57.31:439][122]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.06-07.57.31:582][131]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.06-07.57.34:938][359]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.06-07.57.36:967][516]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.06-07.58.28:375][573]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2026.05.06-07.58.57:187][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5361.158691
+[2026.05.06-07.58.58:192][728]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-07.58.58:192][728]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5361.824219, Update Interval: 338.662079
+[2026.05.06-07.59.07:290][926]LogStreaming: Display: FlushAsyncLoading(460): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.06-07.59.07:334][926]LogInterchangeEngine: [대기중] 임포트 중
+[2026.05.06-07.59.07:334][926]LogInterchangeEngine: Display: Interchange start importing source [E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Source/PJ_1/Public/Master.h]
+[2026.05.06-07.59.07:487][928]LogStreaming: Display: FlushAsyncLoading(482): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.06-07.59.07:541][929]LogTexture: Warning: Texture2D /Game/Master.Master contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2026.05.06-07.59.07:541][929]LogInterchangeEngine: Display: Interchange import completed [E:/2022137038_chlwlt...1/Source/PJ_1/Public/Master.h]
+[2026.05.06-07.59.07:541][929]Interchange: Error: [E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Source/PJ_1/Public/Master.h : '', Texture2D] 텍스처의 너비 또는 높이가 0입니다.
+[2026.05.06-07.59.07:541][929]Interchange: Error: [E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Source/PJ_1/Public/Master.h : '', Texture2D] 소스 파일에서 페이로드를 얻을 수 없습니다.
+[2026.05.06-07.59.07:552][929]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.05.06-07.59.07:552][929]LogInterchangeEngine: Error: [실패] 임포트하지 못했습니다.
+[2026.05.06-07.59.14:081][416]Cmd: TRANSACTION UNDO
+[2026.05.06-07.59.14:081][416]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.06-07.59.14:642][424]Cmd: TRANSACTION UNDO
+[2026.05.06-07.59.14:642][424]LogEditorTransaction: Undo 액터 클릭
+[2026.05.06-07.59.41:817][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.05.06-07.59.41:823][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.06-07.59.42:747][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto5
+[2026.05.06-07.59.42:747][722]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto5C51944104E1237CFD3B9358B10DE1BF2.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto5.umap'
+[2026.05.06-07.59.42:754][722]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.977
+[2026.05.06-07.59.42:754][722]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.977
+[2026.05.06-08.01.24:271][215]LogSlate: Window '부모 클래스 선택' being destroyed
+[2026.05.06-08.01.24:280][215]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.05.06-08.01.24:290][215]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.05.06-08.01.24:308][216]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.05.06-08.01.30:955][739]LogContentBrowser: Attempting asset rename: NewBlueprint -> character
+[2026.05.06-08.01.30:965][739]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.05.06-08.01.35:086][ 58]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/character.character
+[2026.05.06-08.01.35:087][ 58]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.05.06-08.01.35:155][ 58]LogStreaming: Display: FlushAsyncLoading(483): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.06-08.01.36:705][ 58]LogStaticMesh: Display: PhAT_FloorBox스태틱 메시 빌드 중(필요 메모리 예상: 0.024887MB)...
+[2026.05.06-08.01.36:706][ 58]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.05.06-08.01.48:788][684]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.05.06-08.01.50:213][741]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.05.06-08.01.50:251][742]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.05.06-08.02.39:811][572]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-08.02.39:811][572]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-08.02.39:811][572]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-08.02.39:811][572]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-08.02.39:811][572]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-08.02.39:811][572]LogEditorClassViewer: Warning: Class /Script/LightGizmos.DirectionalLightGizmoActor has parent /Script/InteractiveToolsFramework.GizmoActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-08.02.39:811][572]LogEditorClassViewer: Warning: Class /Script/LightGizmos.SpotLightGizmoActor has parent /Script/InteractiveToolsFramework.GizmoActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-08.02.39:811][572]LogEditorClassViewer: Warning: Class /Script/XRCreative.XRCreativeCombinedTransformGizmoActor has parent /Script/InteractiveToolsFramework.CombinedTransformGizmoActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: ================================================
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Total job queries 964, among them cache hits 262 (27.18%), DDC hits 537 (55.71%), Duplicates 74 (7.68%)
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Tracking 628 distinct input hashes that result in 472 distinct outputs (75.16%)
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: RAM used: 5.85 MiB of 1.60 GiB budget. Usage: 0.36%
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Shaders Compiled: 91
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Jobs assigned 91, completed 91 (100%)
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Average time worker was idle: 324.86 s
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Time job spent in pending queue: average 1.45 s, longest 4.42 s
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Job execution time: average 1.23 s, max 2.61 s
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Job life time (pending + execution): average 2.68 s, max 5.14
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Shader code size: total 1.314 MiB, numShaders 91, average 14.797 KiB, min 2.742 KiB, max 31.648 KiB
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.30 s
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Jobs were issued in 91 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Average processing rate: 4.71 jobs/sec
+[2026.05.06-08.02.48:115][ 40]LogShaderCompilers: Display: Total thread time: 101.866 s
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: Total thread preprocess time: 14.581 s
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: Percentage time preprocessing: 14.31%
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: Effective parallelization: 5.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.659743
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy (compiled    2 times, average 2.27 sec, max 2.30 sec, min 2.23 sec)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 2.27 sec, max 2.35 sec, min 2.18 sec)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: TBasePassCSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 2.26 sec, max 2.31 sec, min 2.21 sec)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 2.24 sec, max 2.28 sec, min 2.21 sec)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 2.24 sec, max 2.26 sec, min 2.22 sec)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.73% of total time (compiled    6 times, average 1.31 sec, max 1.69 sec, min 0.95 sec)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.84% of total time (compiled    9 times, average 0.77 sec, max 1.36 sec, min 0.55 sec)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 5.63% of total time (compiled    4 times, average 1.43 sec, max 1.70 sec, min 1.17 sec)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 4.47% of total time (compiled    4 times, average 1.14 sec, max 1.61 sec, min 0.69 sec)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy - 4.45% of total time (compiled    2 times, average 2.27 sec, max 2.30 sec, min 2.23 sec)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: === Material stats ===
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: Materials Translated:    301
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: Material Total Translate Time: 0.38 s
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: Material Translation Only: 0.10 s (26%)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: Material Cache Hits: 59 (20%)
+[2026.05.06-08.02.48:116][ 40]LogShaderCompilers: Display: ================================================
+[2026.05.06-08.03.59:777][333]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.03.59:852][334]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.02:593][490]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.02:612][491]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.02:646][493]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.02:666][494]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.02:730][498]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.02:749][499]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.02:767][500]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.02:786][501]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.03:955][572]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.03:975][573]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.03:994][574]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:013][575]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:031][576]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:051][577]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:068][578]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:087][579]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:106][580]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:124][581]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:143][582]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:161][583]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:180][584]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:197][585]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:216][586]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:234][587]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:270][589]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:304][591]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:323][592]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:340][593]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.04:359][594]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:534][ 70]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:564][ 71]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:585][ 72]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:606][ 73]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:625][ 74]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:643][ 75]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:663][ 76]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:681][ 77]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:700][ 78]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:720][ 79]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:739][ 80]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:758][ 81]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:775][ 82]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:795][ 83]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:814][ 84]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:834][ 85]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:853][ 86]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:871][ 87]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:890][ 88]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:910][ 89]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:930][ 90]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:949][ 91]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:970][ 92]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.12:988][ 93]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:007][ 94]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:025][ 95]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:045][ 96]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:064][ 97]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:082][ 98]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:101][ 99]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:120][100]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:142][101]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:160][102]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:179][103]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:198][104]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:217][105]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:236][106]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:257][107]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:276][108]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:295][109]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:314][110]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:332][111]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:350][112]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:369][113]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:389][114]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:408][115]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:427][116]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:446][117]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:464][118]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:482][119]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:502][120]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:523][121]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:545][122]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:568][123]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:589][124]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:612][125]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:636][126]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.13:654][127]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.15:115][213]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.15:135][214]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.15:214][219]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.15:252][221]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.15:272][222]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.15:322][225]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.16:865][320]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.16:884][321]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.16:918][323]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.16:937][324]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.16:988][327]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.17:007][328]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.17:306][347]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.17:373][351]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.17:466][356]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.17:525][359]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.17:771][373]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.17:806][375]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.17:904][381]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.17:986][386]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.18:097][393]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.18:256][403]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.18:291][405]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.38:511][624]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.38:575][625]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:245][131]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:265][132]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:286][133]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:306][134]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:325][135]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:345][136]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:365][137]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:384][138]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:405][139]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:423][140]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:442][141]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:463][142]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:481][143]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:499][144]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:519][145]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:538][146]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:557][147]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:577][148]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:596][149]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:616][150]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:635][151]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:655][152]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:673][153]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:692][154]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:712][155]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:729][156]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:749][157]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:768][158]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:786][159]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:805][160]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:824][161]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:843][162]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:861][163]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:880][164]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:900][165]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:918][166]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:937][167]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:956][168]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:975][169]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.47:993][170]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:013][171]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:030][172]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:048][173]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:069][174]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:087][175]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:106][176]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:127][177]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:146][178]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:165][179]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:183][180]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:203][181]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:221][182]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:240][183]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:260][184]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:278][185]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:296][186]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:315][187]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:335][188]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.48:355][189]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.04.49:834][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-08.04.49:890][269]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/character] ([2] browsable assets)...
+[2026.05.06-08.04.49:899][269]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/character.character]
+[2026.05.06-08.04.49:899][269]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.05.06-08.04.49:915][269]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/character.character_C]
+[2026.05.06-08.04.49:915][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/character]
+[2026.05.06-08.04.49:915][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/character.uasset" SILENT=true
+[2026.05.06-08.04.49:930][269]LogSavePackage: Moving output files for package: /Game/character
+[2026.05.06-08.04.49:930][269]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/character381B60B943635C52611D98989EF5CC16.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/character.uasset'
+[2026.05.06-08.04.49:946][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.282 ms (total: 5.35 sec)
+[2026.05.06-08.04.50:005][269]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.06-08.04.50:005][269]LogContentValidation: Enabled validators:
+[2026.05.06-08.04.50:005][269]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-08.04.50:005][269]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-08.04.50:005][269]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-08.04.50:005][269]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-08.04.50:005][269]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-08.04.50:005][269]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-08.04.50:005][269]AssetCheck: /Game/character 에셋 유효성 검사 중
+[2026.05.06-08.04.50:030][269]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.06-08.04.59:970][948]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2026.05.06-08.04.59:980][948]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2026.05.06-08.05.00:011][949]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2026.05.06-08.05.06:245][433]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> NewInputMappingContext
+[2026.05.06-08.05.06:246][433]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2026.05.06-08.05.12:352][834]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.05.06-08.05.12:364][834]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.05.06-08.05.12:392][835]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.05.06-08.05.12:973][883]LogContentBrowser: Attempting asset rename: NewInputAction -> NewInputAction
+[2026.05.06-08.05.12:975][883]LogContentBrowser: End creating deferred item NewInputAction
+[2026.05.06-08.05.18:363][297]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/NewInputMappingContext.NewInputMappingContext
+[2026.05.06-08.05.23:816][675]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5747.766602
+[2026.05.06-08.05.24:108][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-08.05.24:108][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5748.043945, Update Interval: 333.881042
+[2026.05.06-08.05.49:298][466]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-08.05.49:298][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-08.05.49:407][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.05.06-08.05.50:618][542]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-08.05.50:618][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-08.05.50:693][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.05.06-08.05.55:571][783]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/NewInputAction.NewInputAction
+[2026.05.06-08.06.57:587][573]LogContentBrowser: Attempting asset rename: NewInputAction -> ㅡㅐㅍㄷ
+[2026.05.06-08.06.57:763][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-08.06.57:763][573]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ㅡㅐㅍㄷ] ([1] browsable assets)...
+[2026.05.06-08.06.57:763][573]OBJ SavePackage: Finished generating thumbnails for package [/Game/ㅡㅐㅍㄷ]
+[2026.05.06-08.06.57:763][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ㅡㅐㅍㄷ" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/ㅡㅐㅍㄷ.uasset" SILENT=true
+[2026.05.06-08.06.57:765][573]LogSavePackage: Moving output files for package: /Game/ㅡㅐㅍㄷ
+[2026.05.06-08.06.57:765][573]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/ㅡㅐㅍㄷ282BEDBF42235BC898EA8883271EA31D.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/ㅡㅐㅍㄷ.uasset'
+[2026.05.06-08.06.57:768][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.014 ms (total: 5.35 sec)
+[2026.05.06-08.06.57:863][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.05.06-08.06.57:909][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.05.06-08.06.57:950][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.05.06-08.06.58:019][573]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.06-08.06.58:019][573]LogContentValidation: Enabled validators:
+[2026.05.06-08.06.58:019][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-08.06.58:019][573]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-08.06.58:019][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-08.06.58:019][573]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-08.06.58:019][573]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-08.06.58:019][573]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-08.06.58:019][573]AssetCheck: /Game/ㅡㅐㅍㄷ 에셋 유효성 검사 중
+[2026.05.06-08.06.58:089][573]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.06-08.07.01:439][807]LogContentBrowser: Attempting asset rename: ㅡㅐㅍㄷ -> move
+[2026.05.06-08.07.01:600][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-08.07.01:600][807]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/move] ([1] browsable assets)...
+[2026.05.06-08.07.01:600][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/move]
+[2026.05.06-08.07.01:600][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/move" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/move.uasset" SILENT=true
+[2026.05.06-08.07.01:602][807]LogSavePackage: Moving output files for package: /Game/move
+[2026.05.06-08.07.01:602][807]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/moveCAD8FBD8435977924A128D9C47141C12.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/move.uasset'
+[2026.05.06-08.07.01:603][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.370 ms (total: 5.36 sec)
+[2026.05.06-08.07.01:673][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.05.06-08.07.01:716][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.05.06-08.07.01:755][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.05.06-08.07.01:820][807]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.06-08.07.01:820][807]LogContentValidation: Enabled validators:
+[2026.05.06-08.07.01:820][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-08.07.01:820][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-08.07.01:820][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-08.07.01:820][807]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-08.07.01:820][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-08.07.01:820][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-08.07.01:820][807]AssetCheck: /Game/move 에셋 유효성 검사 중
+[2026.05.06-08.07.01:887][807]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.06-08.07.04:545][963]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.05.06-08.07.04:557][963]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.05.06-08.07.04:577][964]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.05.06-08.07.07:831][197]LogContentBrowser: Attempting asset rename: NewInputAction -> look
+[2026.05.06-08.07.07:832][197]LogContentBrowser: End creating deferred item NewInputAction
+[2026.05.06-08.07.12:242][468]LogContentBrowser: Deferred new asset file creation: NewForceFeedbackEffect
+[2026.05.06-08.07.12:252][468]LogContentBrowser: Creating deferred item: NewForceFeedbackEffect
+[2026.05.06-08.07.12:272][469]LogContentBrowser: Renaming the item being created (Deferred Item: NewForceFeedbackEffect).
+[2026.05.06-08.07.12:732][503]LogContentBrowser: Attempting asset rename: NewForceFeedbackEffect -> NewForceFeedbackEffect
+[2026.05.06-08.07.12:732][503]LogContentBrowser: End creating deferred item NewForceFeedbackEffect
+[2026.05.06-08.07.14:729][644]LogAssetEditorSubsystem: Opening Asset editor for ForceFeedbackEffect /Game/NewForceFeedbackEffect.NewForceFeedbackEffect
+[2026.05.06-08.07.24:243][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.05.06-08.07.24:395][278]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.05.06-08.07.24:401][278]LogSlate: Took 0.004211 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.05.06-08.07.25:369][278]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.06-08.07.25:426][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.05.06-08.07.25:466][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.05.06-08.07.25:506][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.05.06-08.08.23:391][581]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/look.look
+[2026.05.06-08.08.52:762][773]LogEditCondition: Error: EnhancedActionKeyMapping - EditCondition이 유효하지 않은 \'SettingBehavior\' 피연산자를 사용하려 했습니다(값 오류).
+[2026.05.06-08.11.35:571][601]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6119.528320
+[2026.05.06-08.11.35:823][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-08.11.35:823][620]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6119.766602, Update Interval: 348.894318
+[2026.05.06-08.11.52:963][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.05.06-08.11.52:967][852]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.068
+[2026.05.06-08.11.52:967][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewInputMappingContext] ([1] browsable assets)...
+[2026.05.06-08.11.52:967][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewInputMappingContext]
+[2026.05.06-08.11.52:967][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewInputMappingContext" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/NewInputMappingContext_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.05.06-08.11.52:971][852]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NewInputMappingContext_Auto6
+[2026.05.06-08.11.52:971][852]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/NewInputMappingContext_Auto62DAC286547BA2F3CFC9AD1BFCA754497.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/NewInputMappingContext_Auto6.uasset'
+[2026.05.06-08.11.52:972][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/look] ([1] browsable assets)...
+[2026.05.06-08.11.52:972][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/look]
+[2026.05.06-08.11.52:972][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/look" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/look_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.05.06-08.11.52:974][852]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/look_Auto6
+[2026.05.06-08.11.52:974][852]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/look_Auto603603DBA4B18E18210BE5DB32E0ECFF4.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/look_Auto6.uasset'
+[2026.05.06-08.11.52:974][852]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.05.06-08.18.24:409][ 51]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6528.360352
+[2026.05.06-08.18.24:651][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-08.18.24:651][ 68]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6528.589844, Update Interval: 307.198090
+[2026.05.06-08.19.42:343][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-08.19.42:403][844]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewInputMappingContext] ([1] browsable assets)...
+[2026.05.06-08.19.42:403][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewInputMappingContext]
+[2026.05.06-08.19.42:403][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewInputMappingContext" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/NewInputMappingContext.uasset" SILENT=true
+[2026.05.06-08.19.42:406][844]LogSavePackage: Moving output files for package: /Game/NewInputMappingContext
+[2026.05.06-08.19.42:406][844]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/NewInputMappingContext839DB5704E60A901CCCA1980D7231777.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/NewInputMappingContext.uasset'
+[2026.05.06-08.19.42:415][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.736 ms (total: 5.43 sec)
+[2026.05.06-08.19.42:469][844]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.06-08.19.42:470][844]LogContentValidation: Enabled validators:
+[2026.05.06-08.19.42:470][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-08.19.42:470][844]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-08.19.42:470][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-08.19.42:470][844]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-08.19.42:470][844]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-08.19.42:470][844]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-08.19.42:470][844]AssetCheck: /Game/NewInputMappingContext 에셋 유효성 검사 중
+[2026.05.06-08.19.42:492][844]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.06-08.20.18:241][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-08.20.18:316][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/move] ([1] browsable assets)...
+[2026.05.06-08.20.18:316][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/move]
+[2026.05.06-08.20.18:316][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/move" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/move.uasset" SILENT=true
+[2026.05.06-08.20.18:319][517]LogSavePackage: Moving output files for package: /Game/move
+[2026.05.06-08.20.18:319][517]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/moveE50166134FAC85C09E63EC9589515A2E.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/move.uasset'
+[2026.05.06-08.20.18:327][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.686 ms (total: 5.51 sec)
+[2026.05.06-08.20.18:384][517]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.06-08.20.18:384][517]LogContentValidation: Enabled validators:
+[2026.05.06-08.20.18:384][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-08.20.18:384][517]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-08.20.18:384][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-08.20.18:384][517]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-08.20.18:384][517]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-08.20.18:384][517]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-08.20.18:384][517]AssetCheck: /Game/move 에셋 유효성 검사 중
+[2026.05.06-08.21.27:611][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.05.06-08.21.28:573][806]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.05.06-08.21.28:583][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-08.21.28:632][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.06-08.21.28:693][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.05.06-08.21.29:643][806]LogSavePackage: Moving output files for package: /Game/Main
+[2026.05.06-08.21.29:643][806]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/MainE86D4D0F4835C86CF12AE7AA3812F6B6.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.05.06-08.21.29:670][806]LogFileHelpers: Saving map 'Main' took 1.039
+[2026.05.06-08.21.29:670][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/look] ([1] browsable assets)...
+[2026.05.06-08.21.29:670][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/look]
+[2026.05.06-08.21.29:670][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/look" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/look.uasset" SILENT=true
+[2026.05.06-08.21.29:672][806]LogSavePackage: Moving output files for package: /Game/look
+[2026.05.06-08.21.29:672][806]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/look6115D88345E44AF4382AD9B96A21B2FE.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/look.uasset'
+[2026.05.06-08.21.29:684][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.10 sec (total: 6.62 sec)
+[2026.05.06-08.21.29:748][806]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.06-08.21.29:748][806]LogContentValidation: Enabled validators:
+[2026.05.06-08.21.29:748][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-08.21.29:748][806]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-08.21.29:748][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-08.21.29:748][806]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-08.21.29:748][806]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-08.21.29:748][806]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-08.21.29:749][806]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.05.06-08.21.29:749][806]AssetCheck: /Game/look 에셋 유효성 검사 중
+[2026.05.06-08.21.29:767][806]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.06-08.23.22:018][674]LogCameraSystem: Creating camera system host for gameplay camera 'character_C_0'.
+[2026.05.06-08.23.25:841][963]LogSlate: Window 'look' being destroyed
+[2026.05.06-08.23.25:849][963]LogSlate: Window 'look' being destroyed
+[2026.05.06-08.23.25:854][963]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-08.23.25:854][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-08.23.25:997][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.05.06-08.23.27:380][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.05.06-08.23.28:032][ 69]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.05.06-08.23.28:053][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-08.23.28:116][ 69]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character] ([2] browsable assets)...
+[2026.05.06-08.23.28:157][ 69]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/character.character]
+[2026.05.06-08.23.28:157][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/character]
+[2026.05.06-08.23.28:157][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character" FILE="E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/character.uasset" SILENT=true
+[2026.05.06-08.23.28:161][ 69]LogSavePackage: Moving output files for package: /Game/character
+[2026.05.06-08.23.28:162][ 69]LogSavePackage: Moving 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Saved/characterC669E4F246238180DE814E975565E230.tmp' to 'E:/2022137038_chlwltn/Nijimori/PJ_1_Unreal/PJ_1/Content/character.uasset'
+[2026.05.06-08.23.28:171][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.430 ms (total: 6.73 sec)
+[2026.05.06-08.23.28:210][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.06-08.23.28:210][ 69]LogContentValidation: Enabled validators:
+[2026.05.06-08.23.28:210][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-08.23.28:210][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-08.23.28:210][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-08.23.28:210][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-08.23.28:210][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-08.23.28:210][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-08.23.28:210][ 69]AssetCheck: /Game/character 에셋 유효성 검사 중
+[2026.05.06-08.23.29:032][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.05.06-08.23.29:073][131]LogStall: Shutdown...
+[2026.05.06-08.23.29:073][131]LogStall: Shutdown complete.
+[2026.05.06-08.23.29:105][131]LogSlate: Window 'PJ_1 - 언리얼 에디터' being destroyed
+[2026.05.06-08.23.29:257][131]Cmd: QUIT_EDITOR
+[2026.05.06-08.23.29:257][132]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.06-08.23.29:261][132]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.06-08.23.29:261][132]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.06-08.23.29:261][132]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.06-08.23.29:321][132]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-08.23.29:324][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-08.23.29:333][132]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.06-08.23.29:333][132]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.06-08.23.29:336][132]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.06-08.23.29:342][132]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-08.23.29:343][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-08.23.29:347][132]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-08.23.29:347][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-08.23.29:352][132]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-08.23.29:352][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-08.23.29:355][132]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-08.23.29:355][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-08.23.29:359][132]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-08.23.29:359][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-08.23.29:365][132]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-08.23.29:365][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-08.23.29:370][132]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.06-08.23.29:370][132]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.06-08.23.29:374][132]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.06-08.23.30:356][132]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.06-08.23.30:356][132]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.06-08.23.30:356][132]LogAudio: Display: Audio Device unregistered from world 'Main'.
+[2026.05.06-08.23.30:356][132]LogAudioMixer: Display: Unregistering submix buffer listener 'PixelStreamingEditorListener' from submix 'MasterSubmixDefault'
+[2026.05.06-08.23.30:356][132]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.06-08.23.30:356][132]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.06-08.23.30:361][132]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.06-08.23.30:372][132]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.06-08.23.30:372][132]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.06-08.23.30:374][132]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2026.05.06-08.23.30:377][132]LogExit: Preparing to exit.
+[2026.05.06-08.23.30:447][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/MovieRenderPipeline/Python/MoviePipelineExampleRuntimeExecutor_PY.MoviePipelineExampleRuntimeExecutor' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.30:464][132]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.06-08.23.32:421][132]LogEditorDataStorage: Deinitializing
+[2026.05.06-08.23.32:677][132]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.06-08.23.32:714][132]LogExit: Editor shut down
+[2026.05.06-08.23.32:719][132]LogExit: Transaction tracking system shut down
+[2026.05.06-08.23.33:040][132]LogExit: Object subsystem successfully closed.
+[2026.05.06-08.23.33:076][132]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.06-08.23.34:043][132]LogSharedMemoryMedia: Shutting down module SharedMemoryMedia'...
+[2026.05.06-08.23.34:043][132]LogDisplayClusterMedia: Shutting down module 'DisplayClusterMedia'...
+[2026.05.06-08.23.34:044][132]LogDisplayClusterRemoteControlInterceptor: DisplayClusterRemoteControlInterceptor has been unregistered
+[2026.05.06-08.23.34:045][132]LogDisplayClusterWarp: Warp module shutdown
+[2026.05.06-08.23.34:045][132]LogDisplayClusterWarp: Un-registering <InFrustumFit> warp factory...
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistering factory for warp policy: InFrustumFit
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistered factory for warp policy: InFrustumFit
+[2026.05.06-08.23.34:045][132]LogDisplayClusterWarp: Warp module has been shutdown.
+[2026.05.06-08.23.34:045][132]LogDisplayClusterWarp: Warp module has been destroyed
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjection: Projection module shutdown
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjection: Un-registering <camera> projection factory...
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistering factory for projection policy: camera
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistered factory for projection policy: camera
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjection: Un-registering <domeprojection> projection factory...
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistering factory for projection policy: domeprojection
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistered factory for projection policy: domeprojection
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjection: Un-registering <easyblend> projection factory...
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistering factory for projection policy: easyblend
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistered factory for projection policy: easyblend
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjection: Un-registering <link> projection factory...
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistering factory for projection policy: link
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistered factory for projection policy: link
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjection: Un-registering <reference> projection factory...
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistering factory for projection policy: reference
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistered factory for projection policy: reference
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjection: Un-registering <manual> projection factory...
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistering factory for projection policy: manual
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistered factory for projection policy: manual
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjection: Un-registering <mpcdi> projection factory...
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistering factory for projection policy: mpcdi
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistered factory for projection policy: mpcdi
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjection: Un-registering <mesh> projection factory...
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistering factory for projection policy: mesh
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistered factory for projection policy: mesh
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjection: Un-registering <simple> projection factory...
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistering factory for projection policy: simple
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistered factory for projection policy: simple
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjection: Un-registering <vioso> projection factory...
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistering factory for projection policy: vioso
+[2026.05.06-08.23.34:045][132]LogDisplayClusterRender: Unregistered factory for projection policy: vioso
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjection: Projection module has been destroyed
+[2026.05.06-08.23.34:045][132]LogDisplayClusterProjectionVIOSO: VIOSO API released.
+[2026.05.06-08.23.34:045][132]LogDisplayClusterModule: Cleaning up internals...
+[2026.05.06-08.23.34:045][132]LogDisplayClusterCluster: Releasing cluster manager...
+[2026.05.06-08.23.34:049][132]LogHttpServerModule: Stopping all listeners...
+[2026.05.06-08.23.34:050][132]LogHttpListener: HttpListener stopping listening on Port 30010
+[2026.05.06-08.23.34:050][132]LogHttpServerModule: All listeners stopped
+[2026.05.06-08.23.34:050][132]LogHttpServerModule: Stopping all listeners...
+[2026.05.06-08.23.34:050][132]LogHttpServerModule: All listeners stopped
+[2026.05.06-08.23.34:057][132]LogMemoryProfiler: Shutdown
+[2026.05.06-08.23.34:057][132]LogNetworkingProfiler: Shutdown
+[2026.05.06-08.23.34:057][132]LoadingProfiler: Shutdown
+[2026.05.06-08.23.34:058][132]LogTimingProfiler: Shutdown
+[2026.05.06-08.23.34:059][132]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.05.06-08.23.34:059][132]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.06-08.23.34:363][132]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.06-08.23.34:363][132]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.06-08.23.34:379][132]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.06-08.23.34:379][132]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7BA642F3-45F9-7903-D0C6-E3933F728314%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=31d78c1d45ee635cd871f9bb673c5e89%7C35dd501bddea4e8592a278044a90a4e6%7Cd83b12c6-2d90-46a1-ae73-7265871cc810&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.06-08.23.34:943][132]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.05.06-08.23.34:950][132]RenderDocPlugin: plugin has been unloaded.
+[2026.05.06-08.23.34:951][132]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.05.06-08.23.34:955][132]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.05.06-08.23.34:955][132]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.05.06-08.23.34:955][132]LogPakFile: Destroying PakPlatformFile
+[2026.05.06-08.23.35:369][132]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.06-08.23.35:414][132]LogExit: Exiting.
+[2026.05.06-08.23.35:441][132]Log file closed, 05/06/26 17:23:35
