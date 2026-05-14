@@ -2212,3 +2212,306 @@ Sampler Limit: 32
 [2026.05.14-04.59.03:984][298]LogEditorTransaction: Undo 엘리먼트 스케일조절
 [2026.05.14-04.59.33:076][371]Cmd: EDIT COPY
 [2026.05.14-04.59.33:250][379]Cmd: EDIT PASTE
+[2026.05.14-05.01.52:693][272]Cmd: EDIT COPY
+[2026.05.14-05.01.52:906][296]Cmd: EDIT PASTE
+[2026.05.14-05.02.23:264][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5046.423828
+[2026.05.14-05.02.23:522][870]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-05.02.23:522][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5046.674316, Update Interval: 303.698853
+[2026.05.14-05.02.30:226][569]Cmd: EDIT COPY
+[2026.05.14-05.02.30:458][581]Cmd: EDIT PASTE
+[2026.05.14-05.02.39:564][591]Cmd: DELETE
+[2026.05.14-05.02.39:564][591]Cmd: ACTOR DELETE
+[2026.05.14-05.02.39:603][591]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.14-05.02.39:631][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.14-05.02.39:637][591]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2026.05.14-05.02.43:886][ 32]Cmd: EDIT COPY
+[2026.05.14-05.02.44:098][ 56]Cmd: EDIT PASTE
+[2026.05.14-05.02.52:718][885]Cmd: EDIT COPY
+[2026.05.14-05.02.52:892][893]Cmd: EDIT PASTE
+[2026.05.14-05.03.15:695][231]Cmd: EDIT COPY
+[2026.05.14-05.03.15:923][256]Cmd: EDIT PASTE
+[2026.05.14-05.03.37:664][700]Cmd: DELETE
+[2026.05.14-05.03.37:664][700]Cmd: ACTOR DELETE
+[2026.05.14-05.03.37:704][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.14-05.03.37:729][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.05.14-05.03.37:733][700]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2026.05.14-05.03.37:963][714]Cmd: DELETE
+[2026.05.14-05.03.37:963][714]Cmd: ACTOR DELETE
+[2026.05.14-05.03.38:002][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.14-05.03.38:025][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.05.14-05.03.38:030][714]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2026.05.14-05.03.42:321][216]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.14-05.03.55:805][650]Cmd: TRANSACTION UNDO
+[2026.05.14-05.03.55:805][650]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.14-05.04.17:482][996]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.14-05.04.21:970][460]Cmd: TRANSACTION UNDO
+[2026.05.14-05.04.21:970][460]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.14-05.05.01:698][637]Cmd: EDIT COPY
+[2026.05.14-05.05.01:896][659]Cmd: EDIT PASTE
+[2026.05.14-05.05.17:890][337]Cmd: EDIT COPY
+[2026.05.14-05.05.18:090][353]Cmd: EDIT PASTE
+[2026.05.14-05.05.18:936][433]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.14-05.05.27:104][318]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.14-05.05.32:085][834]Cmd: EDIT COPY
+[2026.05.14-05.05.32:262][855]Cmd: EDIT PASTE
+[2026.05.14-05.05.49:703][789]Cmd: EDIT COPY
+[2026.05.14-05.05.49:899][798]Cmd: EDIT PASTE
+[2026.05.14-05.05.55:415][329]Cmd: EDIT COPY
+[2026.05.14-05.05.55:628][345]Cmd: EDIT PASTE
+[2026.05.14-05.06.25:592][773]Cmd: EDIT COPY
+[2026.05.14-05.06.25:792][797]Cmd: EDIT PASTE
+[2026.05.14-05.06.59:766][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.05.14-05.06.59:772][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.14-05.07.00:587][571]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto5
+[2026.05.14-05.07.00:587][571]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto59BE7B640434F2B26FE73498091D0A2BB.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto5.umap'
+[2026.05.14-05.07.00:591][571]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.857
+[2026.05.14-05.07.00:591][571]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.857
+[2026.05.14-05.07.00:591][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/window_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.05.14-05.07.00:591][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window_1001_BaseColor_Mat]
+[2026.05.14-05.07.00:596][571]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/window_1001_BaseColor_Mat_Auto5
+[2026.05.14-05.07.00:596][571]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window_1001_BaseColor_Mat_Auto5A8C2F6F845A2653B6B970392B1B2E19F.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window_1001_BaseColor_Mat_Auto5.uasset'
+[2026.05.14-05.07.00:597][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/ryokan_window] ([1] browsable assets)...
+[2026.05.14-05.07.00:597][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/ryokan_window]
+[2026.05.14-05.07.00:597][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/ryokan_window" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/ryokan_window_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.05.14-05.07.00:605][571]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/ryokan_window_Auto5
+[2026.05.14-05.07.00:605][571]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/ryokan_window_Auto5AF2C82B74EAFBDB0F9E55C928F91E11D.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/ryokan_window_Auto5.uasset'
+[2026.05.14-05.07.00:605][571]LogFileHelpers: Auto-saving content packages took 0.013
+[2026.05.14-05.08.10:227][849]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5393.352051
+[2026.05.14-05.08.10:478][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-05.08.10:478][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5393.594727, Update Interval: 321.768250
+[2026.05.14-05.14.27:871][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5770.947266
+[2026.05.14-05.14.28:871][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-05.14.28:871][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5771.614258, Update Interval: 318.964813
+[2026.05.14-05.15.24:194][568]Cmd: EDIT COPY
+[2026.05.14-05.15.24:424][584]Cmd: EDIT PASTE
+[2026.05.14-05.15.39:037][192]Cmd: EDIT COPY
+[2026.05.14-05.15.39:234][214]Cmd: EDIT PASTE
+[2026.05.14-05.15.43:449][698]Cmd: EDIT COPY
+[2026.05.14-05.15.43:682][726]Cmd: EDIT PASTE
+[2026.05.14-05.16.11:649][657]Cmd: TRANSACTION UNDO
+[2026.05.14-05.16.11:649][657]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.16.16:869][105]Cmd: TRANSACTION UNDO
+[2026.05.14-05.16.16:869][105]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.16.24:807][839]Cmd: TRANSACTION UNDO
+[2026.05.14-05.16.24:807][839]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.16.26:049][935]Cmd: TRANSACTION UNDO
+[2026.05.14-05.16.26:049][935]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.16.33:784][720]Cmd: TRANSACTION UNDO
+[2026.05.14-05.16.33:784][720]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.16.49:352][469]Cmd: TRANSACTION UNDO
+[2026.05.14-05.16.49:352][469]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.16.50:091][512]Cmd: TRANSACTION UNDO
+[2026.05.14-05.16.50:091][512]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.16.53:617][798]Cmd: EDIT COPY
+[2026.05.14-05.16.53:822][821]Cmd: EDIT PASTE
+[2026.05.14-05.16.57:638][262]Cmd: TRANSACTION UNDO
+[2026.05.14-05.16.57:638][262]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.14-05.16.59:261][402]Cmd: EDIT COPY
+[2026.05.14-05.16.59:455][423]Cmd: EDIT PASTE
+[2026.05.14-05.17.01:797][674]Cmd: EDIT COPY
+[2026.05.14-05.17.02:001][697]Cmd: EDIT PASTE
+[2026.05.14-05.17.02:552][750]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.14-05.17.12:852][737]Cmd: EDIT COPY
+[2026.05.14-05.17.13:071][760]Cmd: EDIT PASTE
+[2026.05.14-05.17.14:659][939]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.14-05.17.28:304][372]Cmd: EDIT COPY
+[2026.05.14-05.17.28:509][395]Cmd: EDIT PASTE
+[2026.05.14-05.17.34:830][123]Cmd: EDIT COPY
+[2026.05.14-05.17.35:020][144]Cmd: EDIT PASTE
+[2026.05.14-05.18.07:725][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.05.14-05.18.07:732][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.14-05.18.08:551][934]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto6
+[2026.05.14-05.18.08:551][934]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto6F4E668F040B8EF8166ED03B84CE07750.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto6.umap'
+[2026.05.14-05.18.08:554][934]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.866
+[2026.05.14-05.18.08:554][934]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.866
+[2026.05.14-05.18.08:554][934]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/window_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.05.14-05.18.08:554][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window_1001_BaseColor_Mat]
+[2026.05.14-05.18.08:559][934]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/window_1001_BaseColor_Mat_Auto6
+[2026.05.14-05.18.08:559][934]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window_1001_BaseColor_Mat_Auto619B16FDC4C5C6DEC1F0530BBC66DC9AA.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window_1001_BaseColor_Mat_Auto6.uasset'
+[2026.05.14-05.18.08:559][934]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/ryokan_window] ([1] browsable assets)...
+[2026.05.14-05.18.08:559][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/ryokan_window]
+[2026.05.14-05.18.08:559][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/ryokan_window" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/ryokan_window_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.05.14-05.18.08:564][934]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/ryokan_window_Auto6
+[2026.05.14-05.18.08:564][934]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/ryokan_window_Auto6F628228E4363158C0331C5BC1CDD336E.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/ryokan_window_Auto6.uasset'
+[2026.05.14-05.18.08:565][934]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.05.14-05.20.22:455][949]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6125.526855
+[2026.05.14-05.20.22:682][976]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-05.20.22:682][976]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6125.745605, Update Interval: 354.812469
+[2026.05.14-05.23.16:417][715]Cmd: EDIT COPY
+[2026.05.14-05.23.16:608][733]Cmd: EDIT PASTE
+[2026.05.14-05.23.54:936][850]Cmd: TRANSACTION UNDO
+[2026.05.14-05.23.54:936][850]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.14-05.24.35:758][278]Cmd: EDIT COPY
+[2026.05.14-05.24.35:977][301]Cmd: EDIT PASTE
+[2026.05.14-05.24.47:080][586]Cmd: DELETE
+[2026.05.14-05.24.47:080][586]Cmd: ACTOR DELETE
+[2026.05.14-05.24.47:120][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.14-05.24.47:161][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.05.14-05.24.47:166][586]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2026.05.14-05.24.49:914][904]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.14-05.24.53:539][249]Cmd: EDIT COPY
+[2026.05.14-05.24.53:757][275]Cmd: EDIT PASTE
+[2026.05.14-05.25.07:817][792]Cmd: EDIT COPY
+[2026.05.14-05.25.08:022][815]Cmd: EDIT PASTE
+[2026.05.14-05.25.33:494][548]Cmd: EDIT COPY
+[2026.05.14-05.25.33:696][572]Cmd: EDIT PASTE
+[2026.05.14-05.25.37:066][905]Cmd: EDIT COPY
+[2026.05.14-05.25.37:261][914]Cmd: EDIT PASTE
+[2026.05.14-05.25.43:408][561]Cmd: EDIT COPY
+[2026.05.14-05.25.43:587][572]Cmd: EDIT PASTE
+[2026.05.14-05.25.47:944][ 45]Cmd: TRANSACTION UNDO
+[2026.05.14-05.25.47:944][ 45]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.26.06:991][ 81]Cmd: EDIT COPY
+[2026.05.14-05.26.07:192][105]Cmd: EDIT PASTE
+[2026.05.14-05.26.25:502][ 89]Cmd: EDIT COPY
+[2026.05.14-05.26.25:828][128]Cmd: EDIT PASTE
+[2026.05.14-05.26.32:362][868]Cmd: TRANSACTION UNDO
+[2026.05.14-05.26.32:362][868]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.14-05.26.45:919][287]Cmd: TRANSACTION UNDO
+[2026.05.14-05.26.45:919][287]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.26.51:772][884]Cmd: TRANSACTION UNDO
+[2026.05.14-05.26.51:772][884]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.26.51:972][889]Cmd: TRANSACTION UNDO
+[2026.05.14-05.26.51:972][889]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.14-05.26.52:168][893]Cmd: TRANSACTION UNDO
+[2026.05.14-05.26.52:168][893]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.26.52:746][947]Cmd: TRANSACTION UNDO
+[2026.05.14-05.26.52:746][947]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.27.08:843][750]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6531.872559
+[2026.05.14-05.27.09:485][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-05.27.09:485][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6532.503418, Update Interval: 356.405518
+[2026.05.14-05.27.14:367][410]Cmd: TRANSACTION UNDO
+[2026.05.14-05.27.14:367][410]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.14-05.27.33:415][525]Cmd: DELETE
+[2026.05.14-05.27.33:415][525]Cmd: ACTOR DELETE
+[2026.05.14-05.27.33:455][525]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.14-05.27.33:494][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.05.14-05.27.33:501][525]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2026.05.14-05.27.41:596][396]Cmd: EDIT COPY
+[2026.05.14-05.27.41:786][406]Cmd: EDIT PASTE
+[2026.05.14-05.27.49:379][287]Cmd: TRANSACTION UNDO
+[2026.05.14-05.27.49:379][287]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.28.43:940][452]Cmd: EDIT COPY
+[2026.05.14-05.28.44:128][473]Cmd: EDIT PASTE
+[2026.05.14-05.29.03:878][463]Cmd: EDIT COPY
+[2026.05.14-05.29.04:103][488]Cmd: EDIT PASTE
+[2026.05.14-05.29.12:285][364]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.14-05.29.26:595][963]Cmd: DELETE
+[2026.05.14-05.29.26:595][963]Cmd: ACTOR DELETE
+[2026.05.14-05.29.26:634][963]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.14-05.29.26:679][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.05.14-05.29.26:685][963]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2026.05.14-05.29.57:386][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.14-05.29.57:422][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.14-05.29.58:248][758]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto7
+[2026.05.14-05.29.58:248][758]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto78D03053A4F3A72354358089097DE5102.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto7.umap'
+[2026.05.14-05.29.58:252][758]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.898
+[2026.05.14-05.29.58:252][758]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.898
+[2026.05.14-05.29.58:252][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/window_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.05.14-05.29.58:252][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window_1001_BaseColor_Mat]
+[2026.05.14-05.29.58:256][758]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/window_1001_BaseColor_Mat_Auto7
+[2026.05.14-05.29.58:256][758]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window_1001_BaseColor_Mat_Auto72242088F40A7AF883B2BBB8F1E646998.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/window_1001_BaseColor_Mat_Auto7.uasset'
+[2026.05.14-05.29.58:257][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/ryokan_window] ([1] browsable assets)...
+[2026.05.14-05.29.58:257][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/ryokan_window]
+[2026.05.14-05.29.58:257][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/ryokan_window" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/ryokan_window_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.05.14-05.29.58:260][758]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/window/ryokan_window_Auto7
+[2026.05.14-05.29.58:260][758]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/ryokan_window_Auto7FC27B7B847A81418A595329AA01123AD.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/FBX/window/ryokan_window_Auto7.uasset'
+[2026.05.14-05.29.58:260][758]LogFileHelpers: Auto-saving content packages took 0.009
+[2026.05.14-05.30.45:528][652]Cmd: EDIT COPY
+[2026.05.14-05.30.45:719][672]Cmd: EDIT PASTE
+[2026.05.14-05.31.16:117][875]Cmd: EDIT COPY
+[2026.05.14-05.31.16:459][904]Cmd: EDIT PASTE
+[2026.05.14-05.31.20:884][408]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.14-05.33.31:061][495]Cmd: EDIT COPY
+[2026.05.14-05.33.31:280][507]Cmd: EDIT PASTE
+[2026.05.14-05.33.41:463][543]Cmd: EDIT COPY
+[2026.05.14-05.33.41:638][557]Cmd: EDIT PASTE
+[2026.05.14-05.33.43:390][754]Cmd: POLY SELECT MEMORY UNION
+[2026.05.14-05.34.00:829][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6943.867188
+[2026.05.14-05.34.01:079][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-05.34.01:079][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6944.108398, Update Interval: 325.146637
+[2026.05.14-05.39.58:888][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.05.14-05.39.58:895][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.14-05.39.59:710][938]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto8
+[2026.05.14-05.39.59:710][938]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto874DC492242899AB34BE0AC86B120BCEC.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto8.umap'
+[2026.05.14-05.39.59:713][938]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.882
+[2026.05.14-05.39.59:713][938]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.882
+[2026.05.14-05.40.03:402][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7306.463379
+[2026.05.14-05.40.03:919][952]LogDerivedDataCache: C:/Users/ckj86/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.14-05.40.04:401][953]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-05.40.04:401][953]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7307.129883, Update Interval: 326.598724
+[2026.05.14-05.46.15:462][ 66]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7678.527832
+[2026.05.14-05.46.16:463][ 69]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-05.46.16:463][ 69]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7679.194824, Update Interval: 302.059998
+[2026.05.14-05.51.59:185][ 97]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8022.254883
+[2026.05.14-05.52.00:186][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-05.52.00:186][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8022.921387, Update Interval: 319.543457
+[2026.05.14-05.52.42:345][533]Cmd: DELETE
+[2026.05.14-05.52.42:345][533]Cmd: ACTOR DELETE
+[2026.05.14-05.52.42:386][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.14-05.52.42:434][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.05.14-05.52.42:438][533]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2026.05.14-05.52.56:751][111]Cmd: EDIT COPY
+[2026.05.14-05.52.56:991][138]Cmd: EDIT PASTE
+[2026.05.14-05.53.51:613][193]Cmd: EDIT COPY
+[2026.05.14-05.53.51:832][217]Cmd: EDIT PASTE
+[2026.05.14-05.54.18:858][105]Cmd: EDIT COPY
+[2026.05.14-05.54.19:058][117]Cmd: EDIT PASTE
+[2026.05.14-05.54.24:714][757]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.14-05.55.02:133][794]Cmd: EDIT COPY
+[2026.05.14-05.55.02:355][819]Cmd: EDIT PASTE
+[2026.05.14-05.55.08:484][464]Cmd: EDIT COPY
+[2026.05.14-05.55.08:702][490]Cmd: EDIT PASTE
+[2026.05.14-05.55.18:831][672]Cmd: EDIT COPY
+[2026.05.14-05.55.19:050][698]Cmd: EDIT PASTE
+[2026.05.14-05.55.25:567][446]Cmd: EDIT COPY
+[2026.05.14-05.55.25:760][469]Cmd: EDIT PASTE
+[2026.05.14-05.55.38:124][810]Cmd: EDIT COPY
+[2026.05.14-05.55.38:335][832]Cmd: EDIT PASTE
+[2026.05.14-05.55.42:742][335]Cmd: DELETE
+[2026.05.14-05.55.42:742][335]Cmd: ACTOR DELETE
+[2026.05.14-05.55.42:788][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.05.14-05.55.42:823][335]LogEditorActor: Deleted 1 Components (0.082 secs)
+[2026.05.14-05.55.44:396][506]Cmd: TRANSACTION UNDO
+[2026.05.14-05.55.44:396][506]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.14-05.55.44:838][517]Cmd: EDIT COPY
+[2026.05.14-05.55.45:033][533]Cmd: EDIT PASTE
+[2026.05.14-05.55.47:609][817]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.14-05.55.51:028][174]Cmd: DELETE
+[2026.05.14-05.55.51:028][174]Cmd: ACTOR DELETE
+[2026.05.14-05.55.51:072][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.05.14-05.55.51:104][174]LogEditorActor: Deleted 1 Components (0.076 secs)
+[2026.05.14-05.55.58:427][  6]Cmd: EDIT COPY
+[2026.05.14-05.55.58:600][ 25]Cmd: EDIT PASTE
+[2026.05.14-05.56.12:650][556]Cmd: EDIT COPY
+[2026.05.14-05.56.12:851][580]Cmd: EDIT PASTE
+[2026.05.14-05.57.01:044][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.14-05.57.02:004][896]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.05.14-05.57.02:034][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.14-05.57.02:066][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.14-05.57.02:130][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.05.14-05.57.02:727][896]LogSavePackage: Moving output files for package: /Game/Main
+[2026.05.14-05.57.02:727][896]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/MainB399BEC546130BAA0D580AB473F09DA2.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/Main.umap'
+[2026.05.14-05.57.02:747][896]LogFileHelpers: Saving map 'Main' took 0.682
+[2026.05.14-05.57.02:747][896]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/ryokan_window] ([1] browsable assets)...
+[2026.05.14-05.57.02:747][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/ryokan_window]
+[2026.05.14-05.57.02:747][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/ryokan_window" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/ryokan_window.uasset" SILENT=true
+[2026.05.14-05.57.02:756][896]LogSavePackage: Moving output files for package: /Game/FBX/window/ryokan_window
+[2026.05.14-05.57.02:756][896]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/ryokan_window44E0BFA24C2D481F5CB83EACFC9EFA35.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/ryokan_window.uasset'
+[2026.05.14-05.57.02:756][896]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FBX/window/window_1001_BaseColor_Mat] ([1] browsable assets)...
+[2026.05.14-05.57.02:756][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/window/window_1001_BaseColor_Mat]
+[2026.05.14-05.57.02:756][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/window/window_1001_BaseColor_Mat" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window_1001_BaseColor_Mat.uasset" SILENT=true
+[2026.05.14-05.57.02:761][896]LogSavePackage: Moving output files for package: /Game/FBX/window/window_1001_BaseColor_Mat
+[2026.05.14-05.57.02:761][896]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/window_1001_BaseColor_Mat00AD17AC4EDE21B64DBE40B07AD62B7D.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Content/FBX/window/window_1001_BaseColor_Mat.uasset'
+[2026.05.14-05.57.02:772][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 738.073 ms (total: 935.905 ms)
+[2026.05.14-05.57.02:825][896]LogContentValidation: Display: Starting to validate 3 assets
+[2026.05.14-05.57.02:825][896]LogContentValidation: Enabled validators:
+[2026.05.14-05.57.02:825][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.14-05.57.02:825][896]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.14-05.57.02:825][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.14-05.57.02:825][896]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.14-05.57.02:825][896]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.14-05.57.02:825][896]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.14-05.57.02:825][896]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.05.14-05.57.02:825][896]AssetCheck: /Game/FBX/window/ryokan_window 에셋 유효성 검사 중
+[2026.05.14-05.57.02:826][896]AssetCheck: /Game/FBX/window/window_1001_BaseColor_Mat 에셋 유효성 검사 중
