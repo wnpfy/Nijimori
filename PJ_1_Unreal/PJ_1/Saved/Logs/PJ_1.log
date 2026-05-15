@@ -1751,3 +1751,944 @@ FPackageName: Skipped package /Game/FBX/ryokan_door/ryokan_door_1001_OcclusionRo
 [2026.05.15-17.33.29:642][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.15-17.33.29:642][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.15-17.33.29:644][ 28]AssetCheck: /Game/Main 에셋 유효성 검사 중
+[2026.05.15-17.38.46:143][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5133.554688
+[2026.05.15-17.38.47:143][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.38.47:143][553]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5134.222168, Update Interval: 326.849579
+[2026.05.15-17.45.10:201][702]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5517.643066
+[2026.05.15-17.45.11:202][705]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.45.11:202][705]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5518.309570, Update Interval: 326.366150
+[2026.05.15-17.51.29:586][840]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5897.056641
+[2026.05.15-17.51.30:586][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.51.30:586][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5897.722656, Update Interval: 336.765045
+[2026.05.15-17.57.48:974][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6276.459473
+[2026.05.15-17.57.49:973][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.57.49:974][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6277.126465, Update Interval: 334.523743
+[2026.05.15-18.04.12:363][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6659.877930
+[2026.05.15-18.04.13:363][131]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.04.13:364][131]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6660.544434, Update Interval: 335.192108
+[2026.05.15-18.10.34:091][273]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7041.626465
+[2026.05.15-18.10.35:090][276]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.10.35:090][276]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7042.292969, Update Interval: 319.122284
+[2026.05.15-18.15.00:408][ 72]LogDerivedDataCache: C:/Users/ckj86/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.15-18.16.43:811][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7411.368652
+[2026.05.15-18.16.44:812][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.16.44:812][386]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7412.035645, Update Interval: 307.785889
+[2026.05.15-18.18.07:312][633]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=스피커(USB PnP Audio Device(EEPROM)), InstanceID=1
+[2026.05.15-18.18.07:312][633]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{cb51e18a-110a-4624-a3d7-0b764f6995fa}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.05.15-18.18.07:493][633]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{cb51e18a-110a-4624-a3d7-0b764f6995fa}]
+[2026.05.15-18.18.07:493][633]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.05.15-18.18.07:493][633]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.05.15-18.18.07:829][634]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cb51e18a-110a-4624-a3d7-0b764f6995fa}, Name=스피커(USB PnP Audio Device(EEPROM))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.15
+[2026.05.15-18.18.07:829][634]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.05.15-18.18.07:829][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.05.15-18.18.07:832][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.05.15-18.22.28:203][415]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7755.788574
+[2026.05.15-18.22.29:203][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.22.29:203][418]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7756.455078, Update Interval: 314.260681
+[2026.05.15-18.24.02:519][698]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=스피커(Realtek(R) Audio), InstanceID=1
+[2026.05.15-18.24.02:519][698]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{90761ecf-6af4-4da0-ad26-8e5fcb89ece9}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.05.15-18.24.02:550][698]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{90761ecf-6af4-4da0-ad26-8e5fcb89ece9}]
+[2026.05.15-18.24.02:550][698]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.05.15-18.24.02:550][698]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.05.15-18.24.02:886][699]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{90761ecf-6af4-4da0-ad26-8e5fcb89ece9}, Name=스피커(Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=15.57
+[2026.05.15-18.24.02:886][699]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.05.15-18.24.02:886][699]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.05.15-18.24.02:888][699]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.05.15-18.28.24:947][644]Cmd: EDIT COPY
+[2026.05.15-18.28.25:136][665]Cmd: EDIT PASTE
+[2026.05.15-18.28.30:364][230]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8117.962402
+[2026.05.15-18.28.30:622][261]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.28.30:622][261]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8118.210938, Update Interval: 350.033264
+[2026.05.15-18.28.34:418][677]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.28.37:741][979]Cmd: EDIT COPY
+[2026.05.15-18.28.37:939][995]Cmd: EDIT PASTE
+[2026.05.15-18.28.42:988][571]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.28.55:049][826]Cmd: EDIT COPY
+[2026.05.15-18.28.55:248][850]Cmd: EDIT PASTE
+[2026.05.15-18.28.57:806][141]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.29.13:492][828]Cmd: EDIT COPY
+[2026.05.15-18.29.13:668][849]Cmd: EDIT PASTE
+[2026.05.15-18.30.03:151][ 54]Cmd: EDIT COPY
+[2026.05.15-18.30.03:385][ 71]Cmd: EDIT PASTE
+[2026.05.15-18.30.24:052][439]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.30.24:052][439]Can't find target element.
+[2026.05.15-18.30.31:971][198]Cmd: TRANSACTION UNDO
+[2026.05.15-18.30.31:971][198]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-18.31.06:989][716]Cmd: EDIT COPY
+[2026.05.15-18.31.07:272][750]Cmd: EDIT PASTE
+[2026.05.15-18.31.28:064][937]Cmd: TRANSACTION UNDO
+[2026.05.15-18.31.28:064][937]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-18.31.28:285][942]Cmd: TRANSACTION UNDO
+[2026.05.15-18.31.28:285][942]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-18.31.28:571][946]Cmd: TRANSACTION UNDO
+[2026.05.15-18.31.28:571][946]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-18.31.35:250][596]Cmd: EDIT COPY
+[2026.05.15-18.31.35:466][620]Cmd: EDIT PASTE
+[2026.05.15-18.32.16:566][ 56]Cmd: EDIT COPY
+[2026.05.15-18.32.16:791][ 83]Cmd: EDIT PASTE
+[2026.05.15-18.32.27:206][307]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.32.55:913][311]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.33.02:507][ 21]Cmd: TRANSACTION UNDO
+[2026.05.15-18.33.02:507][ 21]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-18.33.07:644][492]Cmd: DELETE
+[2026.05.15-18.33.07:644][492]Cmd: ACTOR DELETE
+[2026.05.15-18.33.07:688][492]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.33.07:745][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.05.15-18.33.07:756][492]LogEditorActor: Deleted 1 Actors (0.111 secs)
+[2026.05.15-18.33.08:710][582]Cmd: EDIT COPY
+[2026.05.15-18.33.08:902][605]Cmd: EDIT PASTE
+[2026.05.15-18.33.18:867][709]Cmd: DELETE
+[2026.05.15-18.33.18:867][709]Cmd: ACTOR DELETE
+[2026.05.15-18.33.18:912][709]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.33.18:945][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.05.15-18.33.18:952][709]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2026.05.15-18.33.20:162][817]Cmd: EDIT COPY
+[2026.05.15-18.33.20:367][840]Cmd: EDIT PASTE
+[2026.05.15-18.33.45:334][513]Cmd: EDIT COPY
+[2026.05.15-18.33.49:194][891]Cmd: EDIT COPY
+[2026.05.15-18.33.49:388][903]Cmd: EDIT PASTE
+[2026.05.15-18.33.56:532][695]Cmd: DELETE
+[2026.05.15-18.33.56:532][695]Cmd: ACTOR DELETE
+[2026.05.15-18.33.56:576][695]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.33.56:624][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.05.15-18.33.56:633][695]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2026.05.15-18.34.22:580][522]Cmd: EDIT COPY
+[2026.05.15-18.34.22:785][545]Cmd: EDIT PASTE
+[2026.05.15-18.34.24:927][788]Cmd: EDIT COPY
+[2026.05.15-18.34.25:131][811]Cmd: EDIT PASTE
+[2026.05.15-18.34.32:780][677]LogSlate: Took 0.004893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.05.15-18.34.38:795][283]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.05.15-18.34.42:842][708]Cmd: TRANSACTION UNDO
+[2026.05.15-18.34.42:842][708]LogEditorTransaction: Undo 오브젝트 배치
+[2026.05.15-18.34.47:771][197]Cmd: TRANSACTION UNDO
+[2026.05.15-18.34.47:771][197]LogEditorTransaction: Undo 오브젝트 배치
+[2026.05.15-18.35.01:028][500]Cmd: EDIT COPY
+[2026.05.15-18.35.01:228][524]Cmd: EDIT PASTE
+[2026.05.15-18.35.01:493][546]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8509.168945
+[2026.05.15-18.35.01:743][576]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.35.01:744][577]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8509.412109, Update Interval: 357.192902
+[2026.05.15-18.35.13:586][883]Cmd: EDIT COPY
+[2026.05.15-18.35.13:805][893]Cmd: EDIT PASTE
+[2026.05.15-18.35.31:621][834]Cmd: EDIT COPY
+[2026.05.15-18.35.31:826][857]Cmd: EDIT PASTE
+[2026.05.15-18.35.36:759][425]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.37.10:666][492]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.37.25:744][ 89]Cmd: EDIT COPY
+[2026.05.15-18.37.25:935][112]Cmd: EDIT PASTE
+[2026.05.15-18.37.37:634][263]Cmd: EDIT COPY
+[2026.05.15-18.37.37:836][272]Cmd: EDIT PASTE
+[2026.05.15-18.37.42:303][697]Cmd: EDIT COPY
+[2026.05.15-18.37.42:518][721]Cmd: EDIT PASTE
+[2026.05.15-18.37.44:228][910]Cmd: EDIT COPY
+[2026.05.15-18.37.44:443][934]Cmd: EDIT PASTE
+[2026.05.15-18.37.46:592][175]Cmd: EDIT COPY
+[2026.05.15-18.37.46:801][200]Cmd: EDIT PASTE
+[2026.05.15-18.37.52:326][781]Cmd: EDIT COPY
+[2026.05.15-18.37.53:815][957]Cmd: TRANSACTION UNDO
+[2026.05.15-18.37.53:815][957]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-18.37.54:786][ 29]Cmd: EDIT PASTE
+[2026.05.15-18.37.56:869][265]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.38.00:755][638]Cmd: EDIT COPY
+[2026.05.15-18.38.00:971][656]Cmd: EDIT PASTE
+[2026.05.15-18.38.02:786][858]Cmd: EDIT COPY
+[2026.05.15-18.38.02:978][881]Cmd: EDIT PASTE
+[2026.05.15-18.38.04:853][ 94]Cmd: EDIT COPY
+[2026.05.15-18.38.05:084][120]Cmd: EDIT PASTE
+[2026.05.15-18.38.07:001][333]Cmd: EDIT COPY
+[2026.05.15-18.38.07:222][358]Cmd: EDIT PASTE
+[2026.05.15-18.38.09:124][574]Cmd: EDIT COPY
+[2026.05.15-18.38.09:414][607]Cmd: EDIT PASTE
+[2026.05.15-18.38.17:404][481]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.38.18:955][588]Cmd: EDIT COPY
+[2026.05.15-18.38.19:130][598]Cmd: EDIT PASTE
+[2026.05.15-18.38.28:969][731]Cmd: EDIT COPY
+[2026.05.15-18.38.29:170][755]Cmd: EDIT PASTE
+[2026.05.15-18.38.33:809][256]Cmd: EDIT COPY
+[2026.05.15-18.38.33:991][276]Cmd: EDIT PASTE
+[2026.05.15-18.38.38:349][778]Cmd: EDIT COPY
+[2026.05.15-18.38.38:547][800]Cmd: EDIT PASTE
+[2026.05.15-18.39.05:556][789]Cmd: EDIT COPY
+[2026.05.15-18.39.05:790][803]Cmd: EDIT PASTE
+[2026.05.15-18.39.41:882][689]Cmd: EDIT COPY
+[2026.05.15-18.39.42:092][714]Cmd: EDIT PASTE
+[2026.05.15-18.39.46:687][198]Cmd: TRANSACTION UNDO
+[2026.05.15-18.39.46:687][198]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-18.39.50:478][552]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.40.05:418][ 85]Cmd: MODE SCALEGRID=1
+[2026.05.15-18.40.11:750][796]Cmd: MODE SCALEGRID=0
+[2026.05.15-18.40.28:956][646]Cmd: EDIT COPY
+[2026.05.15-18.40.29:160][669]Cmd: EDIT PASTE
+[2026.05.15-18.40.45:809][509]Cmd: DELETE
+[2026.05.15-18.40.45:809][509]Cmd: ACTOR DELETE
+[2026.05.15-18.40.45:854][509]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.40.45:854][509]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.40.45:923][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.15-18.40.45:934][509]LogEditorActor: Deleted 2 Actors (0.124 secs)
+[2026.05.15-18.40.59:778][987]Cmd: TRANSACTION UNDO
+[2026.05.15-18.40.59:778][987]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-18.41.00:194][  0]Cmd: TRANSACTION UNDO
+[2026.05.15-18.41.00:194][  0]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-18.41.00:765][ 52]Cmd: TRANSACTION UNDO
+[2026.05.15-18.41.00:765][ 52]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-18.41.24:170][681]Cmd: EDIT COPY
+[2026.05.15-18.41.24:465][715]Cmd: EDIT PASTE
+[2026.05.15-18.41.37:839][193]Cmd: EDIT COPY
+[2026.05.15-18.41.38:250][240]Cmd: EDIT PASTE
+[2026.05.15-18.41.45:423][946]Cmd: EDIT COPY
+[2026.05.15-18.41.45:634][969]Cmd: EDIT PASTE
+[2026.05.15-18.41.47:519][180]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8915.286133
+[2026.05.15-18.41.47:762][205]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.41.47:762][205]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8915.521484, Update Interval: 358.091980
+[2026.05.15-18.42.17:909][414]Cmd: EDIT COPY
+[2026.05.15-18.42.18:110][438]Cmd: EDIT PASTE
+[2026.05.15-18.42.24:643][119]Cmd: EDIT COPY
+[2026.05.15-18.42.24:842][134]Cmd: EDIT PASTE
+[2026.05.15-18.42.51:403][ 39]Cmd: TRANSACTION UNDO
+[2026.05.15-18.42.51:403][ 39]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-18.42.51:749][ 49]Cmd: TRANSACTION UNDO
+[2026.05.15-18.42.51:749][ 49]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-18.42.56:827][547]Cmd: EDIT COPY
+[2026.05.15-18.42.57:119][582]Cmd: EDIT PASTE
+[2026.05.15-18.43.15:295][692]Cmd: DELETE
+[2026.05.15-18.43.15:295][692]Cmd: ACTOR DELETE
+[2026.05.15-18.43.15:339][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.43.15:340][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.43.15:340][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.43.15:340][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.43.15:341][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.43.15:341][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.43.15:341][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.43.15:342][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.43.15:342][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.43.15:399][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.05.15-18.43.15:409][692]LogEditorActor: Deleted 9 Actors (0.114 secs)
+[2026.05.15-18.43.20:039][138]Cmd: TRANSACTION UNDO
+[2026.05.15-18.43.20:039][138]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-18.43.21:119][212]Cmd: EDIT COPY
+[2026.05.15-18.43.21:333][235]Cmd: EDIT PASTE
+[2026.05.15-18.43.33:836][521]Cmd: EDIT COPY
+[2026.05.15-18.43.34:084][549]Cmd: EDIT PASTE
+[2026.05.15-18.43.36:599][836]Cmd: EDIT COPY
+[2026.05.15-18.43.36:791][859]Cmd: EDIT PASTE
+[2026.05.15-18.43.41:793][394]Cmd: EDIT COPY
+[2026.05.15-18.43.41:961][406]Cmd: EDIT COPY
+[2026.05.15-18.43.42:229][438]Cmd: EDIT PASTE
+[2026.05.15-18.43.43:903][625]Cmd: EDIT COPY
+[2026.05.15-18.43.44:102][647]Cmd: EDIT PASTE
+[2026.05.15-18.43.49:717][234]Cmd: EDIT COPY
+[2026.05.15-18.43.53:529][600]Cmd: EDIT COPY
+[2026.05.15-18.43.53:743][621]Cmd: EDIT PASTE
+[2026.05.15-18.43.58:226][111]Cmd: EDIT COPY
+[2026.05.15-18.43.58:426][135]Cmd: EDIT PASTE
+[2026.05.15-18.44.02:177][499]Cmd: EDIT COPY
+[2026.05.15-18.44.02:411][527]Cmd: EDIT PASTE
+[2026.05.15-18.44.07:296][ 18]Cmd: EDIT COPY
+[2026.05.15-18.44.07:488][ 41]Cmd: EDIT PASTE
+[2026.05.15-18.44.38:421][544]Cmd: EDIT COPY
+[2026.05.15-18.44.38:646][571]Cmd: EDIT PASTE
+[2026.05.15-18.44.47:821][570]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.45.36:089][ 56]Cmd: DELETE
+[2026.05.15-18.45.36:090][ 56]Cmd: ACTOR DELETE
+[2026.05.15-18.45.36:135][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.45.36:182][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.05.15-18.45.36:190][ 56]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2026.05.15-18.47.17:445][355]Cmd: EDIT COPY
+[2026.05.15-18.47.17:664][373]Cmd: EDIT PASTE
+[2026.05.15-18.47.20:856][660]Cmd: EDIT COPY
+[2026.05.15-18.47.21:069][684]Cmd: EDIT PASTE
+[2026.05.15-18.47.22:736][864]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.47.24:389][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.15-18.47.24:403][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.15-18.47.25:010][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto6
+[2026.05.15-18.47.25:012][ 16]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto6BB108837414CFBF5FE3C2B99009B50C0.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto6.umap'
+[2026.05.15-18.47.25:015][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.675
+[2026.05.15-18.47.25:015][ 16]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.675
+[2026.05.15-18.47.36:563][243]Cmd: DELETE
+[2026.05.15-18.47.36:563][243]Cmd: ACTOR DELETE
+[2026.05.15-18.47.36:607][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.47.36:654][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-18.47.36:661][243]LogEditorActor: Deleted 1 Actors (0.097 secs)
+[2026.05.15-18.48.30:435][692]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9318.334961
+[2026.05.15-18.48.30:659][719]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.48.30:659][719]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9318.549805, Update Interval: 300.875275
+[2026.05.15-18.48.49:366][861]Cmd: EDIT COPY
+[2026.05.15-18.48.49:609][890]Cmd: EDIT PASTE
+[2026.05.15-18.48.57:899][777]Cmd: DELETE
+[2026.05.15-18.48.57:899][777]Cmd: ACTOR DELETE
+[2026.05.15-18.48.57:945][777]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.48.58:007][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.05.15-18.48.58:013][777]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2026.05.15-18.49.26:451][693]Cmd: EDIT COPY
+[2026.05.15-18.49.26:676][720]Cmd: EDIT PASTE
+[2026.05.15-18.49.31:590][273]Cmd: DELETE
+[2026.05.15-18.49.31:591][273]Cmd: ACTOR DELETE
+[2026.05.15-18.49.31:635][273]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.49.31:689][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.05.15-18.49.31:696][273]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2026.05.15-18.49.34:103][495]Cmd: EDIT COPY
+[2026.05.15-18.49.34:310][518]Cmd: EDIT PASTE
+[2026.05.15-18.49.39:135][  7]Cmd: EDIT COPY
+[2026.05.15-18.49.39:344][ 32]Cmd: EDIT PASTE
+[2026.05.15-18.49.41:100][230]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.49.44:146][528]Cmd: EDIT COPY
+[2026.05.15-18.49.44:352][551]Cmd: EDIT PASTE
+[2026.05.15-18.49.53:177][492]Cmd: DELETE
+[2026.05.15-18.49.53:177][492]Cmd: ACTOR DELETE
+[2026.05.15-18.49.53:221][492]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-18.49.53:270][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.05.15-18.49.53:278][492]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2026.05.15-18.49.56:181][773]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.49.57:477][890]Cmd: EDIT COPY
+[2026.05.15-18.49.57:675][907]Cmd: EDIT PASTE
+[2026.05.15-18.53.34:053][749]Cmd: EDIT COPY
+[2026.05.15-18.53.34:237][771]Cmd: EDIT PASTE
+[2026.05.15-18.54.08:909][543]Cmd: EDIT COPY
+[2026.05.15-18.54.09:097][565]Cmd: EDIT PASTE
+[2026.05.15-18.54.22:779][ 19]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.54.23:271][ 63]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9671.607422
+[2026.05.15-18.54.23:530][ 94]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.54.23:530][ 94]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9671.859375, Update Interval: 336.611237
+[2026.05.15-18.54.46:519][528]Cmd: EDIT COPY
+[2026.05.15-18.54.46:703][550]Cmd: EDIT PASTE
+[2026.05.15-18.54.50:510][995]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.55.02:710][252]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.55.05:482][504]Cmd: EDIT COPY
+[2026.05.15-18.55.05:683][528]Cmd: EDIT PASTE
+[2026.05.15-18.55.19:624][ 26]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-18.56.55:822][981]Cmd: EDIT COPY
+[2026.05.15-18.56.56:022][  5]Cmd: EDIT PASTE
+[2026.05.15-18.57.07:624][231]Cmd: TRANSACTION UNDO
+[2026.05.15-18.57.07:624][231]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-18.57.08:277][263]Cmd: TRANSACTION UNDO
+[2026.05.15-18.57.08:277][263]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-18.57.12:058][647]Cmd: EDIT COPY
+[2026.05.15-18.57.12:249][668]Cmd: EDIT PASTE
+[2026.05.15-18.57.37:249][ 75]Cmd: EDIT COPY
+[2026.05.15-18.57.37:445][ 90]Cmd: EDIT PASTE
+[2026.05.15-18.58.34:191][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.15-18.58.34:233][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.15-18.58.34:843][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto7
+[2026.05.15-18.58.34:843][603]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto73E0E01BB4ECC7D64870B72B7FF59E1F6.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto7.umap'
+[2026.05.15-18.58.34:847][603]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.728
+[2026.05.15-18.58.34:847][603]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.728
+[2026.05.15-18.59.51:810][767]Cmd: EDIT COPY
+[2026.05.15-18.59.52:035][794]Cmd: EDIT PASTE
+[2026.05.15-19.00.39:908][313]Cmd: EDIT COPY
+[2026.05.15-19.00.40:116][336]Cmd: EDIT PASTE
+[2026.05.15-19.00.44:269][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10052.807617
+[2026.05.15-19.00.44:514][795]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-19.00.44:514][795]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10053.040039, Update Interval: 319.437225
+[2026.05.15-19.00.54:768][964]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.00.57:452][198]Cmd: EDIT COPY
+[2026.05.15-19.00.57:668][214]Cmd: EDIT PASTE
+[2026.05.15-19.03.35:997][766]Cmd: EDIT COPY
+[2026.05.15-19.03.36:228][790]Cmd: EDIT PASTE
+[2026.05.15-19.04.25:752][140]Cmd: TRANSACTION UNDO
+[2026.05.15-19.04.25:752][140]LogEditorTransaction: Undo 배경 클릭
+[2026.05.15-19.04.28:418][395]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.04.38:338][339]Cmd: EDIT COPY
+[2026.05.15-19.04.38:661][376]Cmd: EDIT PASTE
+[2026.05.15-19.05.11:882][129]Cmd: TRANSACTION UNDO
+[2026.05.15-19.05.11:882][129]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.05.12:551][162]Cmd: TRANSACTION UNDO
+[2026.05.15-19.05.12:551][162]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.05.18:126][787]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.05.20:043][960]Cmd: TRANSACTION UNDO
+[2026.05.15-19.05.20:043][960]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.05.28:577][829]Cmd: EDIT COPY
+[2026.05.15-19.05.28:821][856]Cmd: EDIT PASTE
+[2026.05.15-19.05.43:748][573]Cmd: DELETE
+[2026.05.15-19.05.43:748][573]Cmd: ACTOR DELETE
+[2026.05.15-19.05.43:793][573]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.05.43:871][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.05.15-19.05.43:881][573]LogEditorActor: Deleted 1 Actors (0.133 secs)
+[2026.05.15-19.05.44:604][647]Cmd: DELETE
+[2026.05.15-19.05.44:604][647]Cmd: ACTOR DELETE
+[2026.05.15-19.05.44:650][647]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.05.44:720][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.05.44:724][647]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2026.05.15-19.05.44:926][659]Cmd: DELETE
+[2026.05.15-19.05.44:927][659]Cmd: ACTOR DELETE
+[2026.05.15-19.05.44:972][659]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.05.45:040][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.05.45:045][659]LogEditorActor: Deleted 1 Actors (0.118 secs)
+[2026.05.15-19.05.46:172][767]Cmd: DELETE
+[2026.05.15-19.05.46:172][767]Cmd: ACTOR DELETE
+[2026.05.15-19.05.46:220][767]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.05.46:282][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.05.46:287][767]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2026.05.15-19.05.46:997][837]Cmd: DELETE
+[2026.05.15-19.05.46:997][837]Cmd: ACTOR DELETE
+[2026.05.15-19.05.47:044][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.05.47:100][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.05.15-19.05.47:103][837]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2026.05.15-19.06.00:164][307]Cmd: DELETE
+[2026.05.15-19.06.00:164][307]Cmd: ACTOR DELETE
+[2026.05.15-19.06.00:210][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.06.00:264][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.06.00:268][307]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2026.05.15-19.06.00:480][317]Cmd: DELETE
+[2026.05.15-19.06.00:480][317]Cmd: ACTOR DELETE
+[2026.05.15-19.06.00:526][317]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.06.00:602][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.15-19.06.00:607][317]LogEditorActor: Deleted 1 Actors (0.127 secs)
+[2026.05.15-19.06.01:245][377]Cmd: DELETE
+[2026.05.15-19.06.01:245][377]Cmd: ACTOR DELETE
+[2026.05.15-19.06.01:291][377]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.06.01:354][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.06.01:358][377]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2026.05.15-19.06.01:782][412]Cmd: DELETE
+[2026.05.15-19.06.01:782][412]Cmd: ACTOR DELETE
+[2026.05.15-19.06.01:828][412]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.06.01:884][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.06.01:888][412]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2026.05.15-19.06.02:100][421]Cmd: DELETE
+[2026.05.15-19.06.02:100][421]Cmd: ACTOR DELETE
+[2026.05.15-19.06.02:145][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.06.02:217][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.05.15-19.06.02:221][421]LogEditorActor: Deleted 1 Actors (0.122 secs)
+[2026.05.15-19.06.09:391][178]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.06.11:500][383]Cmd: EDIT COPY
+[2026.05.15-19.06.11:720][409]Cmd: EDIT PASTE
+[2026.05.15-19.06.16:240][923]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.06.20:929][439]Cmd: EDIT COPY
+[2026.05.15-19.06.21:124][457]Cmd: EDIT PASTE
+[2026.05.15-19.06.28:043][216]Cmd: DELETE
+[2026.05.15-19.06.28:043][216]Cmd: ACTOR DELETE
+[2026.05.15-19.06.28:089][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.06.28:152][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.05.15-19.06.28:161][216]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2026.05.15-19.06.31:738][618]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.06.39:745][511]Cmd: TRANSACTION UNDO
+[2026.05.15-19.06.39:745][511]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.06.44:936][ 48]Cmd: EDIT COPY
+[2026.05.15-19.06.45:151][ 72]Cmd: EDIT PASTE
+[2026.05.15-19.06.47:565][340]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.06.54:900][142]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10423.407227
+[2026.05.15-19.06.55:132][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-19.06.55:132][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10423.633789, Update Interval: 342.941376
+[2026.05.15-19.07.24:727][517]Cmd: EDIT COPY
+[2026.05.15-19.07.24:935][540]Cmd: EDIT PASTE
+[2026.05.15-19.07.30:312][106]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.07.47:286][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.08.20:061][685]Cmd: EDIT COPY
+[2026.05.15-19.08.20:320][716]Cmd: EDIT PASTE
+[2026.05.15-19.08.58:929][896]Cmd: EDIT COPY
+[2026.05.15-19.08.59:131][920]Cmd: EDIT PASTE
+[2026.05.15-19.10.16:423][438]Cmd: EDIT COPY
+[2026.05.15-19.10.16:611][460]Cmd: EDIT PASTE
+[2026.05.15-19.10.19:157][745]Cmd: EDIT COPY
+[2026.05.15-19.10.19:366][770]Cmd: EDIT PASTE
+[2026.05.15-19.10.46:578][734]Cmd: EDIT COPY
+[2026.05.15-19.10.46:784][757]Cmd: EDIT PASTE
+[2026.05.15-19.10.47:619][844]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.11.20:725][371]Cmd: EDIT COPY
+[2026.05.15-19.11.20:943][397]Cmd: EDIT PASTE
+[2026.05.15-19.11.27:540][161]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.11.50:952][731]Cmd: EDIT COPY
+[2026.05.15-19.11.51:169][757]Cmd: EDIT PASTE
+[2026.05.15-19.12.17:764][591]Cmd: EDIT COPY
+[2026.05.15-19.12.17:989][618]Cmd: EDIT PASTE
+[2026.05.15-19.13.09:685][328]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10798.215820
+[2026.05.15-19.13.09:926][357]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-19.13.09:927][357]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10798.451172, Update Interval: 300.943024
+[2026.05.15-19.13.26:343][154]Cmd: EDIT COPY
+[2026.05.15-19.13.26:552][179]Cmd: EDIT PASTE
+[2026.05.15-19.14.22:420][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.05.15-19.14.22:462][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.15-19.14.23:097][  2]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto8
+[2026.05.15-19.14.23:097][  2]LogSavePackage: Moving 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Main_Auto8DEB3348C4C73131E048EE59ACE0966C9.tmp' to 'F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/Autosaves/Game/Main_Auto8.umap'
+[2026.05.15-19.14.23:101][  2]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.775
+[2026.05.15-19.14.23:101][  2]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.775
+[2026.05.15-19.15.00:409][997]LogDerivedDataCache: C:/Users/ckj86/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.15-19.15.16:363][843]Cmd: EDIT COPY
+[2026.05.15-19.15.16:619][872]Cmd: EDIT PASTE
+[2026.05.15-19.15.45:036][966]Cmd: EDIT COPY
+[2026.05.15-19.15.45:286][996]Cmd: EDIT PASTE
+[2026.05.15-19.16.19:445][820]Cmd: EDIT COPY
+[2026.05.15-19.16.19:687][849]Cmd: EDIT PASTE
+[2026.05.15-19.16.40:250][220]Cmd: TRANSACTION UNDO
+[2026.05.15-19.16.40:250][220]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.16.55:724][748]Cmd: EDIT COPY
+[2026.05.15-19.16.55:950][775]Cmd: EDIT PASTE
+[2026.05.15-19.16.58:365][ 33]Cmd: TRANSACTION UNDO
+[2026.05.15-19.16.58:365][ 33]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.17.20:693][477]Cmd: EDIT COPY
+[2026.05.15-19.17.21:644][555]Cmd: EDIT PASTE
+[2026.05.15-19.17.25:614][994]Cmd: TRANSACTION UNDO
+[2026.05.15-19.17.25:614][994]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.15-19.17.30:574][518]Cmd: TRANSACTION UNDO
+[2026.05.15-19.17.30:574][518]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.15-19.18.59:042][  2]Cmd: EDIT COPY
+[2026.05.15-19.18.59:256][ 26]Cmd: EDIT PASTE
+[2026.05.15-19.19.00:928][209]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11149.545898
+[2026.05.15-19.19.01:161][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-19.19.01:161][238]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11149.769531, Update Interval: 317.064117
+[2026.05.15-19.19.22:719][614]Cmd: TRANSACTION UNDO
+[2026.05.15-19.19.22:719][614]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.19.37:962][218]Cmd: EDIT COPY
+[2026.05.15-19.19.38:619][294]Cmd: EDIT PASTE
+[2026.05.15-19.20.03:456][965]Cmd: EDIT COPY
+[2026.05.15-19.20.03:672][983]Cmd: EDIT PASTE
+[2026.05.15-19.20.09:248][590]Cmd: TRANSACTION UNDO
+[2026.05.15-19.20.09:248][590]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.20.16:737][381]Cmd: TRANSACTION UNDO
+[2026.05.15-19.20.16:737][381]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.20.17:205][393]Cmd: TRANSACTION UNDO
+[2026.05.15-19.20.17:205][393]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.20.17:609][420]Cmd: TRANSACTION UNDO
+[2026.05.15-19.20.17:609][420]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.20.18:034][455]Cmd: TRANSACTION UNDO
+[2026.05.15-19.20.18:034][455]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.20.33:252][133]Cmd: EDIT COPY
+[2026.05.15-19.20.33:465][157]Cmd: EDIT PASTE
+[2026.05.15-19.20.48:489][737]Cmd: EDIT COPY
+[2026.05.15-19.20.48:689][761]Cmd: EDIT PASTE
+[2026.05.15-19.21.04:230][398]Cmd: TRANSACTION UNDO
+[2026.05.15-19.21.04:230][398]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.21.18:584][937]Cmd: TRANSACTION UNDO
+[2026.05.15-19.21.18:584][937]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.21.27:699][793]Cmd: EDIT COPY
+[2026.05.15-19.21.27:907][812]Cmd: EDIT PASTE
+[2026.05.15-19.22.00:803][319]Cmd: EDIT COPY
+[2026.05.15-19.22.00:994][334]Cmd: EDIT PASTE
+[2026.05.15-19.22.02:240][469]Cmd: TRANSACTION UNDO
+[2026.05.15-19.22.02:240][469]LogEditorTransaction: Undo 붙여넣기
+[2026.05.15-19.22.02:330][469]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.22.02:330][469]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.22.02:330][469]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.22.02:330][469]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.22.02:330][469]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.22.02:330][469]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.22.02:330][469]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.22.02:330][469]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.22.02:330][469]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.22.02:341][469]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.22.02:839][492]Cmd: TRANSACTION UNDO
+[2026.05.15-19.22.02:840][492]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.22.06:041][851]Cmd: EDIT COPY
+[2026.05.15-19.22.06:241][875]Cmd: EDIT PASTE
+[2026.05.15-19.22.21:975][507]Cmd: EDIT COPY
+[2026.05.15-19.22.22:178][530]Cmd: EDIT PASTE
+[2026.05.15-19.22.24:221][735]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.22.45:308][147]Cmd: DELETE
+[2026.05.15-19.22.45:308][147]Cmd: ACTOR DELETE
+[2026.05.15-19.22.45:354][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.22.45:447][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.05.15-19.22.45:458][147]LogEditorActor: Deleted 1 Actors (0.150 secs)
+[2026.05.15-19.22.47:489][341]Cmd: EDIT COPY
+[2026.05.15-19.22.47:705][364]Cmd: EDIT PASTE
+[2026.05.15-19.22.54:757][115]Cmd: TRANSACTION UNDO
+[2026.05.15-19.22.54:757][115]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.15-19.22.57:315][369]Cmd: TRANSACTION UNDO
+[2026.05.15-19.22.57:315][369]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.15-19.22.59:734][638]Cmd: TRANSACTION UNDO
+[2026.05.15-19.22.59:734][638]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.15-19.23.07:094][448]Cmd: TRANSACTION UNDO
+[2026.05.15-19.23.07:094][448]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.23.13:320][132]Cmd: DELETE
+[2026.05.15-19.23.13:320][132]Cmd: ACTOR DELETE
+[2026.05.15-19.23.13:320][132]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.05.15-19.23.13:364][132]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.23.13:430][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.05.15-19.23.13:439][132]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2026.05.15-19.23.27:136][757]Cmd: EDIT COPY
+[2026.05.15-19.23.27:328][780]Cmd: EDIT PASTE
+[2026.05.15-19.23.46:539][989]Cmd: DELETE
+[2026.05.15-19.23.46:539][989]Cmd: ACTOR DELETE
+[2026.05.15-19.23.46:583][989]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.23.46:658][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.15-19.23.46:663][989]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2026.05.15-19.23.46:666][989]LogStreaming: Display: FlushAsyncLoading(424): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.15-19.23.46:706][989]LogStaticMesh: Display: SM_ColorCalibrator스태틱 메시 빌드 중(필요 메모리 예상: 59.138803MB)...
+[2026.05.15-19.23.46:845][  3]LogStaticMesh: Built static mesh [0.14s] /Engine/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.SM_ColorCalibrator
+[2026.05.15-19.24.10:140][508]Cmd: EDIT COPY
+[2026.05.15-19.24.10:356][534]Cmd: EDIT PASTE
+[2026.05.15-19.24.26:785][342]Cmd: DELETE
+[2026.05.15-19.24.26:785][342]Cmd: ACTOR DELETE
+[2026.05.15-19.24.26:830][342]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.24.26:920][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.15-19.24.26:926][342]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2026.05.15-19.24.42:131][153]Cmd: EDIT COPY
+[2026.05.15-19.24.42:345][177]Cmd: EDIT PASTE
+[2026.05.15-19.24.49:569][941]Cmd: DELETE
+[2026.05.15-19.24.49:569][941]Cmd: ACTOR DELETE
+[2026.05.15-19.24.49:613][941]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.24.49:683][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.05.15-19.24.49:690][941]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2026.05.15-19.25.11:697][292]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11520.599609
+[2026.05.15-19.25.11:939][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-19.25.11:939][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11520.832031, Update Interval: 311.843628
+[2026.05.15-19.25.46:380][ 36]Cmd: EDIT COPY
+[2026.05.15-19.25.46:630][ 66]Cmd: EDIT PASTE
+[2026.05.15-19.26.09:592][616]Cmd: TRANSACTION UNDO
+[2026.05.15-19.26.09:592][616]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.26.16:508][254]Cmd: EDIT COPY
+[2026.05.15-19.26.16:713][277]Cmd: EDIT PASTE
+[2026.05.15-19.26.55:655][732]Cmd: TRANSACTION UNDO
+[2026.05.15-19.26.55:655][732]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.27.16:984][ 21]Cmd: EDIT COPY
+[2026.05.15-19.27.17:189][ 44]Cmd: EDIT PASTE
+[2026.05.15-19.27.58:643][396]Cmd: EDIT COPY
+[2026.05.15-19.27.58:848][416]Cmd: EDIT PASTE
+[2026.05.15-19.28.48:849][931]Cmd: EDIT COPY
+[2026.05.15-19.28.49:045][953]Cmd: EDIT PASTE
+[2026.05.15-19.29.10:546][338]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.29.18:329][235]Cmd: MODE GRID=0
+[2026.05.15-19.29.25:050][973]Cmd: MODE GRID=1
+[2026.05.15-19.29.33:982][934]Cmd: EDIT COPY
+[2026.05.15-19.29.34:177][951]Cmd: EDIT PASTE
+[2026.05.15-19.29.37:274][306]Cmd: EDIT COPY
+[2026.05.15-19.29.37:495][331]Cmd: EDIT PASTE
+[2026.05.15-19.29.40:753][644]Cmd: DELETE
+[2026.05.15-19.29.40:753][644]Cmd: ACTOR DELETE
+[2026.05.15-19.29.40:797][644]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.29.40:901][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.05.15-19.29.40:911][644]LogEditorActor: Deleted 1 Actors (0.157 secs)
+[2026.05.15-19.29.51:697][827]Cmd: MODE GRID=0
+[2026.05.15-19.30.16:307][488]Cmd: EDIT COPY
+[2026.05.15-19.30.16:507][506]Cmd: EDIT PASTE
+[2026.05.15-19.30.25:997][519]Cmd: MODE GRID=1
+[2026.05.15-19.30.48:486][ 86]Cmd: DELETE
+[2026.05.15-19.30.48:486][ 86]Cmd: ACTOR DELETE
+[2026.05.15-19.30.48:531][ 86]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.30.48:613][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.05.15-19.30.48:621][ 86]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2026.05.15-19.30.49:563][183]Cmd: DELETE
+[2026.05.15-19.30.49:563][183]Cmd: ACTOR DELETE
+[2026.05.15-19.30.49:609][183]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.30.49:719][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.30.49:724][183]LogEditorActor: Deleted 1 Actors (0.161 secs)
+[2026.05.15-19.30.50:209][228]Cmd: DELETE
+[2026.05.15-19.30.50:209][228]Cmd: ACTOR DELETE
+[2026.05.15-19.30.50:253][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.30.50:325][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.15-19.30.50:330][228]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2026.05.15-19.30.51:051][295]Cmd: DELETE
+[2026.05.15-19.30.51:051][295]Cmd: ACTOR DELETE
+[2026.05.15-19.30.51:095][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.30.51:166][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.30.51:170][295]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2026.05.15-19.30.52:733][460]Cmd: EDIT COPY
+[2026.05.15-19.30.52:945][484]Cmd: EDIT PASTE
+[2026.05.15-19.30.59:810][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11868.882812
+[2026.05.15-19.31.00:035][238]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-19.31.00:035][238]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11869.100586, Update Interval: 316.650299
+[2026.05.15-19.31.08:022][ 56]Cmd: EDIT COPY
+[2026.05.15-19.31.08:223][ 80]Cmd: EDIT PASTE
+[2026.05.15-19.31.33:082][920]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.31.50:457][812]Cmd: EDIT COPY
+[2026.05.15-19.31.50:631][822]Cmd: EDIT PASTE
+[2026.05.15-19.31.55:706][361]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.32.23:066][342]Cmd: EDIT COPY
+[2026.05.15-19.32.23:267][366]Cmd: EDIT PASTE
+[2026.05.15-19.32.26:953][790]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.32.30:654][180]Cmd: TRANSACTION UNDO
+[2026.05.15-19.32.30:654][180]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.32.36:408][719]Cmd: EDIT COPY
+[2026.05.15-19.32.36:592][741]Cmd: EDIT PASTE
+[2026.05.15-19.32.42:228][348]Cmd: DELETE
+[2026.05.15-19.32.42:228][348]Cmd: ACTOR DELETE
+[2026.05.15-19.32.42:273][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.32.42:376][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.05.15-19.32.42:385][348]LogEditorActor: Deleted 1 Actors (0.158 secs)
+[2026.05.15-19.32.45:701][721]Cmd: TRANSACTION UNDO
+[2026.05.15-19.32.45:701][721]LogEditorTransaction: Undo 엘리먼트 삭제
+[2026.05.15-19.32.45:769][721]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.32.45:769][721]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.32.45:769][721]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.32.45:769][721]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.32.45:769][721]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.32.45:769][721]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.32.45:769][721]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.32.45:769][721]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.32.45:769][721]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.32.45:822][721]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.32.46:578][760]Cmd: DELETE
+[2026.05.15-19.32.46:578][760]Cmd: ACTOR DELETE
+[2026.05.15-19.32.46:624][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.32.46:696][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.32.46:705][760]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2026.05.15-19.32.46:861][765]Cmd: DELETE
+[2026.05.15-19.32.46:861][765]Cmd: ACTOR DELETE
+[2026.05.15-19.32.46:906][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.32.46:983][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.32.46:988][765]LogEditorActor: Deleted 1 Actors (0.125 secs)
+[2026.05.15-19.33.46:812][197]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.34.41:600][235]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.34.58:690][  1]Cmd: EDIT COPY
+[2026.05.15-19.34.58:927][ 28]Cmd: EDIT PASTE
+[2026.05.15-19.35.00:271][176]Cmd: TRANSACTION UNDO
+[2026.05.15-19.35.00:271][176]LogEditorTransaction: Undo 붙여넣기
+[2026.05.15-19.35.00:359][176]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.35.00:359][176]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.35.00:359][176]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.35.00:359][176]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.35.00:359][176]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.35.00:359][176]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.35.00:359][176]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.35.00:359][176]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.35.00:359][176]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.35.00:370][176]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.35.26:436][115]Cmd: TRANSACTION UNDO
+[2026.05.15-19.35.26:436][115]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.35.30:482][519]Cmd: TRANSACTION UNDO
+[2026.05.15-19.35.30:482][519]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.35.30:738][523]Cmd: TRANSACTION UNDO
+[2026.05.15-19.35.30:738][523]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.35.30:959][526]Cmd: TRANSACTION UNDO
+[2026.05.15-19.35.30:959][526]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.35.31:214][536]Cmd: TRANSACTION UNDO
+[2026.05.15-19.35.31:214][536]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.35.31:451][560]Cmd: TRANSACTION UNDO
+[2026.05.15-19.35.31:451][560]LogEditorTransaction: Undo 배경 클릭
+[2026.05.15-19.35.31:712][580]Cmd: TRANSACTION UNDO
+[2026.05.15-19.35.31:712][580]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.35.32:109][619]Cmd: TRANSACTION UNDO
+[2026.05.15-19.35.32:109][619]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.35.32:400][645]Cmd: TRANSACTION UNDO
+[2026.05.15-19.35.32:400][645]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.35.32:773][681]Cmd: TRANSACTION UNDO
+[2026.05.15-19.35.32:773][681]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.35.49:327][518]Cmd: TRANSACTION UNDO
+[2026.05.15-19.35.49:327][518]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.35.50:891][652]Cmd: EDIT COPY
+[2026.05.15-19.35.51:091][676]Cmd: EDIT PASTE
+[2026.05.15-19.35.55:517][176]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.36.12:394][972]Cmd: EDIT COPY
+[2026.05.15-19.36.12:576][989]Cmd: EDIT PASTE
+[2026.05.15-19.36.23:682][146]Cmd: TRANSACTION UNDO
+[2026.05.15-19.36.23:682][146]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.36.23:937][150]Cmd: TRANSACTION UNDO
+[2026.05.15-19.36.23:937][150]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.36.24:414][177]Cmd: TRANSACTION UNDO
+[2026.05.15-19.36.24:414][177]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.36.35:698][452]Cmd: EDIT COPY
+[2026.05.15-19.36.35:896][474]Cmd: EDIT PASTE
+[2026.05.15-19.36.39:048][839]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.36.59:254][  6]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12228.485352
+[2026.05.15-19.36.59:539][ 21]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-19.36.59:539][ 21]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12228.745117, Update Interval: 327.490479
+[2026.05.15-19.36.59:900][ 47]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.37.03:544][387]Cmd: TRANSACTION UNDO
+[2026.05.15-19.37.03:544][387]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.37.04:073][398]Cmd: TRANSACTION UNDO
+[2026.05.15-19.37.04:073][398]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.37.10:866][ 36]Cmd: EDIT COPY
+[2026.05.15-19.37.11:064][ 55]Cmd: EDIT PASTE
+[2026.05.15-19.37.19:513][966]Cmd: TRANSACTION UNDO
+[2026.05.15-19.37.19:513][966]LogEditorTransaction: Undo 엘리먼트 회전
+[2026.05.15-19.37.19:896][973]Cmd: TRANSACTION UNDO
+[2026.05.15-19.37.19:896][973]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.37.20:063][975]Cmd: TRANSACTION UNDO
+[2026.05.15-19.37.20:063][975]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.37.20:224][983]Cmd: TRANSACTION UNDO
+[2026.05.15-19.37.20:224][983]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.37.20:406][996]Cmd: TRANSACTION UNDO
+[2026.05.15-19.37.20:407][996]LogEditorTransaction: Undo 붙여넣기
+[2026.05.15-19.37.20:491][996]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.37.20:491][996]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.37.20:491][996]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.37.20:491][996]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.37.20:491][996]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.37.20:491][996]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.37.20:491][996]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.37.20:491][996]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.37.20:491][996]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.37.20:502][996]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.37.20:596][  1]Cmd: TRANSACTION UNDO
+[2026.05.15-19.37.20:596][  1]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.37.20:901][ 23]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.37.23:571][287]Cmd: TRANSACTION UNDO
+[2026.05.15-19.37.23:571][287]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.37.30:233][875]Cmd: TRANSACTION UNDO
+[2026.05.15-19.37.30:233][875]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.37.30:909][894]Cmd: EDIT COPY
+[2026.05.15-19.37.31:095][907]Cmd: EDIT PASTE
+[2026.05.15-19.38.58:448][771]Cmd: DELETE
+[2026.05.15-19.38.58:448][771]Cmd: ACTOR DELETE
+[2026.05.15-19.38.58:493][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.38.58:603][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.05.15-19.38.58:615][771]LogEditorActor: Deleted 1 Actors (0.166 secs)
+[2026.05.15-19.39.04:344][425]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.39.40:430][388]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.40.07:112][200]Cmd: EDIT COPY
+[2026.05.15-19.40.07:291][217]Cmd: EDIT PASTE
+[2026.05.15-19.40.18:739][456]Cmd: TRANSACTION UNDO
+[2026.05.15-19.40.18:739][456]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.40.22:500][827]Cmd: TRANSACTION UNDO
+[2026.05.15-19.40.22:500][827]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.40.28:911][413]Cmd: TRANSACTION UNDO
+[2026.05.15-19.40.28:911][413]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.41.10:021][801]Cmd: TRANSACTION UNDO
+[2026.05.15-19.41.10:021][801]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.41.10:294][806]Cmd: TRANSACTION UNDO
+[2026.05.15-19.41.10:294][806]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.41.10:417][807]Cmd: TRANSACTION UNDO
+[2026.05.15-19.41.10:417][807]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.41.10:726][822]Cmd: TRANSACTION UNDO
+[2026.05.15-19.41.10:726][822]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.41.33:890][320]Cmd: EDIT COPY
+[2026.05.15-19.41.34:099][345]Cmd: EDIT PASTE
+[2026.05.15-19.41.57:223][770]Cmd: EDIT COPY
+[2026.05.15-19.41.57:423][794]Cmd: EDIT PASTE
+[2026.05.15-19.42.03:614][459]Cmd: TRANSACTION UNDO
+[2026.05.15-19.42.03:614][459]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.42.22:025][481]Cmd: DELETE
+[2026.05.15-19.42.22:025][481]Cmd: ACTOR DELETE
+[2026.05.15-19.42.22:071][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.42.22:149][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.05.15-19.42.22:157][481]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2026.05.15-19.42.29:351][264]Cmd: TRANSACTION UNDO
+[2026.05.15-19.42.29:351][264]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.42.43:154][761]Cmd: TRANSACTION UNDO
+[2026.05.15-19.42.43:154][761]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.42.43:665][772]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.42.56:809][288]Cmd: TRANSACTION UNDO
+[2026.05.15-19.42.56:809][288]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.05.15-19.43.02:180][873]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12591.553711
+[2026.05.15-19.43.02:413][901]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-19.43.02:414][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12591.780273, Update Interval: 326.609711
+[2026.05.15-19.43.10:963][848]Cmd: EDIT COPY
+[2026.05.15-19.43.11:172][873]Cmd: EDIT PASTE
+[2026.05.15-19.43.28:376][767]Cmd: EDIT COPY
+[2026.05.15-19.43.28:593][793]Cmd: EDIT PASTE
+[2026.05.15-19.44.15:406][880]Cmd: EDIT COPY
+[2026.05.15-19.44.15:606][889]Cmd: EDIT PASTE
+[2026.05.15-19.44.57:096][973]Cmd: EDIT COPY
+[2026.05.15-19.44.57:298][986]Cmd: EDIT PASTE
+[2026.05.15-19.45.34:692][  1]Cmd: TRANSACTION UNDO
+[2026.05.15-19.45.34:692][  1]LogEditorTransaction: Undo 배경 클릭
+[2026.05.15-19.45.35:316][ 27]Cmd: TRANSACTION UNDO
+[2026.05.15-19.45.35:316][ 27]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.05.15-19.45.41:225][591]Cmd: EDIT COPY
+[2026.05.15-19.45.41:437][605]Cmd: EDIT PASTE
+[2026.05.15-19.45.49:611][460]Cmd: EDIT COPY
+[2026.05.15-19.45.49:799][471]Cmd: EDIT PASTE
+[2026.05.15-19.45.54:941][995]Cmd: EDIT COPY
+[2026.05.15-19.45.55:133][ 18]Cmd: EDIT PASTE
+[2026.05.15-19.46.15:748][337]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.46.40:529][110]Cmd: EDIT COPY
+[2026.05.15-19.46.40:746][136]Cmd: EDIT PASTE
+[2026.05.15-19.46.45:034][629]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.15-19.46.54:860][610]Cmd: EDIT COPY
+[2026.05.15-19.46.55:052][633]Cmd: EDIT PASTE
+[2026.05.15-19.47.00:699][231]Cmd: EDIT COPY
+[2026.05.15-19.47.00:884][253]Cmd: EDIT PASTE
+[2026.05.15-19.47.17:382][  0]Cmd: EDIT COPY
+[2026.05.15-19.47.17:613][ 26]Cmd: EDIT PASTE
+[2026.05.15-19.47.26:819][975]Cmd: EDIT COPY
+[2026.05.15-19.47.27:035][  1]Cmd: EDIT PASTE
+[2026.05.15-19.48.13:646][199]Cmd: EDIT COPY
+[2026.05.15-19.48.13:862][210]Cmd: EDIT PASTE
+[2026.05.15-19.48.27:797][678]Cmd: EDIT COPY
+[2026.05.15-19.48.27:997][702]Cmd: EDIT PASTE
+[2026.05.15-19.48.38:257][687]Cmd: EDIT COPY
+[2026.05.15-19.48.38:496][711]Cmd: EDIT PASTE
+[2026.05.15-19.48.46:250][607]Cmd: EDIT COPY
+[2026.05.15-19.48.46:884][683]Cmd: EDIT PASTE
+[2026.05.15-19.48.52:141][296]Cmd: DELETE
+[2026.05.15-19.48.52:141][296]Cmd: ACTOR DELETE
+[2026.05.15-19.48.52:187][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.48.52:299][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.05.15-19.48.52:310][296]LogEditorActor: Deleted 1 Actors (0.168 secs)
+[2026.05.15-19.48.59:939][122]Cmd: EDIT COPY
+[2026.05.15-19.49.00:156][148]Cmd: EDIT PASTE
+[2026.05.15-19.49.00:216][148]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12949.750000
+[2026.05.15-19.49.00:468][176]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-19.49.00:468][176]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12949.994141, Update Interval: 333.057037
+[2026.05.15-19.49.33:413][612]Cmd: EDIT COPY
+[2026.05.15-19.49.33:618][635]Cmd: EDIT PASTE
+[2026.05.15-19.50.09:336][535]Cmd: EDIT COPY
+[2026.05.15-19.50.09:528][558]Cmd: EDIT PASTE
+[2026.05.15-19.51.07:163][830]Cmd: DELETE
+[2026.05.15-19.51.07:163][830]Cmd: ACTOR DELETE
+[2026.05.15-19.51.07:208][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.51.07:350][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.05.15-19.51.07:359][830]LogEditorActor: Deleted 1 Actors (0.196 secs)
+[2026.05.15-19.51.07:512][840]Cmd: DELETE
+[2026.05.15-19.51.07:512][840]Cmd: ACTOR DELETE
+[2026.05.15-19.51.07:557][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.51.07:655][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.51.07:659][840]LogEditorActor: Deleted 1 Actors (0.146 secs)
+[2026.05.15-19.51.08:159][886]Cmd: DELETE
+[2026.05.15-19.51.08:159][886]Cmd: ACTOR DELETE
+[2026.05.15-19.51.08:204][886]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.51.08:288][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.51.08:291][886]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2026.05.15-19.51.11:754][288]Cmd: TRANSACTION UNDO
+[2026.05.15-19.51.11:754][288]LogEditorTransaction: Undo 엘리먼트를 바닥에 스냅
+[2026.05.15-19.51.13:196][415]Cmd: DELETE
+[2026.05.15-19.51.13:196][415]Cmd: ACTOR DELETE
+[2026.05.15-19.51.13:241][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.51.13:327][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.15-19.51.13:332][415]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2026.05.15-19.51.16:872][785]Cmd: DELETE
+[2026.05.15-19.51.16:872][785]Cmd: ACTOR DELETE
+[2026.05.15-19.51.16:917][785]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.51.17:002][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.51.17:006][785]LogEditorActor: Deleted 1 Actors (0.133 secs)
+[2026.05.15-19.51.17:201][791]Cmd: DELETE
+[2026.05.15-19.51.17:201][791]Cmd: ACTOR DELETE
+[2026.05.15-19.51.17:246][791]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.51.17:334][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.51.17:338][791]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2026.05.15-19.51.18:033][859]Cmd: DELETE
+[2026.05.15-19.51.18:033][859]Cmd: ACTOR DELETE
+[2026.05.15-19.51.18:078][859]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.51.18:165][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.51.18:169][859]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2026.05.15-19.51.20:319][112]Cmd: TRANSACTION UNDO
+[2026.05.15-19.51.20:319][112]LogEditorTransaction: Undo 엘리먼트 삭제
+[2026.05.15-19.51.20:388][112]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.51.20:388][112]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.51.20:388][112]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.51.20:388][112]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.51.20:388][112]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.51.20:388][112]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.51.20:388][112]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.51.20:388][112]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.51.20:388][112]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.51.20:401][112]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.51.40:856][345]Cmd: EDIT COPY
+[2026.05.15-19.51.41:075][370]Cmd: EDIT PASTE
+[2026.05.15-19.52.17:583][368]Cmd: DELETE
+[2026.05.15-19.52.17:583][368]Cmd: ACTOR DELETE
+[2026.05.15-19.52.17:628][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.52.17:765][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.15-19.52.17:774][368]LogEditorActor: Deleted 1 Actors (0.192 secs)
+[2026.05.15-19.52.18:251][412]Cmd: DELETE
+[2026.05.15-19.52.18:251][412]Cmd: ACTOR DELETE
+[2026.05.15-19.52.18:297][412]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.52.18:384][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.15-19.52.18:388][412]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2026.05.15-19.52.19:935][583]Cmd: TRANSACTION UNDO
+[2026.05.15-19.52.19:935][583]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.05.15-19.52.20:445][603]Cmd: TRANSACTION UNDO
+[2026.05.15-19.52.20:445][603]LogEditorTransaction: Undo 엘리먼트 삭제
+[2026.05.15-19.52.20:507][603]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.52.20:507][603]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.52.20:507][603]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.52.20:507][603]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.52.20:507][603]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.52.20:507][603]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.52.20:507][603]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.52.20:507][603]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.52.20:507][603]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.52.20:560][603]LogStaticMesh: Warning: Invalid material [glass_Inst] used on Nanite static mesh [pCube56]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.15-19.53.05:877][544]Cmd: EDIT COPY
+[2026.05.15-19.53.06:083][559]Cmd: EDIT PASTE
+[2026.05.15-19.53.25:088][705]Cmd: DELETE
+[2026.05.15-19.53.25:088][705]Cmd: ACTOR DELETE
+[2026.05.15-19.53.25:136][705]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-19.53.25:271][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.15-19.53.25:280][705]LogEditorActor: Deleted 1 Actors (0.191 secs)
+[2026.05.15-19.54.41:688][984]Cmd: EDIT COPY
+[2026.05.15-19.54.41:888][  8]Cmd: EDIT PASTE
+[2026.05.15-19.55.25:637][990]Cmd: EDIT COPY
+[2026.05.15-19.55.25:829][ 13]Cmd: EDIT PASTE
+[2026.05.15-19.55.31:039][586]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13340.842773
+[2026.05.15-19.55.31:271][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-19.55.31:271][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13341.064453, Update Interval: 342.503723
+[2026.05.15-19.55.32:170][722]Cmd: EDIT COPY
+[2026.05.15-19.55.32:362][745]Cmd: EDIT PASTE
