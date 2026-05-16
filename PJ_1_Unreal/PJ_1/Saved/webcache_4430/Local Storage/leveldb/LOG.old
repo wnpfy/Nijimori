@@ -1,2 +1,3 @@
-2026/04/30-00:44:37.366 9158 Creating DB F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/30-00:44:37.381 9158 Reusing MANIFEST F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/05-11:43:00.923 8280 Reusing MANIFEST F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/05-11:43:00.928 8280 Recovering log #3
+2026/05/05-11:43:00.928 8280 Reusing old log F:/Nijimori/PJ_1_Unreal/PJ_1/Saved/webcache_4430\Local Storage\leveldb/000003.log 
